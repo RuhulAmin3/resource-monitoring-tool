@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resource Monitoring API Docs</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 50px;
+        }
+
+        .logo {
+            font-size: 3em;
+            margin-bottom: 15px;
+        }
+
+        header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            font-weight: 700;
+            text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        header p {
+            font-size: 1.1em;
+            opacity: 0.95;
+            margin-bottom: 20px;
+        }
+
+        .version-badge {
+            display: inline-block;
+            background: rgba(255, 255, 255, 0.2);
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-size: 0.9em;
+            backdrop-filter: blur(10px);
+        }
+
+        .api-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+            gap: 30px;
+            margin-bottom: 50px;
+        }
+
+        .api-card {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15);
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .api-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+        }
+
+        .api-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 30px 80px rgba(0, 0, 0, 0.2);
+        }
+
+        .api-method {
+            display: inline-block;
+            padding: 5px 12px;
+            border-radius: 5px;
+            font-weight: 700;
+            font-size: 0.85em;
+            margin-bottom: 15px;
+            letter-spacing: 1px;
+        }
+
+        .method-get {
+            background: #e3f2fd;
+            color: #1976d2;
+        }
+
+        .method-post {
+            background: #f3e5f5;
+            color: #7b1fa2;
+        }
+
+        .api-endpoint {
+            font-family: 'Monaco', 'Courier New', monospace;
+            background: #f5f5f5;
+            padding: 12px 15px;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            word-break: break-all;
+            font-size: 0.95em;
+            color: #333;
+            border-left: 3px solid #667eea;
+        }
+
+        .api-title {
+            font-size: 1.4em;
+            font-weight: 700;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .api-description {
+            color: #666;
+            margin-bottom: 20px;
+            line-height: 1.6;
+        }
+
+        .api-details {
+            margin: 20px 0;
+        }
+
+        .detail-section {
+            margin-bottom: 15px;
+        }
+
+        .detail-label {
+            font-weight: 600;
+            color: #667eea;
+            font-size: 0.9em;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 8px;
+        }
+
+        .response-box {
+            background: #f9f9f9;
+            padding: 12px;
+            border-radius: 8px;
+            font-family: 'Monaco', monospace;
+            font-size: 0.85em;
+            color: #333;
+            border: 1px solid #e0e0e0;
+            overflow-x: auto;
+        }
+
+        .btn-group {
+            display: flex;
+            gap: 10px;
+            margin-top: 20px;
+        }
+
+        .btn {
+            flex: 1;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 0.95em;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(102, 126, 234, 0.3);
+        }
+
+        .btn-secondary {
+            background: white;
+            color: #667eea;
+            border: 2px solid #667eea;
+        }
+
+        .btn-secondary:hover {
+            background: #667eea;
+            color: white;
+        }
+
+        .dashboard-btn {
+            background: linear-gradient(135deg, #4ade80 0%, #22c55e 100%);
+            color: white;
+            text-decoration: none;
+            padding: 15px 40px;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 1.1em;
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 50px;
+            transition: all 0.3s ease;
+        }
+
+        .dashboard-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 15px 40px rgba(74, 222, 128, 0.3);
+        }
+
+        .stats {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 50px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15);
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+        }
+
+        .stat {
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            border-radius: 10px;
+            color: white;
+            text-align: center;
+        }
+
+        .stat-value {
+            font-size: 2em;
+            font-weight: 700;
+            margin-bottom: 5px;
+        }
+
+        .stat-label {
+            font-size: 0.9em;
+            opacity: 0.9;
+        }
+
+        footer {
+            text-align: center;
+            color: white;
+            margin-top: 50px;
+            padding-top: 30px;
+            border-top: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        footer p {
+            opacity: 0.8;
+        }
+
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 1.8em;
+            }
+
+            .api-grid {
+                grid-template-columns: 1fr;
+                gap: 20px;
+            }
+
+            .btn-group {
+                flex-direction: column;
+            }
+
+            .btn {
+                width: 100%;
+            }
+        }
+
+        .icon {
+            font-size: 1.2em;
+        }
+
+        .tag {
+            display: inline-block;
+            background: #e0e7ff;
+            color: #667eea;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.85em;
+            font-weight: 600;
+            margin-right: 8px;
+        }
+
+        .tag-realtime {
+            background: #dbeafe;
+            color: #0369a1;
+        }
+
+        .tag-monitor {
+            background: #fce7f3;
+            color: #be185d;
+        }
+
+        .tag-heavy {
+            background: #fed7aa;
+            color: #9a3412;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">📡</div>
+            <h1>Resource Monitoring API</h1>
+            <p>Real-time system performance monitoring with Socket.IO</p>
+        </header>
+
+        <div style="text-align: center; margin-bottom: 30px;">
+            <a href="/api/resource-monitor" class="dashboard-btn" target="_blank">
+                <span class="icon">📊</span>
+                Go to Dashboard
+            </a>
+        </div>
+
+        <div class="stats">
+            <div class="stats-grid">
+                <div class="stat">
+                    <div class="stat-value">4</div>
+                    <div class="stat-label">API Endpoints</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-value">✅</div>
+                    <div class="stat-label">All Systems Active</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-value">⚡</div>
+                    <div class="stat-label">Real-time Updates</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-value">🔌</div>
+                    <div class="stat-label">Socket.IO Enabled</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="api-grid">
+            <!-- Dashboard Route -->
+            <div class="api-card">
+                <span class="api-method method-get">GET</span>
+                <div class="api-title">Real-Time Dashboard</div>
+                <div class="api-endpoint">/api/resource-monitor</div>
+                <div class="api-description">
+                    Access the interactive real-time monitoring dashboard with live charts powered by Socket.IO.
+                </div>
+                <div class="api-details">
+                    <div class="detail-section">
+                        <div class="detail-label">Tags</div>
+                        <span class="tag tag-realtime">Real-Time</span>
+                        <span class="tag tag-monitor">Monitoring</span>
+                    </div>
+                    <div class="detail-section">
+                        <div class="detail-label">Response</div>
+                        <div class="response-box">HTML Dashboard with WebSocket</div>
+                    </div>
+                </div>
+                <div class="btn-group">
+                    <button class="btn btn-primary" onclick="openInNewTab('/api/resource-monitor')">
+                        <span class="icon">🚀</span>
+                        Open
+                    </button>
+                </div>
+            </div>
+
+            <!-- Health Check Route -->
+            <div class="api-card">
+                <span class="api-method method-get">GET</span>
+                <div class="api-title">Health Check</div>
+                <div class="api-endpoint">/health</div>
+                <div class="api-description">
+                    Simple health check endpoint to verify the server is running and operational.
+                </div>
+                <div class="api-details">
+                    <div class="detail-section">
+                        <div class="detail-label">Response</div>
+                        <div class="response-box">
+                            {
+                            "status": "Server is running"
+                            }
+                        </div>
+                    </div>
+                </div>
+                <div class="btn-group">
+                    <button class="btn btn-primary" onclick="openInNewTab('/health')">
+                        <span class="icon">✅</span>
+                        Test
+                    </button>
+                </div>
+            </div>
+
+            <!-- Resource Data API -->
+            <div class="api-card">
+                <span class="api-method method-get">GET</span>
+                <div class="api-title">Resource Data (REST)</div>
+                <div class="api-endpoint">/api/resource-data</div>
+                <div class="api-description">
+                    Get the latest 60 resource metrics as JSON. (Fallback for non-WebSocket clients)
+                </div>
+                <div class="api-details">
+                    <div class="detail-section">
+                        <div class="detail-label">Tags</div>
+                        <span class="tag tag-monitor">Monitoring</span>
+                    </div>
+                    <div class="detail-section">
+                        <div class="detail-label">Returns</div>
+                        <div class="response-box">
+                            {
+                            "memoryUsage": [...],
+                            "cpuUser": [...],
+                            "cpuSystem": [...],
+                            "uptime": [...],
+                            "timestamps": [...]
+                            }
+                        </div>
+                    </div>
+                </div>
+                <div class="btn-group">
+                    <button class="btn btn-primary" onclick="openInNewTab('/api/resource-data')">
+                        <span class="icon">📊</span>
+                        Fetch
+                    </button>
+                </div>
+            </div>
+
+            <!-- Heavy Task Route -->
+            <div class="api-card">
+                <span class="api-method method-get">GET</span>
+                <div class="api-title">Heavy Task Simulator</div>
+                <div class="api-endpoint">/heavy-task</div>
+                <div class="api-description">
+                    Simulates a CPU-intensive task to test resource monitoring. Perfect for seeing metrics spike!
+                </div>
+                <div class="api-details">
+                    <div class="detail-section">
+                        <div class="detail-label">Tags</div>
+                        <span class="tag tag-heavy">Heavy Load</span>
+                        <span class="tag tag-monitor">Testing</span>
+                    </div>
+                    <div class="detail-section">
+                        <div class="detail-label">Response</div>
+                        <div class="response-box">
+                            {
+                            "result": 4999999950000000
+                            }
+                        </div>
+                    </div>
+                    <div class="detail-section">
+                        <div class="detail-label">⚠️ Warning</div>
+                        <div style="color: #d32f2f; font-size: 0.9em;">
+                            This endpoint performs intensive computation and may cause CPU/Memory spikes. Use for
+                            testing only.
+                        </div>
+                    </div>
+                </div>
+                <div class="btn-group">
+                    <button class="btn btn-primary" onclick="openInNewTab('/heavy-task')"
+                        style="background: linear-gradient(135deg, #ff6b6b 0%, #d32f2f 100%);">
+                        <span class="icon">⚡</span>
+                        Trigger
+                    </button>
+                    <button class="btn btn-secondary"
+                        onclick="alert('⚠️ This will cause high CPU and Memory usage. Click Trigger to proceed.')">
+                        <span class="icon">ℹ️</span>
+                        Info
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <p>🔐 All endpoints are publicly accessible</p>
+            <p style="margin-top: 15px; opacity: 0.6; font-size: 0.9em;">
+                Built with Express.js, Socket.IO, and Chart.js | Real-time Resource Monitoring
+            </p>
+        </footer>
+    </div>
+
+    <script>
+        function openInNewTab(url) {
+            window.open(url, '_blank');
+        }
+    </script>
+</body>
+
+</html>

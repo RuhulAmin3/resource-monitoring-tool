@@ -31,7 +31,6 @@ attachSocketListener(io);
 // Socket.IO connection handling
 io.on('connection', (socket) => {
     console.log(`Client connected: ${socket.id}`);
-
     // Send initial data to newly connected client
     try {
         const initialData = getResourceData();
@@ -52,7 +51,7 @@ app.get('/api/resource-monitor', (req, res) => {
 });
 
 app.get('/', (req, res) => {
-    // res.render('index');
+    res.render('api-docs');
 });
 
 app.get('/health', (req, res) => {
