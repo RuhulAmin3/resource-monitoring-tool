@@ -1,6 +1,6 @@
 # 📊 Resource Monitoring Tool
 
-![Project Dashboard](![alt text](./assets/image.png))
+(![alt text](./assets/image.png))
 
 A real-time system resource monitoring dashboard built with **Node.js**, **Express.js**, **Socket.IO**, **Chart.js**, and **EJS**. Features a clean MVC architecture, real-time bidirectional communication, and beautiful responsive UI.
 
@@ -50,8 +50,6 @@ A real-time system resource monitoring dashboard built with **Node.js**, **Expre
 | GET | `/api/resource-monitor` | Real-time dashboard with charts |
 | GET | `/health` | Health check endpoint |
 | GET | `/api/resource-data` | Get latest resource metrics (JSON) |
-| GET | `/api/statistics` | Get aggregated statistics |
-| GET | `/api/metrics/count` | Get total metrics count |
 | GET | `/heavy-task` | Trigger CPU-intensive operation (for testing) |
 
 ### Example Response: `/api/resource-data`
