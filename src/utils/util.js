@@ -4,7 +4,6 @@ let io = null;
 
 export const saveMemoryUsage = (socketIO) => {
     io = socketIO;
-
     setInterval(() => {
         const data = {
             memoryUsage: (process.memoryUsage().rss / (1024 * 1024)).toFixed(2),

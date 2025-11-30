@@ -1,7 +1,8 @@
 import express from 'express';
-import { saveMemoryUsage, getResourceData, attachSocketListener } from './util.js';
+import { saveMemoryUsage, getResourceData, attachSocketListener } from './src/utils/util.js';
 import { createServer } from 'http';
 import { Server } from 'socket.io';
+import { heavyTask } from './src/controllers/resource-monitor.controller.js';
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -17,7 +18,7 @@ const io = new Server(httpServer, {
 
 // Set up EJS as the view engine
 app.set('view engine', 'ejs');
-app.set('views', './views');
+app.set('views', "./src/views");
 
 // Middleware
 app.use(express.json());
@@ -59,27 +60,10 @@ app.get('/health', (req, res) => {
 });
 
 // heavy task simulation route
-app.get('/heavy-task', (req, res) => {
-    // Simulate a heavy task
-    let sum = 0;
-    let obj = {}
-    for (let i = 0; i < 1e8; i++) {
-        obj[i] = i;
-        sum += i;
-    }
-    res.json({ result: sum });
-});
+app.get('/heavy-task', heavyTask);
 
 // API endpoint to get resource monitoring data (fallback)
-app.get("/api/resource-data", (req, res) => {
-    try {
-        const data = getResourceData();
-        res.json(data);
-    } catch (err) {
-        console.error(err);
-        res.status(500).json({ error: 'Failed to fetch resource data' });
-    }
-});
+app.get("/api/resource-data", getResourceData);
 
 // 404 Handler
 app.use((req, res) => {
