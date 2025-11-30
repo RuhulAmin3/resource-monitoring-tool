@@ -1,6 +1,6 @@
 # 📊 Resource Monitoring Tool
 
-(![alt text](./assets/image.png))
+![alt text](./assets/image.png)
 
 A real-time system resource monitoring dashboard built with **Node.js**, **Express.js**, **Socket.IO**, **Chart.js**, and **EJS**. Features a clean MVC architecture, real-time bidirectional communication, and beautiful responsive UI.
 
