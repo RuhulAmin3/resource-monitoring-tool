@@ -225,13 +225,26 @@
         </div>
 
         <div class="footer">
-            <p>Auto-refreshing every second | Last updated: <span id="lastUpdated">--:--:--</span></p>
+            <p>Real-time via Socket.IO | Last updated: <span id="lastUpdated">--:--:--</span> | <span
+                    id="connectionStatus">🔴 Connecting...</span></p>
         </div>
     </div>
+
+    <!-- Socket.IO Client Library -->
+    <script src="https://cdn.socket.io/4.5.4/socket.io.min.js"></script>
 
     <script>
         // Chart instances
         let memoryChart, cpuChart, uptimeChart, cpuBreakdownChart;
+
+        // Data storage for charts
+        const chartData = {
+            memoryUsage: [],
+            cpuUser: [],
+            cpuSystem: [],
+            uptime: [],
+            timestamps: []
+        };
 
         // Chart color scheme
         const colors = {
@@ -246,6 +259,9 @@
         const chartOptions = {
             responsive: true,
             maintainAspectRatio: false,
+            animation: {
+                duration: 0
+            },
             plugins: {
                 legend: {
                     display: true,
@@ -272,6 +288,60 @@
             }
         };
 
+        // Initialize Socket.IO connection
+        const socket = io();
+
+        socket.on('connect', () => {
+            console.log('✅ Connected to server via Socket.IO');
+            document.getElementById('connectionStatus').textContent = '🟢 Connected';
+            document.getElementById('connectionStatus').style.color = '#4ade80';
+        });
+
+        socket.on('disconnect', () => {
+            console.log('❌ Disconnected from server');
+            document.getElementById('connectionStatus').textContent = '🔴 Disconnected';
+            document.getElementById('connectionStatus').style.color = '#ef4444';
+        });
+
+        // Handle initial data when connecting
+        socket.on('initial-data', (data) => {
+            console.log('📊 Received initial data:', data);
+
+            chartData.memoryUsage = data.memoryUsage;
+            chartData.cpuUser = data.cpuUser.map(v => parseFloat(v));
+            chartData.cpuSystem = data.cpuSystem.map(v => parseFloat(v));
+            chartData.uptime = data.uptime;
+            chartData.timestamps = data.timestamps;
+
+            // Update charts with initial data
+            updateCharts();
+        });
+
+        // Handle real-time resource updates
+        socket.on('resource-update', (data) => {
+            // Add new data point
+            chartData.memoryUsage.push(data.memoryUsage);
+            chartData.cpuUser.push(parseFloat(data.cpuUser));
+            chartData.cpuSystem.push(parseFloat(data.cpuSystem));
+            chartData.uptime.push(data.uptime);
+            chartData.timestamps.push(data.timestamp);
+
+            // Keep only last 60 data points
+            if (chartData.memoryUsage.length > 60) {
+                chartData.memoryUsage.shift();
+                chartData.cpuUser.shift();
+                chartData.cpuSystem.shift();
+                chartData.uptime.shift();
+                chartData.timestamps.shift();
+            }
+
+            // Update charts
+            updateCharts();
+
+            // Update stats
+            updateStats(data);
+        });
+
         // Initialize charts
         function initCharts() {
             // Memory Chart
@@ -279,10 +349,10 @@
             memoryChart = new Chart(memoryCtx, {
                 type: 'line',
                 data: {
-                    labels: [],
+                    labels: chartData.timestamps,
                     datasets: [{
                         label: 'Memory Usage (MB)',
-                        data: [],
+                        data: chartData.memoryUsage,
                         borderColor: colors.primary,
                         backgroundColor: colors.primaryLight,
                         borderWidth: 2,
@@ -301,11 +371,11 @@
             cpuChart = new Chart(cpuCtx, {
                 type: 'line',
                 data: {
-                    labels: [],
+                    labels: chartData.timestamps,
                     datasets: [
                         {
                             label: 'CPU User (ms)',
-                            data: [],
+                            data: chartData.cpuUser,
                             borderColor: colors.primary,
                             backgroundColor: colors.primaryLight,
                             borderWidth: 2,
@@ -316,7 +386,7 @@
                         },
                         {
                             label: 'CPU System (ms)',
-                            data: [],
+                            data: chartData.cpuSystem,
                             borderColor: colors.secondary,
                             backgroundColor: colors.secondaryLight,
                             borderWidth: 2,
@@ -335,10 +405,10 @@
             uptimeChart = new Chart(uptimeCtx, {
                 type: 'line',
                 data: {
-                    labels: [],
+                    labels: chartData.timestamps,
                     datasets: [{
                         label: 'Server Uptime (s)',
-                        data: [],
+                        data: chartData.uptime,
                         borderColor: colors.success,
                         backgroundColor: 'rgba(74, 222, 128, 0.1)',
                         borderWidth: 2,
@@ -381,61 +451,46 @@
             });
         }
 
-        // Fetch and update data
-        async function updateData() {
-            try {
-                const response = await fetch('/api/resource-data');
-                const data = await response.json();
+        // Update charts with current data
+        function updateCharts() {
 
-                if (data.memoryUsage.length === 0) {
-                    setTimeout(updateData, 1000);
-                    return;
-                }
+            if (!memoryChart) return;
 
-                // Update memory chart
-                memoryChart.data.labels = data.timestamps;
-                memoryChart.data.datasets[0].data = data.memoryUsage;
-                memoryChart.update('none');
+            // Update memory chart
+            memoryChart.data.labels = chartData.timestamps;
+            memoryChart.data.datasets[0].data = chartData.memoryUsage;
+            memoryChart.update('none');
 
-                // Update CPU chart
-                cpuChart.data.labels = data.timestamps;
-                cpuChart.data.datasets[0].data = data.cpuUser;
-                cpuChart.data.datasets[1].data = data.cpuSystem;
-                cpuChart.update('none');
+            // Update CPU chart
+            cpuChart.data.labels = chartData.timestamps;
+            cpuChart.data.datasets[0].data = chartData.cpuUser;
+            cpuChart.data.datasets[1].data = chartData.cpuSystem;
+            cpuChart.update('none');
 
-                // Update uptime chart
-                uptimeChart.data.labels = data.timestamps;
-                uptimeChart.data.datasets[0].data = data.uptime;
-                uptimeChart.update('none');
+            // Update uptime chart
+            uptimeChart.data.labels = chartData.timestamps;
+            uptimeChart.data.datasets[0].data = chartData.uptime;
+            uptimeChart.update('none');
 
-                // Update CPU breakdown chart
-                const lastCpuUser = parseFloat(data.cpuUser[data.cpuUser.length - 1]);
-                const lastCpuSystem = parseFloat(data.cpuSystem[data.cpuSystem.length - 1]);
-                cpuBreakdownChart.data.datasets[0].data = [lastCpuUser, lastCpuSystem];
-                cpuBreakdownChart.update('none');
+            // Update CPU breakdown chart
+            const lastCpuUser = chartData.cpuUser[chartData.cpuUser.length - 1] || 0;
+            const lastCpuSystem = chartData.cpuSystem[chartData.cpuSystem.length - 1] || 0;
+            cpuBreakdownChart.data.datasets[0].data = [lastCpuUser, lastCpuSystem];
+            cpuBreakdownChart.update('none');
+        }
 
-                // Update stats
-                document.getElementById('currentMemory').textContent =
-                    data.memoryUsage[data.memoryUsage.length - 1] + ' MB';
-                document.getElementById('currentCpuUser').textContent =
-                    data.cpuUser[data.cpuUser.length - 1] + ' ms';
-                document.getElementById('currentCpuSystem').textContent =
-                    data.cpuSystem[data.cpuSystem.length - 1] + ' ms';
-                document.getElementById('currentUptime').textContent =
-                    data.uptime[data.uptime.length - 1] + ' s';
-                document.getElementById('lastUpdated').textContent = new Date().toLocaleTimeString();
-            } catch (error) {
-                console.error('Error fetching data:', error);
-            }
-
-            // Update every 2 seconds
-            setTimeout(updateData, 1000);
+        // Update statistics display
+        function updateStats(data) {
+            document.getElementById('currentMemory').textContent = data.memoryUsage + ' MB';
+            document.getElementById('currentCpuUser').textContent = data.cpuUser + ' ms';
+            document.getElementById('currentCpuSystem').textContent = data.cpuSystem + ' ms';
+            document.getElementById('currentUptime').textContent = data.uptime + ' s';
+            document.getElementById('lastUpdated').textContent = new Date().toLocaleTimeString();
         }
 
         // Initialize when page loads
         window.addEventListener('DOMContentLoaded', () => {
             initCharts();
-            updateData();
         });
     </script>
 </body>

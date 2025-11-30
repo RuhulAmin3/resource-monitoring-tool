@@ -16954,5 +16954,6890 @@
     },
     "uptime": "206.68",
     "timestamp": "2025-11-30T11:19:46.524Z"
+  },
+  {
+    "memoryUsage": "59.16",
+    "cpuUsage": {
+      "user": 156000,
+      "system": 109000
+    },
+    "uptime": "1.26",
+    "timestamp": "2025-11-30T11:26:01.236Z"
+  },
+  {
+    "memoryUsage": "60.04",
+    "cpuUsage": {
+      "user": 171000,
+      "system": 109000
+    },
+    "uptime": "2.26",
+    "timestamp": "2025-11-30T11:26:02.237Z"
+  },
+  {
+    "memoryUsage": "61.57",
+    "cpuUsage": {
+      "user": 203000,
+      "system": 109000
+    },
+    "uptime": "3.27",
+    "timestamp": "2025-11-30T11:26:03.251Z"
+  },
+  {
+    "memoryUsage": "61.61",
+    "cpuUsage": {
+      "user": 218000,
+      "system": 109000
+    },
+    "uptime": "4.27",
+    "timestamp": "2025-11-30T11:26:04.252Z"
+  },
+  {
+    "memoryUsage": "62.63",
+    "cpuUsage": {
+      "user": 234000,
+      "system": 109000
+    },
+    "uptime": "5.27",
+    "timestamp": "2025-11-30T11:26:05.253Z"
+  },
+  {
+    "memoryUsage": "63.25",
+    "cpuUsage": {
+      "user": 250000,
+      "system": 109000
+    },
+    "uptime": "6.29",
+    "timestamp": "2025-11-30T11:26:06.267Z"
+  },
+  {
+    "memoryUsage": "64.27",
+    "cpuUsage": {
+      "user": 281000,
+      "system": 109000
+    },
+    "uptime": "7.29",
+    "timestamp": "2025-11-30T11:26:07.275Z"
+  },
+  {
+    "memoryUsage": "61.16",
+    "cpuUsage": {
+      "user": 281000,
+      "system": 109000
+    },
+    "uptime": "8.31",
+    "timestamp": "2025-11-30T11:26:08.289Z"
+  },
+  {
+    "memoryUsage": "53.00",
+    "cpuUsage": {
+      "user": 390000,
+      "system": 156000
+    },
+    "uptime": "9.32",
+    "timestamp": "2025-11-30T11:26:09.301Z"
+  },
+  {
+    "memoryUsage": "54.42",
+    "cpuUsage": {
+      "user": 390000,
+      "system": 156000
+    },
+    "uptime": "10.32",
+    "timestamp": "2025-11-30T11:26:10.303Z"
+  },
+  {
+    "memoryUsage": "56.17",
+    "cpuUsage": {
+      "user": 390000,
+      "system": 156000
+    },
+    "uptime": "11.34",
+    "timestamp": "2025-11-30T11:26:11.319Z"
+  },
+  {
+    "memoryUsage": "55.69",
+    "cpuUsage": {
+      "user": 390000,
+      "system": 156000
+    },
+    "uptime": "12.35",
+    "timestamp": "2025-11-30T11:26:12.333Z"
+  },
+  {
+    "memoryUsage": "57.04",
+    "cpuUsage": {
+      "user": 390000,
+      "system": 156000
+    },
+    "uptime": "13.35",
+    "timestamp": "2025-11-30T11:26:13.334Z"
+  },
+  {
+    "memoryUsage": "55.92",
+    "cpuUsage": {
+      "user": 390000,
+      "system": 156000
+    },
+    "uptime": "14.37",
+    "timestamp": "2025-11-30T11:26:14.348Z"
+  },
+  {
+    "memoryUsage": "57.06",
+    "cpuUsage": {
+      "user": 390000,
+      "system": 156000
+    },
+    "uptime": "15.37",
+    "timestamp": "2025-11-30T11:26:15.352Z"
+  },
+  {
+    "memoryUsage": "55.61",
+    "cpuUsage": {
+      "user": 390000,
+      "system": 156000
+    },
+    "uptime": "16.37",
+    "timestamp": "2025-11-30T11:26:16.353Z"
+  },
+  {
+    "memoryUsage": "56.86",
+    "cpuUsage": {
+      "user": 390000,
+      "system": 156000
+    },
+    "uptime": "17.39",
+    "timestamp": "2025-11-30T11:26:17.367Z"
+  },
+  {
+    "memoryUsage": "56.38",
+    "cpuUsage": {
+      "user": 390000,
+      "system": 156000
+    },
+    "uptime": "18.40",
+    "timestamp": "2025-11-30T11:26:18.376Z"
+  },
+  {
+    "memoryUsage": "57.18",
+    "cpuUsage": {
+      "user": 390000,
+      "system": 171000
+    },
+    "uptime": "19.40",
+    "timestamp": "2025-11-30T11:26:19.385Z"
+  },
+  {
+    "memoryUsage": "56.32",
+    "cpuUsage": {
+      "user": 406000,
+      "system": 171000
+    },
+    "uptime": "20.41",
+    "timestamp": "2025-11-30T11:26:20.389Z"
+  },
+  {
+    "memoryUsage": "56.88",
+    "cpuUsage": {
+      "user": 437000,
+      "system": 171000
+    },
+    "uptime": "21.42",
+    "timestamp": "2025-11-30T11:26:21.403Z"
+  },
+  {
+    "memoryUsage": "57.67",
+    "cpuUsage": {
+      "user": 453000,
+      "system": 171000
+    },
+    "uptime": "22.44",
+    "timestamp": "2025-11-30T11:26:22.419Z"
+  },
+  {
+    "memoryUsage": "58.25",
+    "cpuUsage": {
+      "user": 468000,
+      "system": 171000
+    },
+    "uptime": "23.45",
+    "timestamp": "2025-11-30T11:26:23.433Z"
+  },
+  {
+    "memoryUsage": "57.77",
+    "cpuUsage": {
+      "user": 468000,
+      "system": 171000
+    },
+    "uptime": "24.45",
+    "timestamp": "2025-11-30T11:26:24.434Z"
+  },
+  {
+    "memoryUsage": "58.89",
+    "cpuUsage": {
+      "user": 484000,
+      "system": 171000
+    },
+    "uptime": "25.45",
+    "timestamp": "2025-11-30T11:26:25.435Z"
+  },
+  {
+    "memoryUsage": "58.43",
+    "cpuUsage": {
+      "user": 484000,
+      "system": 187000
+    },
+    "uptime": "26.45",
+    "timestamp": "2025-11-30T11:26:26.434Z"
+  },
+  {
+    "memoryUsage": "59.45",
+    "cpuUsage": {
+      "user": 500000,
+      "system": 203000
+    },
+    "uptime": "27.45",
+    "timestamp": "2025-11-30T11:26:27.435Z"
+  },
+  {
+    "memoryUsage": "58.99",
+    "cpuUsage": {
+      "user": 515000,
+      "system": 203000
+    },
+    "uptime": "28.46",
+    "timestamp": "2025-11-30T11:26:28.437Z"
+  },
+  {
+    "memoryUsage": "59.63",
+    "cpuUsage": {
+      "user": 531000,
+      "system": 203000
+    },
+    "uptime": "29.47",
+    "timestamp": "2025-11-30T11:26:29.452Z"
+  },
+  {
+    "memoryUsage": "59.62",
+    "cpuUsage": {
+      "user": 546000,
+      "system": 203000
+    },
+    "uptime": "30.47",
+    "timestamp": "2025-11-30T11:26:30.452Z"
+  },
+  {
+    "memoryUsage": "58.69",
+    "cpuUsage": {
+      "user": 546000,
+      "system": 218000
+    },
+    "uptime": "31.47",
+    "timestamp": "2025-11-30T11:26:31.452Z"
+  },
+  {
+    "memoryUsage": "59.62",
+    "cpuUsage": {
+      "user": 546000,
+      "system": 234000
+    },
+    "uptime": "32.49",
+    "timestamp": "2025-11-30T11:26:32.468Z"
+  },
+  {
+    "memoryUsage": "58.70",
+    "cpuUsage": {
+      "user": 578000,
+      "system": 234000
+    },
+    "uptime": "33.49",
+    "timestamp": "2025-11-30T11:26:33.468Z"
+  },
+  {
+    "memoryUsage": "59.69",
+    "cpuUsage": {
+      "user": 593000,
+      "system": 234000
+    },
+    "uptime": "34.49",
+    "timestamp": "2025-11-30T11:26:34.468Z"
+  },
+  {
+    "memoryUsage": "59.35",
+    "cpuUsage": {
+      "user": 609000,
+      "system": 234000
+    },
+    "uptime": "35.49",
+    "timestamp": "2025-11-30T11:26:35.469Z"
+  },
+  {
+    "memoryUsage": "59.69",
+    "cpuUsage": {
+      "user": 625000,
+      "system": 234000
+    },
+    "uptime": "36.49",
+    "timestamp": "2025-11-30T11:26:36.468Z"
+  },
+  {
+    "memoryUsage": "59.68",
+    "cpuUsage": {
+      "user": 640000,
+      "system": 250000
+    },
+    "uptime": "37.49",
+    "timestamp": "2025-11-30T11:26:37.469Z"
+  },
+  {
+    "memoryUsage": "60.02",
+    "cpuUsage": {
+      "user": 656000,
+      "system": 250000
+    },
+    "uptime": "38.50",
+    "timestamp": "2025-11-30T11:26:38.485Z"
+  },
+  {
+    "memoryUsage": "59.68",
+    "cpuUsage": {
+      "user": 671000,
+      "system": 250000
+    },
+    "uptime": "39.52",
+    "timestamp": "2025-11-30T11:26:39.501Z"
+  },
+  {
+    "memoryUsage": "59.69",
+    "cpuUsage": {
+      "user": 687000,
+      "system": 250000
+    },
+    "uptime": "40.52",
+    "timestamp": "2025-11-30T11:26:40.501Z"
+  },
+  {
+    "memoryUsage": "60.67",
+    "cpuUsage": {
+      "user": 703000,
+      "system": 250000
+    },
+    "uptime": "41.52",
+    "timestamp": "2025-11-30T11:26:41.503Z"
+  },
+  {
+    "memoryUsage": "59.69",
+    "cpuUsage": {
+      "user": 703000,
+      "system": 265000
+    },
+    "uptime": "42.54",
+    "timestamp": "2025-11-30T11:26:42.517Z"
+  },
+  {
+    "memoryUsage": "60.32",
+    "cpuUsage": {
+      "user": 703000,
+      "system": 281000
+    },
+    "uptime": "43.54",
+    "timestamp": "2025-11-30T11:26:43.518Z"
+  },
+  {
+    "memoryUsage": "59.75",
+    "cpuUsage": {
+      "user": 718000,
+      "system": 281000
+    },
+    "uptime": "44.55",
+    "timestamp": "2025-11-30T11:26:44.533Z"
+  },
+  {
+    "memoryUsage": "60.80",
+    "cpuUsage": {
+      "user": 734000,
+      "system": 281000
+    },
+    "uptime": "45.56",
+    "timestamp": "2025-11-30T11:26:45.540Z"
+  },
+  {
+    "memoryUsage": "59.76",
+    "cpuUsage": {
+      "user": 750000,
+      "system": 281000
+    },
+    "uptime": "46.57",
+    "timestamp": "2025-11-30T11:26:46.550Z"
+  },
+  {
+    "memoryUsage": "60.75",
+    "cpuUsage": {
+      "user": 750000,
+      "system": 281000
+    },
+    "uptime": "47.57",
+    "timestamp": "2025-11-30T11:26:47.550Z"
+  },
+  {
+    "memoryUsage": "59.76",
+    "cpuUsage": {
+      "user": 750000,
+      "system": 281000
+    },
+    "uptime": "48.57",
+    "timestamp": "2025-11-30T11:26:48.552Z"
+  },
+  {
+    "memoryUsage": "60.75",
+    "cpuUsage": {
+      "user": 750000,
+      "system": 281000
+    },
+    "uptime": "49.57",
+    "timestamp": "2025-11-30T11:26:49.553Z"
+  },
+  {
+    "memoryUsage": "60.41",
+    "cpuUsage": {
+      "user": 781000,
+      "system": 281000
+    },
+    "uptime": "50.59",
+    "timestamp": "2025-11-30T11:26:50.568Z"
+  },
+  {
+    "memoryUsage": "60.75",
+    "cpuUsage": {
+      "user": 781000,
+      "system": 281000
+    },
+    "uptime": "51.59",
+    "timestamp": "2025-11-30T11:26:51.568Z"
+  },
+  {
+    "memoryUsage": "60.74",
+    "cpuUsage": {
+      "user": 781000,
+      "system": 281000
+    },
+    "uptime": "52.59",
+    "timestamp": "2025-11-30T11:26:52.569Z"
+  },
+  {
+    "memoryUsage": "61.08",
+    "cpuUsage": {
+      "user": 781000,
+      "system": 281000
+    },
+    "uptime": "53.59",
+    "timestamp": "2025-11-30T11:26:53.569Z"
+  },
+  {
+    "memoryUsage": "61.08",
+    "cpuUsage": {
+      "user": 781000,
+      "system": 281000
+    },
+    "uptime": "54.60",
+    "timestamp": "2025-11-30T11:26:54.584Z"
+  },
+  {
+    "memoryUsage": "61.41",
+    "cpuUsage": {
+      "user": 781000,
+      "system": 281000
+    },
+    "uptime": "55.60",
+    "timestamp": "2025-11-30T11:26:55.585Z"
+  },
+  {
+    "memoryUsage": "60.75",
+    "cpuUsage": {
+      "user": 796000,
+      "system": 281000
+    },
+    "uptime": "56.62",
+    "timestamp": "2025-11-30T11:26:56.601Z"
+  },
+  {
+    "memoryUsage": "61.75",
+    "cpuUsage": {
+      "user": 812000,
+      "system": 281000
+    },
+    "uptime": "57.62",
+    "timestamp": "2025-11-30T11:26:57.602Z"
+  },
+  {
+    "memoryUsage": "60.75",
+    "cpuUsage": {
+      "user": 812000,
+      "system": 281000
+    },
+    "uptime": "58.62",
+    "timestamp": "2025-11-30T11:26:58.601Z"
+  },
+  {
+    "memoryUsage": "62.61",
+    "cpuUsage": {
+      "user": 812000,
+      "system": 281000
+    },
+    "uptime": "59.63",
+    "timestamp": "2025-11-30T11:26:59.607Z"
+  },
+  {
+    "memoryUsage": "60.75",
+    "cpuUsage": {
+      "user": 828000,
+      "system": 281000
+    },
+    "uptime": "60.64",
+    "timestamp": "2025-11-30T11:27:00.625Z"
+  },
+  {
+    "memoryUsage": "61.39",
+    "cpuUsage": {
+      "user": 828000,
+      "system": 281000
+    },
+    "uptime": "61.64",
+    "timestamp": "2025-11-30T11:27:01.626Z"
+  },
+  {
+    "memoryUsage": "61.86",
+    "cpuUsage": {
+      "user": 828000,
+      "system": 281000
+    },
+    "uptime": "62.65",
+    "timestamp": "2025-11-30T11:27:02.641Z"
+  },
+  {
+    "memoryUsage": "61.75",
+    "cpuUsage": {
+      "user": 843000,
+      "system": 281000
+    },
+    "uptime": "63.65",
+    "timestamp": "2025-11-30T11:27:03.642Z"
+  },
+  {
+    "memoryUsage": "60.75",
+    "cpuUsage": {
+      "user": 859000,
+      "system": 281000
+    },
+    "uptime": "64.65",
+    "timestamp": "2025-11-30T11:27:04.643Z"
+  },
+  {
+    "memoryUsage": "62.61",
+    "cpuUsage": {
+      "user": 859000,
+      "system": 281000
+    },
+    "uptime": "65.66",
+    "timestamp": "2025-11-30T11:27:05.645Z"
+  },
+  {
+    "memoryUsage": "60.92",
+    "cpuUsage": {
+      "user": 875000,
+      "system": 281000
+    },
+    "uptime": "66.67",
+    "timestamp": "2025-11-30T11:27:06.660Z"
+  },
+  {
+    "memoryUsage": "61.31",
+    "cpuUsage": {
+      "user": 890000,
+      "system": 281000
+    },
+    "uptime": "67.67",
+    "timestamp": "2025-11-30T11:27:07.660Z"
+  },
+  {
+    "memoryUsage": "62.45",
+    "cpuUsage": {
+      "user": 921000,
+      "system": 281000
+    },
+    "uptime": "68.67",
+    "timestamp": "2025-11-30T11:27:08.661Z"
+  },
+  {
+    "memoryUsage": "61.66",
+    "cpuUsage": {
+      "user": 937000,
+      "system": 281000
+    },
+    "uptime": "69.69",
+    "timestamp": "2025-11-30T11:27:09.677Z"
+  },
+  {
+    "memoryUsage": "61.00",
+    "cpuUsage": {
+      "user": 953000,
+      "system": 281000
+    },
+    "uptime": "70.70",
+    "timestamp": "2025-11-30T11:27:10.692Z"
+  },
+  {
+    "memoryUsage": "61.64",
+    "cpuUsage": {
+      "user": 968000,
+      "system": 281000
+    },
+    "uptime": "71.71",
+    "timestamp": "2025-11-30T11:27:11.697Z"
+  },
+  {
+    "memoryUsage": "62.12",
+    "cpuUsage": {
+      "user": 968000,
+      "system": 296000
+    },
+    "uptime": "72.72",
+    "timestamp": "2025-11-30T11:27:12.708Z"
+  },
+  {
+    "memoryUsage": "62.00",
+    "cpuUsage": {
+      "user": 968000,
+      "system": 312000
+    },
+    "uptime": "73.72",
+    "timestamp": "2025-11-30T11:27:13.708Z"
+  },
+  {
+    "memoryUsage": "61.00",
+    "cpuUsage": {
+      "user": 968000,
+      "system": 328000
+    },
+    "uptime": "74.72",
+    "timestamp": "2025-11-30T11:27:14.709Z"
+  },
+  {
+    "memoryUsage": "62.86",
+    "cpuUsage": {
+      "user": 984000,
+      "system": 328000
+    },
+    "uptime": "75.74",
+    "timestamp": "2025-11-30T11:27:15.726Z"
+  },
+  {
+    "memoryUsage": "61.00",
+    "cpuUsage": {
+      "user": 984000,
+      "system": 328000
+    },
+    "uptime": "76.75",
+    "timestamp": "2025-11-30T11:27:16.741Z"
+  },
+  {
+    "memoryUsage": "61.65",
+    "cpuUsage": {
+      "user": 984000,
+      "system": 343000
+    },
+    "uptime": "77.77",
+    "timestamp": "2025-11-30T11:27:17.757Z"
+  },
+  {
+    "memoryUsage": "61.21",
+    "cpuUsage": {
+      "user": 984000,
+      "system": 359000
+    },
+    "uptime": "78.77",
+    "timestamp": "2025-11-30T11:27:18.758Z"
+  },
+  {
+    "memoryUsage": "62.63",
+    "cpuUsage": {
+      "user": 984000,
+      "system": 375000
+    },
+    "uptime": "79.77",
+    "timestamp": "2025-11-30T11:27:19.759Z"
+  },
+  {
+    "memoryUsage": "61.14",
+    "cpuUsage": {
+      "user": 1000000,
+      "system": 375000
+    },
+    "uptime": "80.79",
+    "timestamp": "2025-11-30T11:27:20.776Z"
+  },
+  {
+    "memoryUsage": "61.79",
+    "cpuUsage": {
+      "user": 1000000,
+      "system": 390000
+    },
+    "uptime": "81.79",
+    "timestamp": "2025-11-30T11:27:21.776Z"
+  },
+  {
+    "memoryUsage": "62.21",
+    "cpuUsage": {
+      "user": 1015000,
+      "system": 390000
+    },
+    "uptime": "82.79",
+    "timestamp": "2025-11-30T11:27:22.775Z"
+  },
+  {
+    "memoryUsage": "62.14",
+    "cpuUsage": {
+      "user": 1031000,
+      "system": 390000
+    },
+    "uptime": "83.80",
+    "timestamp": "2025-11-30T11:27:23.791Z"
+  },
+  {
+    "memoryUsage": "61.14",
+    "cpuUsage": {
+      "user": 1031000,
+      "system": 406000
+    },
+    "uptime": "84.80",
+    "timestamp": "2025-11-30T11:27:24.791Z"
+  },
+  {
+    "memoryUsage": "63.02",
+    "cpuUsage": {
+      "user": 1046000,
+      "system": 406000
+    },
+    "uptime": "85.80",
+    "timestamp": "2025-11-30T11:27:25.791Z"
+  },
+  {
+    "memoryUsage": "61.14",
+    "cpuUsage": {
+      "user": 1062000,
+      "system": 421000
+    },
+    "uptime": "86.80",
+    "timestamp": "2025-11-30T11:27:26.792Z"
+  },
+  {
+    "memoryUsage": "61.79",
+    "cpuUsage": {
+      "user": 1062000,
+      "system": 421000
+    },
+    "uptime": "87.80",
+    "timestamp": "2025-11-30T11:27:27.793Z"
+  },
+  {
+    "memoryUsage": "62.27",
+    "cpuUsage": {
+      "user": 1062000,
+      "system": 421000
+    },
+    "uptime": "88.80",
+    "timestamp": "2025-11-30T11:27:28.793Z"
+  },
+  {
+    "memoryUsage": "62.14",
+    "cpuUsage": {
+      "user": 1062000,
+      "system": 421000
+    },
+    "uptime": "89.81",
+    "timestamp": "2025-11-30T11:27:29.793Z"
+  },
+  {
+    "memoryUsage": "61.14",
+    "cpuUsage": {
+      "user": 1062000,
+      "system": 421000
+    },
+    "uptime": "90.82",
+    "timestamp": "2025-11-30T11:27:30.808Z"
+  },
+  {
+    "memoryUsage": "63.02",
+    "cpuUsage": {
+      "user": 1062000,
+      "system": 421000
+    },
+    "uptime": "91.82",
+    "timestamp": "2025-11-30T11:27:31.809Z"
+  },
+  {
+    "memoryUsage": "61.15",
+    "cpuUsage": {
+      "user": 1062000,
+      "system": 421000
+    },
+    "uptime": "92.82",
+    "timestamp": "2025-11-30T11:27:32.809Z"
+  },
+  {
+    "memoryUsage": "61.80",
+    "cpuUsage": {
+      "user": 1062000,
+      "system": 421000
+    },
+    "uptime": "93.82",
+    "timestamp": "2025-11-30T11:27:33.810Z"
+  },
+  {
+    "memoryUsage": "62.28",
+    "cpuUsage": {
+      "user": 1062000,
+      "system": 421000
+    },
+    "uptime": "94.84",
+    "timestamp": "2025-11-30T11:27:34.826Z"
+  },
+  {
+    "memoryUsage": "62.15",
+    "cpuUsage": {
+      "user": 1062000,
+      "system": 421000
+    },
+    "uptime": "95.84",
+    "timestamp": "2025-11-30T11:27:35.826Z"
+  },
+  {
+    "memoryUsage": "61.15",
+    "cpuUsage": {
+      "user": 1078000,
+      "system": 421000
+    },
+    "uptime": "96.85",
+    "timestamp": "2025-11-30T11:27:36.841Z"
+  },
+  {
+    "memoryUsage": "61.79",
+    "cpuUsage": {
+      "user": 1078000,
+      "system": 421000
+    },
+    "uptime": "97.85",
+    "timestamp": "2025-11-30T11:27:37.843Z"
+  },
+  {
+    "memoryUsage": "61.70",
+    "cpuUsage": {
+      "user": 1093000,
+      "system": 421000
+    },
+    "uptime": "98.87",
+    "timestamp": "2025-11-30T11:27:38.860Z"
+  },
+  {
+    "memoryUsage": "63.21",
+    "cpuUsage": {
+      "user": 1093000,
+      "system": 421000
+    },
+    "uptime": "99.89",
+    "timestamp": "2025-11-30T11:27:39.874Z"
+  },
+  {
+    "memoryUsage": "62.89",
+    "cpuUsage": {
+      "user": 1093000,
+      "system": 421000
+    },
+    "uptime": "100.89",
+    "timestamp": "2025-11-30T11:27:40.876Z"
+  },
+  {
+    "memoryUsage": "63.22",
+    "cpuUsage": {
+      "user": 1093000,
+      "system": 421000
+    },
+    "uptime": "101.89",
+    "timestamp": "2025-11-30T11:27:41.877Z"
+  },
+  {
+    "memoryUsage": "61.66",
+    "cpuUsage": {
+      "user": 1093000,
+      "system": 437000
+    },
+    "uptime": "102.90",
+    "timestamp": "2025-11-30T11:27:42.892Z"
+  },
+  {
+    "memoryUsage": "62.32",
+    "cpuUsage": {
+      "user": 1109000,
+      "system": 437000
+    },
+    "uptime": "103.91",
+    "timestamp": "2025-11-30T11:27:43.893Z"
+  },
+  {
+    "memoryUsage": "62.79",
+    "cpuUsage": {
+      "user": 1125000,
+      "system": 437000
+    },
+    "uptime": "104.92",
+    "timestamp": "2025-11-30T11:27:44.909Z"
+  },
+  {
+    "memoryUsage": "63.48",
+    "cpuUsage": {
+      "user": 1125000,
+      "system": 437000
+    },
+    "uptime": "105.93",
+    "timestamp": "2025-11-30T11:27:45.913Z"
+  },
+  {
+    "memoryUsage": "62.79",
+    "cpuUsage": {
+      "user": 1140000,
+      "system": 437000
+    },
+    "uptime": "106.94",
+    "timestamp": "2025-11-30T11:27:46.926Z"
+  },
+  {
+    "memoryUsage": "62.32",
+    "cpuUsage": {
+      "user": 1156000,
+      "system": 437000
+    },
+    "uptime": "107.94",
+    "timestamp": "2025-11-30T11:27:47.926Z"
+  },
+  {
+    "memoryUsage": "61.66",
+    "cpuUsage": {
+      "user": 1171000,
+      "system": 453000
+    },
+    "uptime": "108.95",
+    "timestamp": "2025-11-30T11:27:48.941Z"
+  },
+  {
+    "memoryUsage": "62.32",
+    "cpuUsage": {
+      "user": 1187000,
+      "system": 453000
+    },
+    "uptime": "109.95",
+    "timestamp": "2025-11-30T11:27:49.942Z"
+  },
+  {
+    "memoryUsage": "62.79",
+    "cpuUsage": {
+      "user": 1203000,
+      "system": 453000
+    },
+    "uptime": "110.95",
+    "timestamp": "2025-11-30T11:27:50.942Z"
+  },
+  {
+    "memoryUsage": "63.48",
+    "cpuUsage": {
+      "user": 1218000,
+      "system": 453000
+    },
+    "uptime": "111.97",
+    "timestamp": "2025-11-30T11:27:51.958Z"
+  },
+  {
+    "memoryUsage": "63.15",
+    "cpuUsage": {
+      "user": 1218000,
+      "system": 453000
+    },
+    "uptime": "112.97",
+    "timestamp": "2025-11-30T11:27:52.958Z"
+  },
+  {
+    "memoryUsage": "61.98",
+    "cpuUsage": {
+      "user": 1234000,
+      "system": 453000
+    },
+    "uptime": "113.97",
+    "timestamp": "2025-11-30T11:27:53.959Z"
+  },
+  {
+    "memoryUsage": "63.47",
+    "cpuUsage": {
+      "user": 1250000,
+      "system": 453000
+    },
+    "uptime": "114.98",
+    "timestamp": "2025-11-30T11:27:54.972Z"
+  },
+  {
+    "memoryUsage": "63.48",
+    "cpuUsage": {
+      "user": 1250000,
+      "system": 468000
+    },
+    "uptime": "115.99",
+    "timestamp": "2025-11-30T11:27:55.975Z"
+  },
+  {
+    "memoryUsage": "63.13",
+    "cpuUsage": {
+      "user": 1281000,
+      "system": 468000
+    },
+    "uptime": "116.99",
+    "timestamp": "2025-11-30T11:27:56.977Z"
+  },
+  {
+    "memoryUsage": "61.98",
+    "cpuUsage": {
+      "user": 1296000,
+      "system": 468000
+    },
+    "uptime": "117.99",
+    "timestamp": "2025-11-30T11:27:57.981Z"
+  },
+  {
+    "memoryUsage": "62.34",
+    "cpuUsage": {
+      "user": 1296000,
+      "system": 468000
+    },
+    "uptime": "118.99",
+    "timestamp": "2025-11-30T11:27:58.982Z"
+  },
+  {
+    "memoryUsage": "62.32",
+    "cpuUsage": {
+      "user": 1296000,
+      "system": 468000
+    },
+    "uptime": "120.00",
+    "timestamp": "2025-11-30T11:27:59.988Z"
+  },
+  {
+    "memoryUsage": "63.13",
+    "cpuUsage": {
+      "user": 1296000,
+      "system": 468000
+    },
+    "uptime": "121.01",
+    "timestamp": "2025-11-30T11:28:01.003Z"
+  },
+  {
+    "memoryUsage": "61.99",
+    "cpuUsage": {
+      "user": 1296000,
+      "system": 468000
+    },
+    "uptime": "122.02",
+    "timestamp": "2025-11-30T11:28:02.005Z"
+  },
+  {
+    "memoryUsage": "61.67",
+    "cpuUsage": {
+      "user": 1312000,
+      "system": 484000
+    },
+    "uptime": "123.02",
+    "timestamp": "2025-11-30T11:28:03.010Z"
+  },
+  {
+    "memoryUsage": "62.33",
+    "cpuUsage": {
+      "user": 1312000,
+      "system": 500000
+    },
+    "uptime": "124.02",
+    "timestamp": "2025-11-30T11:28:04.010Z"
+  },
+  {
+    "memoryUsage": "63.14",
+    "cpuUsage": {
+      "user": 1328000,
+      "system": 500000
+    },
+    "uptime": "125.04",
+    "timestamp": "2025-11-30T11:28:05.023Z"
+  },
+  {
+    "memoryUsage": "63.15",
+    "cpuUsage": {
+      "user": 1343000,
+      "system": 500000
+    },
+    "uptime": "126.04",
+    "timestamp": "2025-11-30T11:28:06.025Z"
+  },
+  {
+    "memoryUsage": "63.48",
+    "cpuUsage": {
+      "user": 1359000,
+      "system": 500000
+    },
+    "uptime": "127.04",
+    "timestamp": "2025-11-30T11:28:07.026Z"
+  },
+  {
+    "memoryUsage": "62.34",
+    "cpuUsage": {
+      "user": 1359000,
+      "system": 515000
+    },
+    "uptime": "128.04",
+    "timestamp": "2025-11-30T11:28:08.026Z"
+  },
+  {
+    "memoryUsage": "62.01",
+    "cpuUsage": {
+      "user": 1359000,
+      "system": 531000
+    },
+    "uptime": "129.04",
+    "timestamp": "2025-11-30T11:28:09.028Z"
+  },
+  {
+    "memoryUsage": "61.99",
+    "cpuUsage": {
+      "user": 1390000,
+      "system": 531000
+    },
+    "uptime": "130.05",
+    "timestamp": "2025-11-30T11:28:10.042Z"
+  },
+  {
+    "memoryUsage": "63.48",
+    "cpuUsage": {
+      "user": 1406000,
+      "system": 531000
+    },
+    "uptime": "131.05",
+    "timestamp": "2025-11-30T11:28:11.043Z"
+  },
+  {
+    "memoryUsage": "63.49",
+    "cpuUsage": {
+      "user": 1406000,
+      "system": 531000
+    },
+    "uptime": "132.07",
+    "timestamp": "2025-11-30T11:28:12.058Z"
+  },
+  {
+    "memoryUsage": "63.14",
+    "cpuUsage": {
+      "user": 1421000,
+      "system": 531000
+    },
+    "uptime": "133.09",
+    "timestamp": "2025-11-30T11:28:13.075Z"
+  },
+  {
+    "memoryUsage": "61.99",
+    "cpuUsage": {
+      "user": 1421000,
+      "system": 531000
+    },
+    "uptime": "134.09",
+    "timestamp": "2025-11-30T11:28:14.075Z"
+  },
+  {
+    "memoryUsage": "63.49",
+    "cpuUsage": {
+      "user": 1421000,
+      "system": 546000
+    },
+    "uptime": "135.09",
+    "timestamp": "2025-11-30T11:28:15.075Z"
+  },
+  {
+    "memoryUsage": "63.49",
+    "cpuUsage": {
+      "user": 1421000,
+      "system": 546000
+    },
+    "uptime": "136.09",
+    "timestamp": "2025-11-30T11:28:16.076Z"
+  },
+  {
+    "memoryUsage": "62.01",
+    "cpuUsage": {
+      "user": 1421000,
+      "system": 546000
+    },
+    "uptime": "137.10",
+    "timestamp": "2025-11-30T11:28:17.090Z"
+  },
+  {
+    "memoryUsage": "63.15",
+    "cpuUsage": {
+      "user": 1421000,
+      "system": 546000
+    },
+    "uptime": "138.11",
+    "timestamp": "2025-11-30T11:28:18.100Z"
+  },
+  {
+    "memoryUsage": "62.80",
+    "cpuUsage": {
+      "user": 1437000,
+      "system": 562000
+    },
+    "uptime": "139.12",
+    "timestamp": "2025-11-30T11:28:19.105Z"
+  },
+  {
+    "memoryUsage": "62.34",
+    "cpuUsage": {
+      "user": 1437000,
+      "system": 562000
+    },
+    "uptime": "140.12",
+    "timestamp": "2025-11-30T11:28:20.110Z"
+  },
+  {
+    "memoryUsage": "63.14",
+    "cpuUsage": {
+      "user": 1437000,
+      "system": 562000
+    },
+    "uptime": "141.12",
+    "timestamp": "2025-11-30T11:28:21.111Z"
+  },
+  {
+    "memoryUsage": "63.15",
+    "cpuUsage": {
+      "user": 1437000,
+      "system": 578000
+    },
+    "uptime": "142.14",
+    "timestamp": "2025-11-30T11:28:22.126Z"
+  },
+  {
+    "memoryUsage": "62.80",
+    "cpuUsage": {
+      "user": 1437000,
+      "system": 578000
+    },
+    "uptime": "143.14",
+    "timestamp": "2025-11-30T11:28:23.127Z"
+  },
+  {
+    "memoryUsage": "62.34",
+    "cpuUsage": {
+      "user": 1453000,
+      "system": 578000
+    },
+    "uptime": "144.15",
+    "timestamp": "2025-11-30T11:28:24.142Z"
+  },
+  {
+    "memoryUsage": "63.15",
+    "cpuUsage": {
+      "user": 1468000,
+      "system": 578000
+    },
+    "uptime": "145.15",
+    "timestamp": "2025-11-30T11:28:25.143Z"
+  },
+  {
+    "memoryUsage": "63.15",
+    "cpuUsage": {
+      "user": 1468000,
+      "system": 578000
+    },
+    "uptime": "146.16",
+    "timestamp": "2025-11-30T11:28:26.145Z"
+  },
+  {
+    "memoryUsage": "62.80",
+    "cpuUsage": {
+      "user": 1468000,
+      "system": 578000
+    },
+    "uptime": "147.16",
+    "timestamp": "2025-11-30T11:28:27.148Z"
+  },
+  {
+    "memoryUsage": "62.34",
+    "cpuUsage": {
+      "user": 1484000,
+      "system": 578000
+    },
+    "uptime": "148.17",
+    "timestamp": "2025-11-30T11:28:28.158Z"
+  },
+  {
+    "memoryUsage": "63.14",
+    "cpuUsage": {
+      "user": 1484000,
+      "system": 578000
+    },
+    "uptime": "149.17",
+    "timestamp": "2025-11-30T11:28:29.163Z"
+  },
+  {
+    "memoryUsage": "63.15",
+    "cpuUsage": {
+      "user": 1500000,
+      "system": 578000
+    },
+    "uptime": "150.19",
+    "timestamp": "2025-11-30T11:28:30.174Z"
+  },
+  {
+    "memoryUsage": "62.80",
+    "cpuUsage": {
+      "user": 1515000,
+      "system": 578000
+    },
+    "uptime": "151.19",
+    "timestamp": "2025-11-30T11:28:31.181Z"
+  },
+  {
+    "memoryUsage": "62.35",
+    "cpuUsage": {
+      "user": 1531000,
+      "system": 578000
+    },
+    "uptime": "152.19",
+    "timestamp": "2025-11-30T11:28:32.182Z"
+  },
+  {
+    "memoryUsage": "63.15",
+    "cpuUsage": {
+      "user": 1546000,
+      "system": 593000
+    },
+    "uptime": "153.19",
+    "timestamp": "2025-11-30T11:28:33.182Z"
+  },
+  {
+    "memoryUsage": "63.16",
+    "cpuUsage": {
+      "user": 1562000,
+      "system": 593000
+    },
+    "uptime": "154.20",
+    "timestamp": "2025-11-30T11:28:34.189Z"
+  },
+  {
+    "memoryUsage": "62.81",
+    "cpuUsage": {
+      "user": 1578000,
+      "system": 593000
+    },
+    "uptime": "155.20",
+    "timestamp": "2025-11-30T11:28:35.192Z"
+  },
+  {
+    "memoryUsage": "62.35",
+    "cpuUsage": {
+      "user": 1593000,
+      "system": 593000
+    },
+    "uptime": "156.22",
+    "timestamp": "2025-11-30T11:28:36.206Z"
+  },
+  {
+    "memoryUsage": "63.16",
+    "cpuUsage": {
+      "user": 1609000,
+      "system": 593000
+    },
+    "uptime": "157.22",
+    "timestamp": "2025-11-30T11:28:37.210Z"
+  },
+  {
+    "memoryUsage": "63.16",
+    "cpuUsage": {
+      "user": 1609000,
+      "system": 609000
+    },
+    "uptime": "158.24",
+    "timestamp": "2025-11-30T11:28:38.224Z"
+  },
+  {
+    "memoryUsage": "61.68",
+    "cpuUsage": {
+      "user": 1625000,
+      "system": 609000
+    },
+    "uptime": "159.24",
+    "timestamp": "2025-11-30T11:28:39.225Z"
+  },
+  {
+    "memoryUsage": "63.51",
+    "cpuUsage": {
+      "user": 1640000,
+      "system": 609000
+    },
+    "uptime": "160.24",
+    "timestamp": "2025-11-30T11:28:40.225Z"
+  },
+  {
+    "memoryUsage": "63.16",
+    "cpuUsage": {
+      "user": 1640000,
+      "system": 609000
+    },
+    "uptime": "161.24",
+    "timestamp": "2025-11-30T11:28:41.230Z"
+  },
+  {
+    "memoryUsage": "62.01",
+    "cpuUsage": {
+      "user": 1640000,
+      "system": 609000
+    },
+    "uptime": "162.25",
+    "timestamp": "2025-11-30T11:28:42.239Z"
+  },
+  {
+    "memoryUsage": "62.80",
+    "cpuUsage": {
+      "user": 1656000,
+      "system": 609000
+    },
+    "uptime": "163.26",
+    "timestamp": "2025-11-30T11:28:43.247Z"
+  },
+  {
+    "memoryUsage": "63.51",
+    "cpuUsage": {
+      "user": 1656000,
+      "system": 609000
+    },
+    "uptime": "164.27",
+    "timestamp": "2025-11-30T11:28:44.259Z"
+  },
+  {
+    "memoryUsage": "63.16",
+    "cpuUsage": {
+      "user": 1671000,
+      "system": 609000
+    },
+    "uptime": "165.28",
+    "timestamp": "2025-11-30T11:28:45.268Z"
+  },
+  {
+    "memoryUsage": "62.01",
+    "cpuUsage": {
+      "user": 1687000,
+      "system": 609000
+    },
+    "uptime": "166.29",
+    "timestamp": "2025-11-30T11:28:46.276Z"
+  },
+  {
+    "memoryUsage": "62.82",
+    "cpuUsage": {
+      "user": 1718000,
+      "system": 609000
+    },
+    "uptime": "167.30",
+    "timestamp": "2025-11-30T11:28:47.291Z"
+  },
+  {
+    "memoryUsage": "62.36",
+    "cpuUsage": {
+      "user": 1734000,
+      "system": 609000
+    },
+    "uptime": "168.30",
+    "timestamp": "2025-11-30T11:28:48.291Z"
+  },
+  {
+    "memoryUsage": "63.16",
+    "cpuUsage": {
+      "user": 1750000,
+      "system": 625000
+    },
+    "uptime": "169.32",
+    "timestamp": "2025-11-30T11:28:49.305Z"
+  },
+  {
+    "memoryUsage": "63.16",
+    "cpuUsage": {
+      "user": 1765000,
+      "system": 625000
+    },
+    "uptime": "170.33",
+    "timestamp": "2025-11-30T11:28:50.320Z"
+  },
+  {
+    "memoryUsage": "62.82",
+    "cpuUsage": {
+      "user": 1796000,
+      "system": 625000
+    },
+    "uptime": "171.34",
+    "timestamp": "2025-11-30T11:28:51.326Z"
+  },
+  {
+    "memoryUsage": "62.38",
+    "cpuUsage": {
+      "user": 1796000,
+      "system": 625000
+    },
+    "uptime": "172.35",
+    "timestamp": "2025-11-30T11:28:52.335Z"
+  },
+  {
+    "memoryUsage": "63.18",
+    "cpuUsage": {
+      "user": 1828000,
+      "system": 625000
+    },
+    "uptime": "173.36",
+    "timestamp": "2025-11-30T11:28:53.347Z"
+  },
+  {
+    "memoryUsage": "63.18",
+    "cpuUsage": {
+      "user": 1843000,
+      "system": 625000
+    },
+    "uptime": "174.36",
+    "timestamp": "2025-11-30T11:28:54.347Z"
+  },
+  {
+    "memoryUsage": "62.82",
+    "cpuUsage": {
+      "user": 1843000,
+      "system": 625000
+    },
+    "uptime": "175.36",
+    "timestamp": "2025-11-30T11:28:55.347Z"
+  },
+  {
+    "memoryUsage": "63.24",
+    "cpuUsage": {
+      "user": 1859000,
+      "system": 625000
+    },
+    "uptime": "176.36",
+    "timestamp": "2025-11-30T11:28:56.351Z"
+  },
+  {
+    "memoryUsage": "63.18",
+    "cpuUsage": {
+      "user": 1875000,
+      "system": 640000
+    },
+    "uptime": "177.37",
+    "timestamp": "2025-11-30T11:28:57.355Z"
+  },
+  {
+    "memoryUsage": "62.02",
+    "cpuUsage": {
+      "user": 1875000,
+      "system": 640000
+    },
+    "uptime": "178.37",
+    "timestamp": "2025-11-30T11:28:58.358Z"
+  },
+  {
+    "memoryUsage": "61.71",
+    "cpuUsage": {
+      "user": 1875000,
+      "system": 640000
+    },
+    "uptime": "179.38",
+    "timestamp": "2025-11-30T11:28:59.371Z"
+  },
+  {
+    "memoryUsage": "63.54",
+    "cpuUsage": {
+      "user": 1875000,
+      "system": 640000
+    },
+    "uptime": "180.38",
+    "timestamp": "2025-11-30T11:29:00.372Z"
+  },
+  {
+    "memoryUsage": "63.19",
+    "cpuUsage": {
+      "user": 1875000,
+      "system": 640000
+    },
+    "uptime": "181.39",
+    "timestamp": "2025-11-30T11:29:01.377Z"
+  },
+  {
+    "memoryUsage": "62.03",
+    "cpuUsage": {
+      "user": 1875000,
+      "system": 640000
+    },
+    "uptime": "182.40",
+    "timestamp": "2025-11-30T11:29:02.384Z"
+  },
+  {
+    "memoryUsage": "62.84",
+    "cpuUsage": {
+      "user": 1890000,
+      "system": 640000
+    },
+    "uptime": "183.40",
+    "timestamp": "2025-11-30T11:29:03.393Z"
+  },
+  {
+    "memoryUsage": "63.54",
+    "cpuUsage": {
+      "user": 1890000,
+      "system": 656000
+    },
+    "uptime": "184.42",
+    "timestamp": "2025-11-30T11:29:04.408Z"
+  },
+  {
+    "memoryUsage": "63.18",
+    "cpuUsage": {
+      "user": 1890000,
+      "system": 656000
+    },
+    "uptime": "185.42",
+    "timestamp": "2025-11-30T11:29:05.409Z"
+  },
+  {
+    "memoryUsage": "62.89",
+    "cpuUsage": {
+      "user": 1906000,
+      "system": 656000
+    },
+    "uptime": "186.43",
+    "timestamp": "2025-11-30T11:29:06.419Z"
+  },
+  {
+    "memoryUsage": "62.84",
+    "cpuUsage": {
+      "user": 1906000,
+      "system": 656000
+    },
+    "uptime": "187.44",
+    "timestamp": "2025-11-30T11:29:07.425Z"
+  },
+  {
+    "memoryUsage": "62.38",
+    "cpuUsage": {
+      "user": 1906000,
+      "system": 656000
+    },
+    "uptime": "188.44",
+    "timestamp": "2025-11-30T11:29:08.429Z"
+  },
+  {
+    "memoryUsage": "62.11",
+    "cpuUsage": {
+      "user": 1921000,
+      "system": 671000
+    },
+    "uptime": "189.45",
+    "timestamp": "2025-11-30T11:29:09.433Z"
+  },
+  {
+    "memoryUsage": "63.19",
+    "cpuUsage": {
+      "user": 1921000,
+      "system": 671000
+    },
+    "uptime": "190.45",
+    "timestamp": "2025-11-30T11:29:10.442Z"
+  },
+  {
+    "memoryUsage": "62.82",
+    "cpuUsage": {
+      "user": 1921000,
+      "system": 687000
+    },
+    "uptime": "191.47",
+    "timestamp": "2025-11-30T11:29:11.454Z"
+  },
+  {
+    "memoryUsage": "63.25",
+    "cpuUsage": {
+      "user": 1921000,
+      "system": 687000
+    },
+    "uptime": "192.47",
+    "timestamp": "2025-11-30T11:29:12.459Z"
+  },
+  {
+    "memoryUsage": "63.19",
+    "cpuUsage": {
+      "user": 1937000,
+      "system": 687000
+    },
+    "uptime": "193.48",
+    "timestamp": "2025-11-30T11:29:13.469Z"
+  },
+  {
+    "memoryUsage": "62.04",
+    "cpuUsage": {
+      "user": 1937000,
+      "system": 687000
+    },
+    "uptime": "194.49",
+    "timestamp": "2025-11-30T11:29:14.475Z"
+  },
+  {
+    "memoryUsage": "61.72",
+    "cpuUsage": {
+      "user": 1937000,
+      "system": 703000
+    },
+    "uptime": "195.49",
+    "timestamp": "2025-11-30T11:29:15.476Z"
+  },
+  {
+    "memoryUsage": "60.66",
+    "cpuUsage": {
+      "user": 265000,
+      "system": 125000
+    },
+    "uptime": "1.23",
+    "timestamp": "2025-11-30T11:29:17.231Z"
+  },
+  {
+    "memoryUsage": "61.26",
+    "cpuUsage": {
+      "user": 281000,
+      "system": 125000
+    },
+    "uptime": "2.24",
+    "timestamp": "2025-11-30T11:29:18.243Z"
+  },
+  {
+    "memoryUsage": "62.36",
+    "cpuUsage": {
+      "user": 296000,
+      "system": 125000
+    },
+    "uptime": "3.24",
+    "timestamp": "2025-11-30T11:29:19.249Z"
+  },
+  {
+    "memoryUsage": "63.04",
+    "cpuUsage": {
+      "user": 312000,
+      "system": 125000
+    },
+    "uptime": "4.25",
+    "timestamp": "2025-11-30T11:29:20.257Z"
+  },
+  {
+    "memoryUsage": "64.16",
+    "cpuUsage": {
+      "user": 312000,
+      "system": 125000
+    },
+    "uptime": "5.26",
+    "timestamp": "2025-11-30T11:29:21.263Z"
+  },
+  {
+    "memoryUsage": "61.49",
+    "cpuUsage": {
+      "user": 328000,
+      "system": 125000
+    },
+    "uptime": "6.26",
+    "timestamp": "2025-11-30T11:29:22.266Z"
+  },
+  {
+    "memoryUsage": "61.69",
+    "cpuUsage": {
+      "user": 343000,
+      "system": 125000
+    },
+    "uptime": "7.26",
+    "timestamp": "2025-11-30T11:29:23.268Z"
+  },
+  {
+    "memoryUsage": "61.66",
+    "cpuUsage": {
+      "user": 343000,
+      "system": 125000
+    },
+    "uptime": "8.28",
+    "timestamp": "2025-11-30T11:29:24.281Z"
+  },
+  {
+    "memoryUsage": "62.73",
+    "cpuUsage": {
+      "user": 343000,
+      "system": 125000
+    },
+    "uptime": "9.29",
+    "timestamp": "2025-11-30T11:29:25.298Z"
+  },
+  {
+    "memoryUsage": "61.59",
+    "cpuUsage": {
+      "user": 343000,
+      "system": 125000
+    },
+    "uptime": "10.31",
+    "timestamp": "2025-11-30T11:29:26.314Z"
+  },
+  {
+    "memoryUsage": "61.43",
+    "cpuUsage": {
+      "user": 343000,
+      "system": 125000
+    },
+    "uptime": "11.31",
+    "timestamp": "2025-11-30T11:29:27.314Z"
+  },
+  {
+    "memoryUsage": "62.11",
+    "cpuUsage": {
+      "user": 343000,
+      "system": 125000
+    },
+    "uptime": "12.32",
+    "timestamp": "2025-11-30T11:29:28.330Z"
+  },
+  {
+    "memoryUsage": "61.80",
+    "cpuUsage": {
+      "user": 343000,
+      "system": 125000
+    },
+    "uptime": "13.33",
+    "timestamp": "2025-11-30T11:29:29.331Z"
+  },
+  {
+    "memoryUsage": "1445.95",
+    "cpuUsage": {
+      "user": 1796000,
+      "system": 1437000
+    },
+    "uptime": "17.06",
+    "timestamp": "2025-11-30T11:29:33.066Z"
+  },
+  {
+    "memoryUsage": "884.56",
+    "cpuUsage": {
+      "user": 2046000,
+      "system": 1500000
+    },
+    "uptime": "18.07",
+    "timestamp": "2025-11-30T11:29:34.079Z"
+  },
+  {
+    "memoryUsage": "886.68",
+    "cpuUsage": {
+      "user": 2046000,
+      "system": 1500000
+    },
+    "uptime": "19.07",
+    "timestamp": "2025-11-30T11:29:35.080Z"
+  },
+  {
+    "memoryUsage": "886.85",
+    "cpuUsage": {
+      "user": 2046000,
+      "system": 1500000
+    },
+    "uptime": "20.08",
+    "timestamp": "2025-11-30T11:29:36.082Z"
+  },
+  {
+    "memoryUsage": "890.14",
+    "cpuUsage": {
+      "user": 2046000,
+      "system": 1500000
+    },
+    "uptime": "21.09",
+    "timestamp": "2025-11-30T11:29:37.097Z"
+  },
+  {
+    "memoryUsage": "890.35",
+    "cpuUsage": {
+      "user": 2046000,
+      "system": 1500000
+    },
+    "uptime": "22.09",
+    "timestamp": "2025-11-30T11:29:38.098Z"
+  },
+  {
+    "memoryUsage": "893.52",
+    "cpuUsage": {
+      "user": 2046000,
+      "system": 1500000
+    },
+    "uptime": "23.10",
+    "timestamp": "2025-11-30T11:29:39.103Z"
+  },
+  {
+    "memoryUsage": "893.65",
+    "cpuUsage": {
+      "user": 2046000,
+      "system": 1500000
+    },
+    "uptime": "24.11",
+    "timestamp": "2025-11-30T11:29:40.113Z"
+  },
+  {
+    "memoryUsage": "896.89",
+    "cpuUsage": {
+      "user": 2062000,
+      "system": 1500000
+    },
+    "uptime": "25.11",
+    "timestamp": "2025-11-30T11:29:41.113Z"
+  },
+  {
+    "memoryUsage": "2110.95",
+    "cpuUsage": {
+      "user": 3578000,
+      "system": 2031000
+    },
+    "uptime": "27.85",
+    "timestamp": "2025-11-30T11:29:43.859Z"
+  },
+  {
+    "memoryUsage": "900.63",
+    "cpuUsage": {
+      "user": 3781000,
+      "system": 2062000
+    },
+    "uptime": "28.86",
+    "timestamp": "2025-11-30T11:29:44.864Z"
+  },
+  {
+    "memoryUsage": "901.72",
+    "cpuUsage": {
+      "user": 3781000,
+      "system": 2062000
+    },
+    "uptime": "29.87",
+    "timestamp": "2025-11-30T11:29:45.880Z"
+  },
+  {
+    "memoryUsage": "902.52",
+    "cpuUsage": {
+      "user": 3796000,
+      "system": 2078000
+    },
+    "uptime": "30.88",
+    "timestamp": "2025-11-30T11:29:46.881Z"
+  },
+  {
+    "memoryUsage": "903.64",
+    "cpuUsage": {
+      "user": 3796000,
+      "system": 2093000
+    },
+    "uptime": "31.89",
+    "timestamp": "2025-11-30T11:29:47.896Z"
+  },
+  {
+    "memoryUsage": "904.33",
+    "cpuUsage": {
+      "user": 3796000,
+      "system": 2093000
+    },
+    "uptime": "32.91",
+    "timestamp": "2025-11-30T11:29:48.913Z"
+  },
+  {
+    "memoryUsage": "905.44",
+    "cpuUsage": {
+      "user": 3796000,
+      "system": 2109000
+    },
+    "uptime": "33.91",
+    "timestamp": "2025-11-30T11:29:49.913Z"
+  },
+  {
+    "memoryUsage": "906.13",
+    "cpuUsage": {
+      "user": 3796000,
+      "system": 2109000
+    },
+    "uptime": "34.91",
+    "timestamp": "2025-11-30T11:29:50.913Z"
+  },
+  {
+    "memoryUsage": "907.25",
+    "cpuUsage": {
+      "user": 3796000,
+      "system": 2109000
+    },
+    "uptime": "35.91",
+    "timestamp": "2025-11-30T11:29:51.915Z"
+  },
+  {
+    "memoryUsage": "908.04",
+    "cpuUsage": {
+      "user": 3796000,
+      "system": 2125000
+    },
+    "uptime": "36.91",
+    "timestamp": "2025-11-30T11:29:52.918Z"
+  },
+  {
+    "memoryUsage": "909.36",
+    "cpuUsage": {
+      "user": 3812000,
+      "system": 2125000
+    },
+    "uptime": "37.93",
+    "timestamp": "2025-11-30T11:29:53.932Z"
+  },
+  {
+    "memoryUsage": "910.04",
+    "cpuUsage": {
+      "user": 3828000,
+      "system": 2125000
+    },
+    "uptime": "38.93",
+    "timestamp": "2025-11-30T11:29:54.936Z"
+  },
+  {
+    "memoryUsage": "911.16",
+    "cpuUsage": {
+      "user": 3859000,
+      "system": 2125000
+    },
+    "uptime": "39.94",
+    "timestamp": "2025-11-30T11:29:55.947Z"
+  },
+  {
+    "memoryUsage": "911.85",
+    "cpuUsage": {
+      "user": 3875000,
+      "system": 2125000
+    },
+    "uptime": "40.96",
+    "timestamp": "2025-11-30T11:29:56.962Z"
+  },
+  {
+    "memoryUsage": "912.96",
+    "cpuUsage": {
+      "user": 3890000,
+      "system": 2125000
+    },
+    "uptime": "41.97",
+    "timestamp": "2025-11-30T11:29:57.976Z"
+  },
+  {
+    "memoryUsage": "913.64",
+    "cpuUsage": {
+      "user": 3906000,
+      "system": 2125000
+    },
+    "uptime": "42.98",
+    "timestamp": "2025-11-30T11:29:58.986Z"
+  },
+  {
+    "memoryUsage": "900.14",
+    "cpuUsage": {
+      "user": 3921000,
+      "system": 2125000
+    },
+    "uptime": "43.99",
+    "timestamp": "2025-11-30T11:29:59.996Z"
+  },
+  {
+    "memoryUsage": "901.33",
+    "cpuUsage": {
+      "user": 3921000,
+      "system": 2140000
+    },
+    "uptime": "45.00",
+    "timestamp": "2025-11-30T11:30:01.008Z"
+  },
+  {
+    "memoryUsage": "903.45",
+    "cpuUsage": {
+      "user": 3921000,
+      "system": 2140000
+    },
+    "uptime": "46.01",
+    "timestamp": "2025-11-30T11:30:02.012Z"
+  },
+  {
+    "memoryUsage": "904.68",
+    "cpuUsage": {
+      "user": 3937000,
+      "system": 2140000
+    },
+    "uptime": "47.01",
+    "timestamp": "2025-11-30T11:30:03.014Z"
+  },
+  {
+    "memoryUsage": "906.79",
+    "cpuUsage": {
+      "user": 3968000,
+      "system": 2140000
+    },
+    "uptime": "48.02",
+    "timestamp": "2025-11-30T11:30:04.024Z"
+  },
+  {
+    "memoryUsage": "908.02",
+    "cpuUsage": {
+      "user": 3984000,
+      "system": 2140000
+    },
+    "uptime": "49.02",
+    "timestamp": "2025-11-30T11:30:05.029Z"
+  },
+  {
+    "memoryUsage": "910.19",
+    "cpuUsage": {
+      "user": 4000000,
+      "system": 2156000
+    },
+    "uptime": "50.02",
+    "timestamp": "2025-11-30T11:30:06.029Z"
+  },
+  {
+    "memoryUsage": "911.38",
+    "cpuUsage": {
+      "user": 4015000,
+      "system": 2156000
+    },
+    "uptime": "51.04",
+    "timestamp": "2025-11-30T11:30:07.042Z"
+  },
+  {
+    "memoryUsage": "913.50",
+    "cpuUsage": {
+      "user": 4015000,
+      "system": 2171000
+    },
+    "uptime": "52.05",
+    "timestamp": "2025-11-30T11:30:08.053Z"
+  },
+  {
+    "memoryUsage": "914.75",
+    "cpuUsage": {
+      "user": 4031000,
+      "system": 2171000
+    },
+    "uptime": "53.05",
+    "timestamp": "2025-11-30T11:30:09.054Z"
+  },
+  {
+    "memoryUsage": "916.92",
+    "cpuUsage": {
+      "user": 4031000,
+      "system": 2187000
+    },
+    "uptime": "54.05",
+    "timestamp": "2025-11-30T11:30:10.058Z"
+  },
+  {
+    "memoryUsage": "918.16",
+    "cpuUsage": {
+      "user": 4046000,
+      "system": 2187000
+    },
+    "uptime": "55.05",
+    "timestamp": "2025-11-30T11:30:11.059Z"
+  },
+  {
+    "memoryUsage": "920.25",
+    "cpuUsage": {
+      "user": 4062000,
+      "system": 2203000
+    },
+    "uptime": "56.06",
+    "timestamp": "2025-11-30T11:30:12.066Z"
+  },
+  {
+    "memoryUsage": "921.46",
+    "cpuUsage": {
+      "user": 4062000,
+      "system": 2203000
+    },
+    "uptime": "57.06",
+    "timestamp": "2025-11-30T11:30:13.066Z"
+  },
+  {
+    "memoryUsage": "923.64",
+    "cpuUsage": {
+      "user": 4078000,
+      "system": 2218000
+    },
+    "uptime": "58.08",
+    "timestamp": "2025-11-30T11:30:14.081Z"
+  },
+  {
+    "memoryUsage": "924.88",
+    "cpuUsage": {
+      "user": 4078000,
+      "system": 2218000
+    },
+    "uptime": "59.09",
+    "timestamp": "2025-11-30T11:30:15.098Z"
+  },
+  {
+    "memoryUsage": "926.98",
+    "cpuUsage": {
+      "user": 4078000,
+      "system": 2218000
+    },
+    "uptime": "60.11",
+    "timestamp": "2025-11-30T11:30:16.111Z"
+  },
+  {
+    "memoryUsage": "913.08",
+    "cpuUsage": {
+      "user": 4078000,
+      "system": 2218000
+    },
+    "uptime": "61.11",
+    "timestamp": "2025-11-30T11:30:17.126Z"
+  },
+  {
+    "memoryUsage": "913.50",
+    "cpuUsage": {
+      "user": 4078000,
+      "system": 2218000
+    },
+    "uptime": "62.11",
+    "timestamp": "2025-11-30T11:30:18.126Z"
+  },
+  {
+    "memoryUsage": "913.55",
+    "cpuUsage": {
+      "user": 4078000,
+      "system": 2234000
+    },
+    "uptime": "63.12",
+    "timestamp": "2025-11-30T11:30:19.142Z"
+  },
+  {
+    "memoryUsage": "913.23",
+    "cpuUsage": {
+      "user": 4093000,
+      "system": 2234000
+    },
+    "uptime": "64.12",
+    "timestamp": "2025-11-30T11:30:20.142Z"
+  },
+  {
+    "memoryUsage": "913.92",
+    "cpuUsage": {
+      "user": 4093000,
+      "system": 2234000
+    },
+    "uptime": "65.12",
+    "timestamp": "2025-11-30T11:30:21.142Z"
+  },
+  {
+    "memoryUsage": "25.78",
+    "cpuUsage": {
+      "user": 4171000,
+      "system": 2265000
+    },
+    "uptime": "66.15",
+    "timestamp": "2025-11-30T11:30:22.162Z"
+  },
+  {
+    "memoryUsage": "23.93",
+    "cpuUsage": {
+      "user": 4203000,
+      "system": 2281000
+    },
+    "uptime": "67.16",
+    "timestamp": "2025-11-30T11:30:23.176Z"
+  },
+  {
+    "memoryUsage": "26.65",
+    "cpuUsage": {
+      "user": 4203000,
+      "system": 2296000
+    },
+    "uptime": "68.16",
+    "timestamp": "2025-11-30T11:30:24.175Z"
+  },
+  {
+    "memoryUsage": "26.96",
+    "cpuUsage": {
+      "user": 4203000,
+      "system": 2296000
+    },
+    "uptime": "69.16",
+    "timestamp": "2025-11-30T11:30:25.176Z"
+  },
+  {
+    "memoryUsage": "25.88",
+    "cpuUsage": {
+      "user": 4203000,
+      "system": 2312000
+    },
+    "uptime": "70.17",
+    "timestamp": "2025-11-30T11:30:26.190Z"
+  },
+  {
+    "memoryUsage": "26.80",
+    "cpuUsage": {
+      "user": 4218000,
+      "system": 2312000
+    },
+    "uptime": "71.18",
+    "timestamp": "2025-11-30T11:30:27.192Z"
+  },
+  {
+    "memoryUsage": "26.32",
+    "cpuUsage": {
+      "user": 4218000,
+      "system": 2328000
+    },
+    "uptime": "72.19",
+    "timestamp": "2025-11-30T11:30:28.208Z"
+  },
+  {
+    "memoryUsage": "26.29",
+    "cpuUsage": {
+      "user": 4218000,
+      "system": 2343000
+    },
+    "uptime": "73.19",
+    "timestamp": "2025-11-30T11:30:29.208Z"
+  },
+  {
+    "memoryUsage": "26.08",
+    "cpuUsage": {
+      "user": 4234000,
+      "system": 2359000
+    },
+    "uptime": "74.19",
+    "timestamp": "2025-11-30T11:30:30.209Z"
+  },
+  {
+    "memoryUsage": "26.78",
+    "cpuUsage": {
+      "user": 4250000,
+      "system": 2359000
+    },
+    "uptime": "75.21",
+    "timestamp": "2025-11-30T11:30:31.224Z"
+  },
+  {
+    "memoryUsage": "27.64",
+    "cpuUsage": {
+      "user": 4265000,
+      "system": 2359000
+    },
+    "uptime": "76.22",
+    "timestamp": "2025-11-30T11:30:32.238Z"
+  },
+  {
+    "memoryUsage": "26.41",
+    "cpuUsage": {
+      "user": 4265000,
+      "system": 2359000
+    },
+    "uptime": "77.23",
+    "timestamp": "2025-11-30T11:30:33.242Z"
+  },
+  {
+    "memoryUsage": "27.46",
+    "cpuUsage": {
+      "user": 4265000,
+      "system": 2375000
+    },
+    "uptime": "78.23",
+    "timestamp": "2025-11-30T11:30:34.243Z"
+  },
+  {
+    "memoryUsage": "26.93",
+    "cpuUsage": {
+      "user": 4281000,
+      "system": 2375000
+    },
+    "uptime": "79.23",
+    "timestamp": "2025-11-30T11:30:35.249Z"
+  },
+  {
+    "memoryUsage": "26.60",
+    "cpuUsage": {
+      "user": 4296000,
+      "system": 2375000
+    },
+    "uptime": "80.24",
+    "timestamp": "2025-11-30T11:30:36.259Z"
+  },
+  {
+    "memoryUsage": "26.57",
+    "cpuUsage": {
+      "user": 4312000,
+      "system": 2375000
+    },
+    "uptime": "81.26",
+    "timestamp": "2025-11-30T11:30:37.272Z"
+  },
+  {
+    "memoryUsage": "27.43",
+    "cpuUsage": {
+      "user": 4312000,
+      "system": 2390000
+    },
+    "uptime": "82.26",
+    "timestamp": "2025-11-30T11:30:38.281Z"
+  },
+  {
+    "memoryUsage": "27.83",
+    "cpuUsage": {
+      "user": 4312000,
+      "system": 2390000
+    },
+    "uptime": "83.27",
+    "timestamp": "2025-11-30T11:30:39.291Z"
+  },
+  {
+    "memoryUsage": "26.60",
+    "cpuUsage": {
+      "user": 4328000,
+      "system": 2390000
+    },
+    "uptime": "84.27",
+    "timestamp": "2025-11-30T11:30:40.291Z"
+  },
+  {
+    "memoryUsage": "26.57",
+    "cpuUsage": {
+      "user": 4343000,
+      "system": 2390000
+    },
+    "uptime": "85.27",
+    "timestamp": "2025-11-30T11:30:41.291Z"
+  },
+  {
+    "memoryUsage": "26.23",
+    "cpuUsage": {
+      "user": 4359000,
+      "system": 2390000
+    },
+    "uptime": "86.27",
+    "timestamp": "2025-11-30T11:30:42.292Z"
+  },
+  {
+    "memoryUsage": "26.93",
+    "cpuUsage": {
+      "user": 4359000,
+      "system": 2390000
+    },
+    "uptime": "87.28",
+    "timestamp": "2025-11-30T11:30:43.298Z"
+  },
+  {
+    "memoryUsage": "28.00",
+    "cpuUsage": {
+      "user": 4359000,
+      "system": 2390000
+    },
+    "uptime": "88.29",
+    "timestamp": "2025-11-30T11:30:44.307Z"
+  },
+  {
+    "memoryUsage": "27.53",
+    "cpuUsage": {
+      "user": 4359000,
+      "system": 2390000
+    },
+    "uptime": "89.29",
+    "timestamp": "2025-11-30T11:30:45.309Z"
+  },
+  {
+    "memoryUsage": "26.45",
+    "cpuUsage": {
+      "user": 4375000,
+      "system": 2390000
+    },
+    "uptime": "90.29",
+    "timestamp": "2025-11-30T11:30:46.309Z"
+  },
+  {
+    "memoryUsage": "27.03",
+    "cpuUsage": {
+      "user": 4375000,
+      "system": 2390000
+    },
+    "uptime": "91.29",
+    "timestamp": "2025-11-30T11:30:47.309Z"
+  },
+  {
+    "memoryUsage": "26.75",
+    "cpuUsage": {
+      "user": 4390000,
+      "system": 2390000
+    },
+    "uptime": "92.29",
+    "timestamp": "2025-11-30T11:30:48.309Z"
+  },
+  {
+    "memoryUsage": "26.72",
+    "cpuUsage": {
+      "user": 4390000,
+      "system": 2390000
+    },
+    "uptime": "93.29",
+    "timestamp": "2025-11-30T11:30:49.310Z"
+  },
+  {
+    "memoryUsage": "27.61",
+    "cpuUsage": {
+      "user": 4406000,
+      "system": 2390000
+    },
+    "uptime": "94.30",
+    "timestamp": "2025-11-30T11:30:50.318Z"
+  },
+  {
+    "memoryUsage": "27.99",
+    "cpuUsage": {
+      "user": 4421000,
+      "system": 2390000
+    },
+    "uptime": "95.31",
+    "timestamp": "2025-11-30T11:30:51.324Z"
+  },
+  {
+    "memoryUsage": "26.75",
+    "cpuUsage": {
+      "user": 4421000,
+      "system": 2390000
+    },
+    "uptime": "96.31",
+    "timestamp": "2025-11-30T11:30:52.326Z"
+  },
+  {
+    "memoryUsage": "26.79",
+    "cpuUsage": {
+      "user": 4421000,
+      "system": 2390000
+    },
+    "uptime": "97.32",
+    "timestamp": "2025-11-30T11:30:53.341Z"
+  },
+  {
+    "memoryUsage": "26.45",
+    "cpuUsage": {
+      "user": 4437000,
+      "system": 2390000
+    },
+    "uptime": "98.32",
+    "timestamp": "2025-11-30T11:30:54.341Z"
+  },
+  {
+    "memoryUsage": "27.17",
+    "cpuUsage": {
+      "user": 4437000,
+      "system": 2390000
+    },
+    "uptime": "99.33",
+    "timestamp": "2025-11-30T11:30:55.342Z"
+  },
+  {
+    "memoryUsage": "28.05",
+    "cpuUsage": {
+      "user": 4437000,
+      "system": 2390000
+    },
+    "uptime": "100.34",
+    "timestamp": "2025-11-30T11:30:56.357Z"
+  },
+  {
+    "memoryUsage": "27.70",
+    "cpuUsage": {
+      "user": 4437000,
+      "system": 2390000
+    },
+    "uptime": "101.34",
+    "timestamp": "2025-11-30T11:30:57.357Z"
+  },
+  {
+    "memoryUsage": "27.85",
+    "cpuUsage": {
+      "user": 4437000,
+      "system": 2390000
+    },
+    "uptime": "102.34",
+    "timestamp": "2025-11-30T11:30:58.358Z"
+  },
+  {
+    "memoryUsage": "27.64",
+    "cpuUsage": {
+      "user": 4437000,
+      "system": 2390000
+    },
+    "uptime": "103.34",
+    "timestamp": "2025-11-30T11:30:59.359Z"
+  },
+  {
+    "memoryUsage": "27.30",
+    "cpuUsage": {
+      "user": 4437000,
+      "system": 2390000
+    },
+    "uptime": "104.34",
+    "timestamp": "2025-11-30T11:31:00.358Z"
+  },
+  {
+    "memoryUsage": "27.27",
+    "cpuUsage": {
+      "user": 4437000,
+      "system": 2390000
+    },
+    "uptime": "105.34",
+    "timestamp": "2025-11-30T11:31:01.361Z"
+  },
+  {
+    "memoryUsage": "28.11",
+    "cpuUsage": {
+      "user": 4437000,
+      "system": 2390000
+    },
+    "uptime": "106.36",
+    "timestamp": "2025-11-30T11:31:02.374Z"
+  },
+  {
+    "memoryUsage": "28.85",
+    "cpuUsage": {
+      "user": 4437000,
+      "system": 2390000
+    },
+    "uptime": "107.36",
+    "timestamp": "2025-11-30T11:31:03.374Z"
+  },
+  {
+    "memoryUsage": "28.24",
+    "cpuUsage": {
+      "user": 4437000,
+      "system": 2390000
+    },
+    "uptime": "108.36",
+    "timestamp": "2025-11-30T11:31:04.374Z"
+  },
+  {
+    "memoryUsage": "27.27",
+    "cpuUsage": {
+      "user": 4437000,
+      "system": 2390000
+    },
+    "uptime": "109.36",
+    "timestamp": "2025-11-30T11:31:05.376Z"
+  },
+  {
+    "memoryUsage": "26.93",
+    "cpuUsage": {
+      "user": 4453000,
+      "system": 2390000
+    },
+    "uptime": "110.36",
+    "timestamp": "2025-11-30T11:31:06.376Z"
+  },
+  {
+    "memoryUsage": "27.64",
+    "cpuUsage": {
+      "user": 4468000,
+      "system": 2390000
+    },
+    "uptime": "111.36",
+    "timestamp": "2025-11-30T11:31:07.377Z"
+  },
+  {
+    "memoryUsage": "28.48",
+    "cpuUsage": {
+      "user": 4468000,
+      "system": 2390000
+    },
+    "uptime": "112.36",
+    "timestamp": "2025-11-30T11:31:08.379Z"
+  },
+  {
+    "memoryUsage": "27.27",
+    "cpuUsage": {
+      "user": 4484000,
+      "system": 2390000
+    },
+    "uptime": "113.36",
+    "timestamp": "2025-11-30T11:31:09.381Z"
+  },
+  {
+    "memoryUsage": "26.93",
+    "cpuUsage": {
+      "user": 4515000,
+      "system": 2390000
+    },
+    "uptime": "114.37",
+    "timestamp": "2025-11-30T11:31:10.391Z"
+  },
+  {
+    "memoryUsage": "27.64",
+    "cpuUsage": {
+      "user": 4515000,
+      "system": 2390000
+    },
+    "uptime": "115.37",
+    "timestamp": "2025-11-30T11:31:11.391Z"
+  },
+  {
+    "memoryUsage": "28.48",
+    "cpuUsage": {
+      "user": 4531000,
+      "system": 2390000
+    },
+    "uptime": "116.39",
+    "timestamp": "2025-11-30T11:31:12.406Z"
+  },
+  {
+    "memoryUsage": "28.48",
+    "cpuUsage": {
+      "user": 4531000,
+      "system": 2390000
+    },
+    "uptime": "117.39",
+    "timestamp": "2025-11-30T11:31:13.408Z"
+  },
+  {
+    "memoryUsage": "27.94",
+    "cpuUsage": {
+      "user": 4546000,
+      "system": 2390000
+    },
+    "uptime": "118.39",
+    "timestamp": "2025-11-30T11:31:14.409Z"
+  },
+  {
+    "memoryUsage": "27.71",
+    "cpuUsage": {
+      "user": 4546000,
+      "system": 2390000
+    },
+    "uptime": "119.39",
+    "timestamp": "2025-11-30T11:31:15.409Z"
+  },
+  {
+    "memoryUsage": "27.38",
+    "cpuUsage": {
+      "user": 4562000,
+      "system": 2406000
+    },
+    "uptime": "120.39",
+    "timestamp": "2025-11-30T11:31:16.411Z"
+  },
+  {
+    "memoryUsage": "27.36",
+    "cpuUsage": {
+      "user": 4593000,
+      "system": 2406000
+    },
+    "uptime": "121.41",
+    "timestamp": "2025-11-30T11:31:17.426Z"
+  },
+  {
+    "memoryUsage": "28.15",
+    "cpuUsage": {
+      "user": 4593000,
+      "system": 2406000
+    },
+    "uptime": "122.41",
+    "timestamp": "2025-11-30T11:31:18.427Z"
+  },
+  {
+    "memoryUsage": "28.90",
+    "cpuUsage": {
+      "user": 4609000,
+      "system": 2406000
+    },
+    "uptime": "123.42",
+    "timestamp": "2025-11-30T11:31:19.441Z"
+  },
+  {
+    "memoryUsage": "28.34",
+    "cpuUsage": {
+      "user": 4625000,
+      "system": 2406000
+    },
+    "uptime": "124.43",
+    "timestamp": "2025-11-30T11:31:20.442Z"
+  },
+  {
+    "memoryUsage": "27.37",
+    "cpuUsage": {
+      "user": 4640000,
+      "system": 2406000
+    },
+    "uptime": "125.44",
+    "timestamp": "2025-11-30T11:31:21.456Z"
+  },
+  {
+    "memoryUsage": "27.05",
+    "cpuUsage": {
+      "user": 4640000,
+      "system": 2406000
+    },
+    "uptime": "126.44",
+    "timestamp": "2025-11-30T11:31:22.458Z"
+  },
+  {
+    "memoryUsage": "27.77",
+    "cpuUsage": {
+      "user": 4640000,
+      "system": 2406000
+    },
+    "uptime": "127.44",
+    "timestamp": "2025-11-30T11:31:23.458Z"
+  },
+  {
+    "memoryUsage": "27.43",
+    "cpuUsage": {
+      "user": 4656000,
+      "system": 2421000
+    },
+    "uptime": "128.45",
+    "timestamp": "2025-11-30T11:31:24.468Z"
+  },
+  {
+    "memoryUsage": "27.40",
+    "cpuUsage": {
+      "user": 4656000,
+      "system": 2421000
+    },
+    "uptime": "129.46",
+    "timestamp": "2025-11-30T11:31:25.474Z"
+  },
+  {
+    "memoryUsage": "28.19",
+    "cpuUsage": {
+      "user": 4656000,
+      "system": 2421000
+    },
+    "uptime": "130.46",
+    "timestamp": "2025-11-30T11:31:26.474Z"
+  },
+  {
+    "memoryUsage": "28.94",
+    "cpuUsage": {
+      "user": 4656000,
+      "system": 2421000
+    },
+    "uptime": "131.46",
+    "timestamp": "2025-11-30T11:31:27.475Z"
+  },
+  {
+    "memoryUsage": "27.43",
+    "cpuUsage": {
+      "user": 4671000,
+      "system": 2421000
+    },
+    "uptime": "132.46",
+    "timestamp": "2025-11-30T11:31:28.476Z"
+  },
+  {
+    "memoryUsage": "28.52",
+    "cpuUsage": {
+      "user": 4687000,
+      "system": 2421000
+    },
+    "uptime": "133.47",
+    "timestamp": "2025-11-30T11:31:29.482Z"
+  },
+  {
+    "memoryUsage": "27.96",
+    "cpuUsage": {
+      "user": 4687000,
+      "system": 2421000
+    },
+    "uptime": "134.47",
+    "timestamp": "2025-11-30T11:31:30.486Z"
+  },
+  {
+    "memoryUsage": "27.73",
+    "cpuUsage": {
+      "user": 4703000,
+      "system": 2421000
+    },
+    "uptime": "135.47",
+    "timestamp": "2025-11-30T11:31:31.491Z"
+  },
+  {
+    "memoryUsage": "27.40",
+    "cpuUsage": {
+      "user": 4718000,
+      "system": 2421000
+    },
+    "uptime": "136.47",
+    "timestamp": "2025-11-30T11:31:32.492Z"
+  },
+  {
+    "memoryUsage": "28.22",
+    "cpuUsage": {
+      "user": 4734000,
+      "system": 2421000
+    },
+    "uptime": "137.48",
+    "timestamp": "2025-11-30T11:31:33.493Z"
+  },
+  {
+    "memoryUsage": "27.81",
+    "cpuUsage": {
+      "user": 4750000,
+      "system": 2421000
+    },
+    "uptime": "138.48",
+    "timestamp": "2025-11-30T11:31:34.496Z"
+  },
+  {
+    "memoryUsage": "28.42",
+    "cpuUsage": {
+      "user": 4750000,
+      "system": 2421000
+    },
+    "uptime": "139.49",
+    "timestamp": "2025-11-30T11:31:35.504Z"
+  },
+  {
+    "memoryUsage": "28.61",
+    "cpuUsage": {
+      "user": 4750000,
+      "system": 2421000
+    },
+    "uptime": "140.49",
+    "timestamp": "2025-11-30T11:31:36.510Z"
+  },
+  {
+    "memoryUsage": "28.24",
+    "cpuUsage": {
+      "user": 4765000,
+      "system": 2421000
+    },
+    "uptime": "141.51",
+    "timestamp": "2025-11-30T11:31:37.522Z"
+  },
+  {
+    "memoryUsage": "28.99",
+    "cpuUsage": {
+      "user": 4781000,
+      "system": 2421000
+    },
+    "uptime": "142.51",
+    "timestamp": "2025-11-30T11:31:38.523Z"
+  },
+  {
+    "memoryUsage": "29.14",
+    "cpuUsage": {
+      "user": 4796000,
+      "system": 2421000
+    },
+    "uptime": "143.51",
+    "timestamp": "2025-11-30T11:31:39.525Z"
+  },
+  {
+    "memoryUsage": "29.34",
+    "cpuUsage": {
+      "user": 4812000,
+      "system": 2421000
+    },
+    "uptime": "144.51",
+    "timestamp": "2025-11-30T11:31:40.526Z"
+  },
+  {
+    "memoryUsage": "28.74",
+    "cpuUsage": {
+      "user": 4828000,
+      "system": 2421000
+    },
+    "uptime": "145.51",
+    "timestamp": "2025-11-30T11:31:41.525Z"
+  },
+  {
+    "memoryUsage": "29.68",
+    "cpuUsage": {
+      "user": 4843000,
+      "system": 2421000
+    },
+    "uptime": "146.51",
+    "timestamp": "2025-11-30T11:31:42.526Z"
+  },
+  {
+    "memoryUsage": "29.30",
+    "cpuUsage": {
+      "user": 4859000,
+      "system": 2437000
+    },
+    "uptime": "147.52",
+    "timestamp": "2025-11-30T11:31:43.540Z"
+  },
+  {
+    "memoryUsage": "28.03",
+    "cpuUsage": {
+      "user": 4859000,
+      "system": 2453000
+    },
+    "uptime": "148.53",
+    "timestamp": "2025-11-30T11:31:44.542Z"
+  },
+  {
+    "memoryUsage": "28.96",
+    "cpuUsage": {
+      "user": 4859000,
+      "system": 2453000
+    },
+    "uptime": "149.53",
+    "timestamp": "2025-11-30T11:31:45.543Z"
+  },
+  {
+    "memoryUsage": "29.71",
+    "cpuUsage": {
+      "user": 4859000,
+      "system": 2453000
+    },
+    "uptime": "150.53",
+    "timestamp": "2025-11-30T11:31:46.546Z"
+  },
+  {
+    "memoryUsage": "29.40",
+    "cpuUsage": {
+      "user": 4859000,
+      "system": 2453000
+    },
+    "uptime": "151.53",
+    "timestamp": "2025-11-30T11:31:47.550Z"
+  },
+  {
+    "memoryUsage": "29.40",
+    "cpuUsage": {
+      "user": 4859000,
+      "system": 2453000
+    },
+    "uptime": "152.53",
+    "timestamp": "2025-11-30T11:31:48.550Z"
+  },
+  {
+    "memoryUsage": "28.74",
+    "cpuUsage": {
+      "user": 4875000,
+      "system": 2453000
+    },
+    "uptime": "153.54",
+    "timestamp": "2025-11-30T11:31:49.558Z"
+  },
+  {
+    "memoryUsage": "28.53",
+    "cpuUsage": {
+      "user": 4875000,
+      "system": 2453000
+    },
+    "uptime": "154.54",
+    "timestamp": "2025-11-30T11:31:50.558Z"
+  },
+  {
+    "memoryUsage": "28.18",
+    "cpuUsage": {
+      "user": 4890000,
+      "system": 2453000
+    },
+    "uptime": "155.54",
+    "timestamp": "2025-11-30T11:31:51.559Z"
+  },
+  {
+    "memoryUsage": "28.15",
+    "cpuUsage": {
+      "user": 4890000,
+      "system": 2453000
+    },
+    "uptime": "156.55",
+    "timestamp": "2025-11-30T11:31:52.565Z"
+  },
+  {
+    "memoryUsage": "28.98",
+    "cpuUsage": {
+      "user": 4890000,
+      "system": 2453000
+    },
+    "uptime": "157.55",
+    "timestamp": "2025-11-30T11:31:53.565Z"
+  },
+  {
+    "memoryUsage": "29.75",
+    "cpuUsage": {
+      "user": 4890000,
+      "system": 2453000
+    },
+    "uptime": "158.56",
+    "timestamp": "2025-11-30T11:31:54.577Z"
+  },
+  {
+    "memoryUsage": "29.43",
+    "cpuUsage": {
+      "user": 4890000,
+      "system": 2453000
+    },
+    "uptime": "159.57",
+    "timestamp": "2025-11-30T11:31:55.589Z"
+  },
+  {
+    "memoryUsage": "29.43",
+    "cpuUsage": {
+      "user": 4890000,
+      "system": 2453000
+    },
+    "uptime": "160.57",
+    "timestamp": "2025-11-30T11:31:56.590Z"
+  },
+  {
+    "memoryUsage": "29.05",
+    "cpuUsage": {
+      "user": 4890000,
+      "system": 2453000
+    },
+    "uptime": "161.57",
+    "timestamp": "2025-11-30T11:31:57.590Z"
+  },
+  {
+    "memoryUsage": "29.82",
+    "cpuUsage": {
+      "user": 4890000,
+      "system": 2453000
+    },
+    "uptime": "162.58",
+    "timestamp": "2025-11-30T11:31:58.592Z"
+  },
+  {
+    "memoryUsage": "58.42",
+    "cpuUsage": {
+      "user": 171000,
+      "system": 281000
+    },
+    "uptime": "1.32",
+    "timestamp": "2025-11-30T11:32:00.814Z"
+  },
+  {
+    "memoryUsage": "60.32",
+    "cpuUsage": {
+      "user": 171000,
+      "system": 281000
+    },
+    "uptime": "2.33",
+    "timestamp": "2025-11-30T11:32:01.820Z"
+  },
+  {
+    "memoryUsage": "60.32",
+    "cpuUsage": {
+      "user": 171000,
+      "system": 296000
+    },
+    "uptime": "3.34",
+    "timestamp": "2025-11-30T11:32:02.829Z"
+  },
+  {
+    "memoryUsage": "62.23",
+    "cpuUsage": {
+      "user": 171000,
+      "system": 296000
+    },
+    "uptime": "4.34",
+    "timestamp": "2025-11-30T11:32:03.832Z"
+  },
+  {
+    "memoryUsage": "62.03",
+    "cpuUsage": {
+      "user": 171000,
+      "system": 296000
+    },
+    "uptime": "5.34",
+    "timestamp": "2025-11-30T11:32:04.834Z"
+  },
+  {
+    "memoryUsage": "64.24",
+    "cpuUsage": {
+      "user": 171000,
+      "system": 296000
+    },
+    "uptime": "6.35",
+    "timestamp": "2025-11-30T11:32:05.845Z"
+  },
+  {
+    "memoryUsage": "60.38",
+    "cpuUsage": {
+      "user": 171000,
+      "system": 296000
+    },
+    "uptime": "7.36",
+    "timestamp": "2025-11-30T11:32:06.847Z"
+  },
+  {
+    "memoryUsage": "62.48",
+    "cpuUsage": {
+      "user": 171000,
+      "system": 296000
+    },
+    "uptime": "8.36",
+    "timestamp": "2025-11-30T11:32:07.848Z"
+  },
+  {
+    "memoryUsage": "51.92",
+    "cpuUsage": {
+      "user": 218000,
+      "system": 328000
+    },
+    "uptime": "9.36",
+    "timestamp": "2025-11-30T11:32:08.848Z"
+  },
+  {
+    "memoryUsage": "53.42",
+    "cpuUsage": {
+      "user": 234000,
+      "system": 328000
+    },
+    "uptime": "10.37",
+    "timestamp": "2025-11-30T11:32:09.863Z"
+  },
+  {
+    "memoryUsage": "53.85",
+    "cpuUsage": {
+      "user": 234000,
+      "system": 328000
+    },
+    "uptime": "11.37",
+    "timestamp": "2025-11-30T11:32:10.863Z"
+  },
+  {
+    "memoryUsage": "53.90",
+    "cpuUsage": {
+      "user": 250000,
+      "system": 328000
+    },
+    "uptime": "12.37",
+    "timestamp": "2025-11-30T11:32:11.864Z"
+  },
+  {
+    "memoryUsage": "54.63",
+    "cpuUsage": {
+      "user": 250000,
+      "system": 328000
+    },
+    "uptime": "13.39",
+    "timestamp": "2025-11-30T11:32:12.878Z"
+  },
+  {
+    "memoryUsage": "54.29",
+    "cpuUsage": {
+      "user": 250000,
+      "system": 328000
+    },
+    "uptime": "14.39",
+    "timestamp": "2025-11-30T11:32:13.879Z"
+  },
+  {
+    "memoryUsage": "54.25",
+    "cpuUsage": {
+      "user": 265000,
+      "system": 343000
+    },
+    "uptime": "15.39",
+    "timestamp": "2025-11-30T11:32:14.880Z"
+  },
+  {
+    "memoryUsage": "54.00",
+    "cpuUsage": {
+      "user": 281000,
+      "system": 343000
+    },
+    "uptime": "16.39",
+    "timestamp": "2025-11-30T11:32:15.880Z"
+  },
+  {
+    "memoryUsage": "54.72",
+    "cpuUsage": {
+      "user": 296000,
+      "system": 343000
+    },
+    "uptime": "17.39",
+    "timestamp": "2025-11-30T11:32:16.882Z"
+  },
+  {
+    "memoryUsage": "54.38",
+    "cpuUsage": {
+      "user": 328000,
+      "system": 343000
+    },
+    "uptime": "18.40",
+    "timestamp": "2025-11-30T11:32:17.894Z"
+  },
+  {
+    "memoryUsage": "54.35",
+    "cpuUsage": {
+      "user": 343000,
+      "system": 343000
+    },
+    "uptime": "19.41",
+    "timestamp": "2025-11-30T11:32:18.897Z"
+  },
+  {
+    "memoryUsage": "54.02",
+    "cpuUsage": {
+      "user": 375000,
+      "system": 359000
+    },
+    "uptime": "20.41",
+    "timestamp": "2025-11-30T11:32:19.897Z"
+  },
+  {
+    "memoryUsage": "54.76",
+    "cpuUsage": {
+      "user": 375000,
+      "system": 375000
+    },
+    "uptime": "21.42",
+    "timestamp": "2025-11-30T11:32:20.911Z"
+  },
+  {
+    "memoryUsage": "54.42",
+    "cpuUsage": {
+      "user": 375000,
+      "system": 390000
+    },
+    "uptime": "22.43",
+    "timestamp": "2025-11-30T11:32:21.923Z"
+  },
+  {
+    "memoryUsage": "54.38",
+    "cpuUsage": {
+      "user": 375000,
+      "system": 390000
+    },
+    "uptime": "23.44",
+    "timestamp": "2025-11-30T11:32:22.933Z"
+  },
+  {
+    "memoryUsage": "54.05",
+    "cpuUsage": {
+      "user": 390000,
+      "system": 406000
+    },
+    "uptime": "24.44",
+    "timestamp": "2025-11-30T11:32:23.934Z"
+  },
+  {
+    "memoryUsage": "54.77",
+    "cpuUsage": {
+      "user": 390000,
+      "system": 421000
+    },
+    "uptime": "25.46",
+    "timestamp": "2025-11-30T11:32:24.946Z"
+  },
+  {
+    "memoryUsage": "54.45",
+    "cpuUsage": {
+      "user": 406000,
+      "system": 421000
+    },
+    "uptime": "26.46",
+    "timestamp": "2025-11-30T11:32:25.949Z"
+  },
+  {
+    "memoryUsage": "54.41",
+    "cpuUsage": {
+      "user": 421000,
+      "system": 421000
+    },
+    "uptime": "27.46",
+    "timestamp": "2025-11-30T11:32:26.953Z"
+  },
+  {
+    "memoryUsage": "54.46",
+    "cpuUsage": {
+      "user": 421000,
+      "system": 421000
+    },
+    "uptime": "28.47",
+    "timestamp": "2025-11-30T11:32:27.964Z"
+  },
+  {
+    "memoryUsage": "55.44",
+    "cpuUsage": {
+      "user": 421000,
+      "system": 421000
+    },
+    "uptime": "29.48",
+    "timestamp": "2025-11-30T11:32:28.967Z"
+  },
+  {
+    "memoryUsage": "57.69",
+    "cpuUsage": {
+      "user": 437000,
+      "system": 421000
+    },
+    "uptime": "30.49",
+    "timestamp": "2025-11-30T11:32:29.982Z"
+  },
+  {
+    "memoryUsage": "57.24",
+    "cpuUsage": {
+      "user": 453000,
+      "system": 421000
+    },
+    "uptime": "31.51",
+    "timestamp": "2025-11-30T11:32:30.997Z"
+  },
+  {
+    "memoryUsage": "56.91",
+    "cpuUsage": {
+      "user": 468000,
+      "system": 437000
+    },
+    "uptime": "32.51",
+    "timestamp": "2025-11-30T11:32:32.000Z"
+  },
+  {
+    "memoryUsage": "57.68",
+    "cpuUsage": {
+      "user": 468000,
+      "system": 437000
+    },
+    "uptime": "33.52",
+    "timestamp": "2025-11-30T11:32:33.014Z"
+  },
+  {
+    "memoryUsage": "57.36",
+    "cpuUsage": {
+      "user": 484000,
+      "system": 437000
+    },
+    "uptime": "34.54",
+    "timestamp": "2025-11-30T11:32:34.029Z"
+  },
+  {
+    "memoryUsage": "57.32",
+    "cpuUsage": {
+      "user": 484000,
+      "system": 453000
+    },
+    "uptime": "35.54",
+    "timestamp": "2025-11-30T11:32:35.031Z"
+  },
+  {
+    "memoryUsage": "56.98",
+    "cpuUsage": {
+      "user": 484000,
+      "system": 453000
+    },
+    "uptime": "36.54",
+    "timestamp": "2025-11-30T11:32:36.032Z"
+  },
+  {
+    "memoryUsage": "58.89",
+    "cpuUsage": {
+      "user": 484000,
+      "system": 453000
+    },
+    "uptime": "37.55",
+    "timestamp": "2025-11-30T11:32:37.045Z"
+  },
+  {
+    "memoryUsage": "57.43",
+    "cpuUsage": {
+      "user": 500000,
+      "system": 468000
+    },
+    "uptime": "38.56",
+    "timestamp": "2025-11-30T11:32:38.046Z"
+  },
+  {
+    "memoryUsage": "57.38",
+    "cpuUsage": {
+      "user": 500000,
+      "system": 468000
+    },
+    "uptime": "39.56",
+    "timestamp": "2025-11-30T11:32:39.047Z"
+  },
+  {
+    "memoryUsage": "57.04",
+    "cpuUsage": {
+      "user": 500000,
+      "system": 468000
+    },
+    "uptime": "40.57",
+    "timestamp": "2025-11-30T11:32:40.062Z"
+  },
+  {
+    "memoryUsage": "57.77",
+    "cpuUsage": {
+      "user": 500000,
+      "system": 468000
+    },
+    "uptime": "41.57",
+    "timestamp": "2025-11-30T11:32:41.064Z"
+  },
+  {
+    "memoryUsage": "57.43",
+    "cpuUsage": {
+      "user": 500000,
+      "system": 468000
+    },
+    "uptime": "42.59",
+    "timestamp": "2025-11-30T11:32:42.080Z"
+  },
+  {
+    "memoryUsage": "57.39",
+    "cpuUsage": {
+      "user": 500000,
+      "system": 468000
+    },
+    "uptime": "43.59",
+    "timestamp": "2025-11-30T11:32:43.081Z"
+  },
+  {
+    "memoryUsage": "57.04",
+    "cpuUsage": {
+      "user": 500000,
+      "system": 468000
+    },
+    "uptime": "44.61",
+    "timestamp": "2025-11-30T11:32:44.097Z"
+  },
+  {
+    "memoryUsage": "57.77",
+    "cpuUsage": {
+      "user": 500000,
+      "system": 468000
+    },
+    "uptime": "45.62",
+    "timestamp": "2025-11-30T11:32:45.110Z"
+  },
+  {
+    "memoryUsage": "57.43",
+    "cpuUsage": {
+      "user": 500000,
+      "system": 468000
+    },
+    "uptime": "46.62",
+    "timestamp": "2025-11-30T11:32:46.113Z"
+  },
+  {
+    "memoryUsage": "58.30",
+    "cpuUsage": {
+      "user": 500000,
+      "system": 468000
+    },
+    "uptime": "47.64",
+    "timestamp": "2025-11-30T11:32:47.128Z"
+  },
+  {
+    "memoryUsage": "58.43",
+    "cpuUsage": {
+      "user": 500000,
+      "system": 468000
+    },
+    "uptime": "48.65",
+    "timestamp": "2025-11-30T11:32:48.143Z"
+  },
+  {
+    "memoryUsage": "57.78",
+    "cpuUsage": {
+      "user": 500000,
+      "system": 484000
+    },
+    "uptime": "49.66",
+    "timestamp": "2025-11-30T11:32:49.147Z"
+  },
+  {
+    "memoryUsage": "59.97",
+    "cpuUsage": {
+      "user": 515000,
+      "system": 484000
+    },
+    "uptime": "50.67",
+    "timestamp": "2025-11-30T11:32:50.162Z"
+  },
+  {
+    "memoryUsage": "58.17",
+    "cpuUsage": {
+      "user": 531000,
+      "system": 484000
+    },
+    "uptime": "51.67",
+    "timestamp": "2025-11-30T11:32:51.164Z"
+  },
+  {
+    "memoryUsage": "57.89",
+    "cpuUsage": {
+      "user": 531000,
+      "system": 500000
+    },
+    "uptime": "52.68",
+    "timestamp": "2025-11-30T11:32:52.175Z"
+  },
+  {
+    "memoryUsage": "59.80",
+    "cpuUsage": {
+      "user": 531000,
+      "system": 500000
+    },
+    "uptime": "53.68",
+    "timestamp": "2025-11-30T11:32:53.175Z"
+  },
+  {
+    "memoryUsage": "57.90",
+    "cpuUsage": {
+      "user": 531000,
+      "system": 500000
+    },
+    "uptime": "54.69",
+    "timestamp": "2025-11-30T11:32:54.180Z"
+  },
+  {
+    "memoryUsage": "58.63",
+    "cpuUsage": {
+      "user": 531000,
+      "system": 515000
+    },
+    "uptime": "55.70",
+    "timestamp": "2025-11-30T11:32:55.190Z"
+  },
+  {
+    "memoryUsage": "58.29",
+    "cpuUsage": {
+      "user": 546000,
+      "system": 531000
+    },
+    "uptime": "56.70",
+    "timestamp": "2025-11-30T11:32:56.192Z"
+  },
+  {
+    "memoryUsage": "58.37",
+    "cpuUsage": {
+      "user": 546000,
+      "system": 531000
+    },
+    "uptime": "57.72",
+    "timestamp": "2025-11-30T11:32:57.206Z"
+  },
+  {
+    "memoryUsage": "58.02",
+    "cpuUsage": {
+      "user": 562000,
+      "system": 531000
+    },
+    "uptime": "58.72",
+    "timestamp": "2025-11-30T11:32:58.209Z"
+  },
+  {
+    "memoryUsage": "58.76",
+    "cpuUsage": {
+      "user": 562000,
+      "system": 531000
+    },
+    "uptime": "59.72",
+    "timestamp": "2025-11-30T11:32:59.212Z"
+  },
+  {
+    "memoryUsage": "58.39",
+    "cpuUsage": {
+      "user": 578000,
+      "system": 546000
+    },
+    "uptime": "60.74",
+    "timestamp": "2025-11-30T11:33:00.240Z"
+  },
+  {
+    "memoryUsage": "58.35",
+    "cpuUsage": {
+      "user": 593000,
+      "system": 546000
+    },
+    "uptime": "61.74",
+    "timestamp": "2025-11-30T11:33:01.241Z"
+  },
+  {
+    "memoryUsage": "58.42",
+    "cpuUsage": {
+      "user": 609000,
+      "system": 562000
+    },
+    "uptime": "62.75",
+    "timestamp": "2025-11-30T11:33:02.250Z"
+  },
+  {
+    "memoryUsage": "58.77",
+    "cpuUsage": {
+      "user": 625000,
+      "system": 562000
+    },
+    "uptime": "63.75",
+    "timestamp": "2025-11-30T11:33:03.250Z"
+  },
+  {
+    "memoryUsage": "60.97",
+    "cpuUsage": {
+      "user": 625000,
+      "system": 562000
+    },
+    "uptime": "64.75",
+    "timestamp": "2025-11-30T11:33:04.256Z"
+  },
+  {
+    "memoryUsage": "59.16",
+    "cpuUsage": {
+      "user": 640000,
+      "system": 562000
+    },
+    "uptime": "65.77",
+    "timestamp": "2025-11-30T11:33:05.267Z"
+  },
+  {
+    "memoryUsage": "58.88",
+    "cpuUsage": {
+      "user": 671000,
+      "system": 562000
+    },
+    "uptime": "66.78",
+    "timestamp": "2025-11-30T11:33:06.283Z"
+  },
+  {
+    "memoryUsage": "60.66",
+    "cpuUsage": {
+      "user": 687000,
+      "system": 562000
+    },
+    "uptime": "67.78",
+    "timestamp": "2025-11-30T11:33:07.285Z"
+  },
+  {
+    "memoryUsage": "58.88",
+    "cpuUsage": {
+      "user": 703000,
+      "system": 562000
+    },
+    "uptime": "68.79",
+    "timestamp": "2025-11-30T11:33:08.287Z"
+  },
+  {
+    "memoryUsage": "59.62",
+    "cpuUsage": {
+      "user": 718000,
+      "system": 562000
+    },
+    "uptime": "69.79",
+    "timestamp": "2025-11-30T11:33:09.287Z"
+  },
+  {
+    "memoryUsage": "59.28",
+    "cpuUsage": {
+      "user": 734000,
+      "system": 562000
+    },
+    "uptime": "70.79",
+    "timestamp": "2025-11-30T11:33:10.291Z"
+  },
+  {
+    "memoryUsage": "59.24",
+    "cpuUsage": {
+      "user": 734000,
+      "system": 562000
+    },
+    "uptime": "71.80",
+    "timestamp": "2025-11-30T11:33:11.299Z"
+  },
+  {
+    "memoryUsage": "59.28",
+    "cpuUsage": {
+      "user": 750000,
+      "system": 562000
+    },
+    "uptime": "72.81",
+    "timestamp": "2025-11-30T11:33:12.315Z"
+  },
+  {
+    "memoryUsage": "59.62",
+    "cpuUsage": {
+      "user": 750000,
+      "system": 578000
+    },
+    "uptime": "73.81",
+    "timestamp": "2025-11-30T11:33:13.315Z"
+  },
+  {
+    "memoryUsage": "59.28",
+    "cpuUsage": {
+      "user": 765000,
+      "system": 578000
+    },
+    "uptime": "74.83",
+    "timestamp": "2025-11-30T11:33:14.328Z"
+  },
+  {
+    "memoryUsage": "60.02",
+    "cpuUsage": {
+      "user": 765000,
+      "system": 578000
+    },
+    "uptime": "75.83",
+    "timestamp": "2025-11-30T11:33:15.330Z"
+  },
+  {
+    "memoryUsage": "59.67",
+    "cpuUsage": {
+      "user": 781000,
+      "system": 578000
+    },
+    "uptime": "76.83",
+    "timestamp": "2025-11-30T11:33:16.332Z"
+  },
+  {
+    "memoryUsage": "59.63",
+    "cpuUsage": {
+      "user": 812000,
+      "system": 578000
+    },
+    "uptime": "77.83",
+    "timestamp": "2025-11-30T11:33:17.336Z"
+  },
+  {
+    "memoryUsage": "59.67",
+    "cpuUsage": {
+      "user": 828000,
+      "system": 578000
+    },
+    "uptime": "78.85",
+    "timestamp": "2025-11-30T11:33:18.351Z"
+  },
+  {
+    "memoryUsage": "60.03",
+    "cpuUsage": {
+      "user": 828000,
+      "system": 593000
+    },
+    "uptime": "79.85",
+    "timestamp": "2025-11-30T11:33:19.354Z"
+  },
+  {
+    "memoryUsage": "59.68",
+    "cpuUsage": {
+      "user": 843000,
+      "system": 593000
+    },
+    "uptime": "80.85",
+    "timestamp": "2025-11-30T11:33:20.357Z"
+  },
+  {
+    "memoryUsage": "61.47",
+    "cpuUsage": {
+      "user": 843000,
+      "system": 593000
+    },
+    "uptime": "81.86",
+    "timestamp": "2025-11-30T11:33:21.363Z"
+  },
+  {
+    "memoryUsage": "60.07",
+    "cpuUsage": {
+      "user": 875000,
+      "system": 593000
+    },
+    "uptime": "82.86",
+    "timestamp": "2025-11-30T11:33:22.365Z"
+  },
+  {
+    "memoryUsage": "60.02",
+    "cpuUsage": {
+      "user": 890000,
+      "system": 593000
+    },
+    "uptime": "83.88",
+    "timestamp": "2025-11-30T11:33:23.381Z"
+  },
+  {
+    "memoryUsage": "60.47",
+    "cpuUsage": {
+      "user": 906000,
+      "system": 593000
+    },
+    "uptime": "84.89",
+    "timestamp": "2025-11-30T11:33:24.394Z"
+  },
+  {
+    "memoryUsage": "60.82",
+    "cpuUsage": {
+      "user": 906000,
+      "system": 593000
+    },
+    "uptime": "85.89",
+    "timestamp": "2025-11-30T11:33:25.396Z"
+  },
+  {
+    "memoryUsage": "60.86",
+    "cpuUsage": {
+      "user": 921000,
+      "system": 609000
+    },
+    "uptime": "86.90",
+    "timestamp": "2025-11-30T11:33:26.400Z"
+  },
+  {
+    "memoryUsage": "61.23",
+    "cpuUsage": {
+      "user": 937000,
+      "system": 609000
+    },
+    "uptime": "87.91",
+    "timestamp": "2025-11-30T11:33:27.407Z"
+  },
+  {
+    "memoryUsage": "62.45",
+    "cpuUsage": {
+      "user": 937000,
+      "system": 609000
+    },
+    "uptime": "88.92",
+    "timestamp": "2025-11-30T11:33:28.423Z"
+  },
+  {
+    "memoryUsage": "62.92",
+    "cpuUsage": {
+      "user": 937000,
+      "system": 609000
+    },
+    "uptime": "89.92",
+    "timestamp": "2025-11-30T11:33:29.425Z"
+  },
+  {
+    "memoryUsage": "61.52",
+    "cpuUsage": {
+      "user": 953000,
+      "system": 625000
+    },
+    "uptime": "90.92",
+    "timestamp": "2025-11-30T11:33:30.425Z"
+  },
+  {
+    "memoryUsage": "62.26",
+    "cpuUsage": {
+      "user": 968000,
+      "system": 625000
+    },
+    "uptime": "91.92",
+    "timestamp": "2025-11-30T11:33:31.425Z"
+  },
+  {
+    "memoryUsage": "62.52",
+    "cpuUsage": {
+      "user": 984000,
+      "system": 625000
+    },
+    "uptime": "92.94",
+    "timestamp": "2025-11-30T11:33:32.439Z"
+  },
+  {
+    "memoryUsage": "62.26",
+    "cpuUsage": {
+      "user": 1000000,
+      "system": 625000
+    },
+    "uptime": "93.94",
+    "timestamp": "2025-11-30T11:33:33.440Z"
+  },
+  {
+    "memoryUsage": "61.52",
+    "cpuUsage": {
+      "user": 1015000,
+      "system": 625000
+    },
+    "uptime": "94.96",
+    "timestamp": "2025-11-30T11:33:34.457Z"
+  },
+  {
+    "memoryUsage": "63.31",
+    "cpuUsage": {
+      "user": 1015000,
+      "system": 625000
+    },
+    "uptime": "95.96",
+    "timestamp": "2025-11-30T11:33:35.458Z"
+  },
+  {
+    "memoryUsage": "61.52",
+    "cpuUsage": {
+      "user": 1015000,
+      "system": 625000
+    },
+    "uptime": "96.97",
+    "timestamp": "2025-11-30T11:33:36.473Z"
+  },
+  {
+    "memoryUsage": "62.26",
+    "cpuUsage": {
+      "user": 1031000,
+      "system": 625000
+    },
+    "uptime": "97.97",
+    "timestamp": "2025-11-30T11:33:37.474Z"
+  },
+  {
+    "memoryUsage": "61.91",
+    "cpuUsage": {
+      "user": 1046000,
+      "system": 625000
+    },
+    "uptime": "98.97",
+    "timestamp": "2025-11-30T11:33:38.475Z"
+  },
+  {
+    "memoryUsage": "58.28",
+    "cpuUsage": {
+      "user": 234000,
+      "system": 46000
+    },
+    "uptime": "1.20",
+    "timestamp": "2025-11-30T11:33:40.213Z"
+  },
+  {
+    "memoryUsage": "59.71",
+    "cpuUsage": {
+      "user": 250000,
+      "system": 46000
+    },
+    "uptime": "2.22",
+    "timestamp": "2025-11-30T11:33:41.225Z"
+  },
+  {
+    "memoryUsage": "60.61",
+    "cpuUsage": {
+      "user": 250000,
+      "system": 62000
+    },
+    "uptime": "3.22",
+    "timestamp": "2025-11-30T11:33:42.227Z"
+  },
+  {
+    "memoryUsage": "61.38",
+    "cpuUsage": {
+      "user": 265000,
+      "system": 62000
+    },
+    "uptime": "4.22",
+    "timestamp": "2025-11-30T11:33:43.227Z"
+  },
+  {
+    "memoryUsage": "62.66",
+    "cpuUsage": {
+      "user": 265000,
+      "system": 78000
+    },
+    "uptime": "5.23",
+    "timestamp": "2025-11-30T11:33:44.240Z"
+  },
+  {
+    "memoryUsage": "58.19",
+    "cpuUsage": {
+      "user": 203000,
+      "system": 78000
+    },
+    "uptime": "1.21",
+    "timestamp": "2025-11-30T11:33:45.954Z"
+  },
+  {
+    "memoryUsage": "59.66",
+    "cpuUsage": {
+      "user": 203000,
+      "system": 78000
+    },
+    "uptime": "2.22",
+    "timestamp": "2025-11-30T11:33:46.964Z"
+  },
+  {
+    "memoryUsage": "60.28",
+    "cpuUsage": {
+      "user": 218000,
+      "system": 78000
+    },
+    "uptime": "3.23",
+    "timestamp": "2025-11-30T11:33:47.966Z"
+  },
+  {
+    "memoryUsage": "61.04",
+    "cpuUsage": {
+      "user": 218000,
+      "system": 78000
+    },
+    "uptime": "4.23",
+    "timestamp": "2025-11-30T11:33:48.974Z"
+  },
+  {
+    "memoryUsage": "63.94",
+    "cpuUsage": {
+      "user": 250000,
+      "system": 78000
+    },
+    "uptime": "5.25",
+    "timestamp": "2025-11-30T11:33:49.990Z"
+  },
+  {
+    "memoryUsage": "58.72",
+    "cpuUsage": {
+      "user": 156000,
+      "system": 140000
+    },
+    "uptime": "1.18",
+    "timestamp": "2025-11-30T11:33:52.127Z"
+  },
+  {
+    "memoryUsage": "59.82",
+    "cpuUsage": {
+      "user": 171000,
+      "system": 140000
+    },
+    "uptime": "2.18",
+    "timestamp": "2025-11-30T11:33:53.128Z"
+  },
+  {
+    "memoryUsage": "61.91",
+    "cpuUsage": {
+      "user": 203000,
+      "system": 140000
+    },
+    "uptime": "3.20",
+    "timestamp": "2025-11-30T11:33:54.141Z"
+  },
+  {
+    "memoryUsage": "61.65",
+    "cpuUsage": {
+      "user": 203000,
+      "system": 140000
+    },
+    "uptime": "4.20",
+    "timestamp": "2025-11-30T11:33:55.141Z"
+  },
+  {
+    "memoryUsage": "63.95",
+    "cpuUsage": {
+      "user": 203000,
+      "system": 140000
+    },
+    "uptime": "5.20",
+    "timestamp": "2025-11-30T11:33:56.142Z"
+  },
+  {
+    "memoryUsage": "63.69",
+    "cpuUsage": {
+      "user": 203000,
+      "system": 140000
+    },
+    "uptime": "6.20",
+    "timestamp": "2025-11-30T11:33:57.142Z"
+  },
+  {
+    "memoryUsage": "61.07",
+    "cpuUsage": {
+      "user": 218000,
+      "system": 140000
+    },
+    "uptime": "7.20",
+    "timestamp": "2025-11-30T11:33:58.149Z"
+  },
+  {
+    "memoryUsage": "61.83",
+    "cpuUsage": {
+      "user": 234000,
+      "system": 140000
+    },
+    "uptime": "8.21",
+    "timestamp": "2025-11-30T11:33:59.153Z"
+  },
+  {
+    "memoryUsage": "53.50",
+    "cpuUsage": {
+      "user": 234000,
+      "system": 140000
+    },
+    "uptime": "9.22",
+    "timestamp": "2025-11-30T11:34:00.160Z"
+  },
+  {
+    "memoryUsage": "53.93",
+    "cpuUsage": {
+      "user": 250000,
+      "system": 140000
+    },
+    "uptime": "10.23",
+    "timestamp": "2025-11-30T11:34:01.175Z"
+  },
+  {
+    "memoryUsage": "55.27",
+    "cpuUsage": {
+      "user": 250000,
+      "system": 140000
+    },
+    "uptime": "11.23",
+    "timestamp": "2025-11-30T11:34:02.176Z"
+  },
+  {
+    "memoryUsage": "54.57",
+    "cpuUsage": {
+      "user": 265000,
+      "system": 140000
+    },
+    "uptime": "12.24",
+    "timestamp": "2025-11-30T11:34:03.183Z"
+  },
+  {
+    "memoryUsage": "56.86",
+    "cpuUsage": {
+      "user": 265000,
+      "system": 140000
+    },
+    "uptime": "13.24",
+    "timestamp": "2025-11-30T11:34:04.188Z"
+  },
+  {
+    "memoryUsage": "57.25",
+    "cpuUsage": {
+      "user": 265000,
+      "system": 140000
+    },
+    "uptime": "14.26",
+    "timestamp": "2025-11-30T11:34:05.200Z"
+  },
+  {
+    "memoryUsage": "58.49",
+    "cpuUsage": {
+      "user": 265000,
+      "system": 140000
+    },
+    "uptime": "15.26",
+    "timestamp": "2025-11-30T11:34:06.209Z"
+  },
+  {
+    "memoryUsage": "58.28",
+    "cpuUsage": {
+      "user": 265000,
+      "system": 140000
+    },
+    "uptime": "16.28",
+    "timestamp": "2025-11-30T11:34:07.224Z"
+  },
+  {
+    "memoryUsage": "58.63",
+    "cpuUsage": {
+      "user": 265000,
+      "system": 140000
+    },
+    "uptime": "17.28",
+    "timestamp": "2025-11-30T11:34:08.225Z"
+  },
+  {
+    "memoryUsage": "58.43",
+    "cpuUsage": {
+      "user": 281000,
+      "system": 140000
+    },
+    "uptime": "18.30",
+    "timestamp": "2025-11-30T11:34:09.240Z"
+  },
+  {
+    "memoryUsage": "58.79",
+    "cpuUsage": {
+      "user": 296000,
+      "system": 140000
+    },
+    "uptime": "19.31",
+    "timestamp": "2025-11-30T11:34:10.255Z"
+  },
+  {
+    "memoryUsage": "58.18",
+    "cpuUsage": {
+      "user": 296000,
+      "system": 156000
+    },
+    "uptime": "20.32",
+    "timestamp": "2025-11-30T11:34:11.259Z"
+  },
+  {
+    "memoryUsage": "59.60",
+    "cpuUsage": {
+      "user": 312000,
+      "system": 171000
+    },
+    "uptime": "21.32",
+    "timestamp": "2025-11-30T11:34:12.260Z"
+  },
+  {
+    "memoryUsage": "59.00",
+    "cpuUsage": {
+      "user": 328000,
+      "system": 171000
+    },
+    "uptime": "22.32",
+    "timestamp": "2025-11-30T11:34:13.260Z"
+  },
+  {
+    "memoryUsage": "59.61",
+    "cpuUsage": {
+      "user": 343000,
+      "system": 171000
+    },
+    "uptime": "23.33",
+    "timestamp": "2025-11-30T11:34:14.275Z"
+  },
+  {
+    "memoryUsage": "59.40",
+    "cpuUsage": {
+      "user": 343000,
+      "system": 171000
+    },
+    "uptime": "24.33",
+    "timestamp": "2025-11-30T11:34:15.276Z"
+  },
+  {
+    "memoryUsage": "59.61",
+    "cpuUsage": {
+      "user": 375000,
+      "system": 171000
+    },
+    "uptime": "25.35",
+    "timestamp": "2025-11-30T11:34:16.291Z"
+  },
+  {
+    "memoryUsage": "59.41",
+    "cpuUsage": {
+      "user": 375000,
+      "system": 187000
+    },
+    "uptime": "26.35",
+    "timestamp": "2025-11-30T11:34:17.293Z"
+  },
+  {
+    "memoryUsage": "59.63",
+    "cpuUsage": {
+      "user": 390000,
+      "system": 187000
+    },
+    "uptime": "27.36",
+    "timestamp": "2025-11-30T11:34:18.308Z"
+  },
+  {
+    "memoryUsage": "59.42",
+    "cpuUsage": {
+      "user": 390000,
+      "system": 187000
+    },
+    "uptime": "28.38",
+    "timestamp": "2025-11-30T11:34:19.322Z"
+  },
+  {
+    "memoryUsage": "60.04",
+    "cpuUsage": {
+      "user": 406000,
+      "system": 187000
+    },
+    "uptime": "29.39",
+    "timestamp": "2025-11-30T11:34:20.336Z"
+  },
+  {
+    "memoryUsage": "58.99",
+    "cpuUsage": {
+      "user": 406000,
+      "system": 203000
+    },
+    "uptime": "30.41",
+    "timestamp": "2025-11-30T11:34:21.353Z"
+  },
+  {
+    "memoryUsage": "60.40",
+    "cpuUsage": {
+      "user": 406000,
+      "system": 218000
+    },
+    "uptime": "31.41",
+    "timestamp": "2025-11-30T11:34:22.355Z"
+  },
+  {
+    "memoryUsage": "59.93",
+    "cpuUsage": {
+      "user": 406000,
+      "system": 218000
+    },
+    "uptime": "32.41",
+    "timestamp": "2025-11-30T11:34:23.357Z"
+  },
+  {
+    "memoryUsage": "61.30",
+    "cpuUsage": {
+      "user": 421000,
+      "system": 218000
+    },
+    "uptime": "33.41",
+    "timestamp": "2025-11-30T11:34:24.358Z"
+  },
+  {
+    "memoryUsage": "60.83",
+    "cpuUsage": {
+      "user": 421000,
+      "system": 218000
+    },
+    "uptime": "34.42",
+    "timestamp": "2025-11-30T11:34:25.359Z"
+  },
+  {
+    "memoryUsage": "60.48",
+    "cpuUsage": {
+      "user": 437000,
+      "system": 218000
+    },
+    "uptime": "35.42",
+    "timestamp": "2025-11-30T11:34:26.363Z"
+  },
+  {
+    "memoryUsage": "61.24",
+    "cpuUsage": {
+      "user": 437000,
+      "system": 218000
+    },
+    "uptime": "36.43",
+    "timestamp": "2025-11-30T11:34:27.370Z"
+  },
+  {
+    "memoryUsage": "60.48",
+    "cpuUsage": {
+      "user": 453000,
+      "system": 218000
+    },
+    "uptime": "37.43",
+    "timestamp": "2025-11-30T11:34:28.374Z"
+  },
+  {
+    "memoryUsage": "61.24",
+    "cpuUsage": {
+      "user": 453000,
+      "system": 218000
+    },
+    "uptime": "38.44",
+    "timestamp": "2025-11-30T11:34:29.382Z"
+  },
+  {
+    "memoryUsage": "60.48",
+    "cpuUsage": {
+      "user": 468000,
+      "system": 218000
+    },
+    "uptime": "39.44",
+    "timestamp": "2025-11-30T11:34:30.384Z"
+  },
+  {
+    "memoryUsage": "61.25",
+    "cpuUsage": {
+      "user": 484000,
+      "system": 218000
+    },
+    "uptime": "40.44",
+    "timestamp": "2025-11-30T11:34:31.388Z"
+  },
+  {
+    "memoryUsage": "60.89",
+    "cpuUsage": {
+      "user": 500000,
+      "system": 218000
+    },
+    "uptime": "41.45",
+    "timestamp": "2025-11-30T11:34:32.390Z"
+  },
+  {
+    "memoryUsage": "60.84",
+    "cpuUsage": {
+      "user": 500000,
+      "system": 218000
+    },
+    "uptime": "42.45",
+    "timestamp": "2025-11-30T11:34:33.391Z"
+  },
+  {
+    "memoryUsage": "61.30",
+    "cpuUsage": {
+      "user": 500000,
+      "system": 218000
+    },
+    "uptime": "43.46",
+    "timestamp": "2025-11-30T11:34:34.407Z"
+  },
+  {
+    "memoryUsage": "61.65",
+    "cpuUsage": {
+      "user": 500000,
+      "system": 218000
+    },
+    "uptime": "44.47",
+    "timestamp": "2025-11-30T11:34:35.411Z"
+  },
+  {
+    "memoryUsage": "62.11",
+    "cpuUsage": {
+      "user": 515000,
+      "system": 218000
+    },
+    "uptime": "45.48",
+    "timestamp": "2025-11-30T11:34:36.425Z"
+  },
+  {
+    "memoryUsage": "62.53",
+    "cpuUsage": {
+      "user": 546000,
+      "system": 218000
+    },
+    "uptime": "46.48",
+    "timestamp": "2025-11-30T11:34:37.428Z"
+  },
+  {
+    "memoryUsage": "62.17",
+    "cpuUsage": {
+      "user": 578000,
+      "system": 218000
+    },
+    "uptime": "47.49",
+    "timestamp": "2025-11-30T11:34:38.431Z"
+  },
+  {
+    "memoryUsage": "62.93",
+    "cpuUsage": {
+      "user": 578000,
+      "system": 234000
+    },
+    "uptime": "48.50",
+    "timestamp": "2025-11-30T11:34:39.447Z"
+  },
+  {
+    "memoryUsage": "62.17",
+    "cpuUsage": {
+      "user": 578000,
+      "system": 250000
+    },
+    "uptime": "49.51",
+    "timestamp": "2025-11-30T11:34:40.452Z"
+  },
+  {
+    "memoryUsage": "62.93",
+    "cpuUsage": {
+      "user": 578000,
+      "system": 250000
+    },
+    "uptime": "50.51",
+    "timestamp": "2025-11-30T11:34:41.458Z"
+  },
+  {
+    "memoryUsage": "62.57",
+    "cpuUsage": {
+      "user": 593000,
+      "system": 250000
+    },
+    "uptime": "51.52",
+    "timestamp": "2025-11-30T11:34:42.459Z"
+  },
+  {
+    "memoryUsage": "62.93",
+    "cpuUsage": {
+      "user": 609000,
+      "system": 250000
+    },
+    "uptime": "52.52",
+    "timestamp": "2025-11-30T11:34:43.465Z"
+  },
+  {
+    "memoryUsage": "63.39",
+    "cpuUsage": {
+      "user": 609000,
+      "system": 250000
+    },
+    "uptime": "53.53",
+    "timestamp": "2025-11-30T11:34:44.475Z"
+  },
+  {
+    "memoryUsage": "57.00",
+    "cpuUsage": {
+      "user": 625000,
+      "system": 250000
+    },
+    "uptime": "54.53",
+    "timestamp": "2025-11-30T11:34:45.476Z"
+  },
+  {
+    "memoryUsage": "58.16",
+    "cpuUsage": {
+      "user": 656000,
+      "system": 250000
+    },
+    "uptime": "55.55",
+    "timestamp": "2025-11-30T11:34:46.490Z"
+  },
+  {
+    "memoryUsage": "57.18",
+    "cpuUsage": {
+      "user": 656000,
+      "system": 265000
+    },
+    "uptime": "56.55",
+    "timestamp": "2025-11-30T11:34:47.492Z"
+  },
+  {
+    "memoryUsage": "56.82",
+    "cpuUsage": {
+      "user": 671000,
+      "system": 265000
+    },
+    "uptime": "57.56",
+    "timestamp": "2025-11-30T11:34:48.506Z"
+  },
+  {
+    "memoryUsage": "58.05",
+    "cpuUsage": {
+      "user": 703000,
+      "system": 265000
+    },
+    "uptime": "58.57",
+    "timestamp": "2025-11-30T11:34:49.509Z"
+  },
+  {
+    "memoryUsage": "57.20",
+    "cpuUsage": {
+      "user": 718000,
+      "system": 265000
+    },
+    "uptime": "59.58",
+    "timestamp": "2025-11-30T11:34:50.526Z"
+  },
+  {
+    "memoryUsage": "57.30",
+    "cpuUsage": {
+      "user": 734000,
+      "system": 265000
+    },
+    "uptime": "60.59",
+    "timestamp": "2025-11-30T11:34:51.533Z"
+  },
+  {
+    "memoryUsage": "57.66",
+    "cpuUsage": {
+      "user": 734000,
+      "system": 265000
+    },
+    "uptime": "61.60",
+    "timestamp": "2025-11-30T11:34:52.542Z"
+  },
+  {
+    "memoryUsage": "57.30",
+    "cpuUsage": {
+      "user": 734000,
+      "system": 265000
+    },
+    "uptime": "62.60",
+    "timestamp": "2025-11-30T11:34:53.541Z"
+  },
+  {
+    "memoryUsage": "58.08",
+    "cpuUsage": {
+      "user": 750000,
+      "system": 265000
+    },
+    "uptime": "63.60",
+    "timestamp": "2025-11-30T11:34:54.542Z"
+  },
+  {
+    "memoryUsage": "57.71",
+    "cpuUsage": {
+      "user": 765000,
+      "system": 265000
+    },
+    "uptime": "64.61",
+    "timestamp": "2025-11-30T11:34:55.552Z"
+  },
+  {
+    "memoryUsage": "57.67",
+    "cpuUsage": {
+      "user": 781000,
+      "system": 265000
+    },
+    "uptime": "65.61",
+    "timestamp": "2025-11-30T11:34:56.557Z"
+  },
+  {
+    "memoryUsage": "58.13",
+    "cpuUsage": {
+      "user": 796000,
+      "system": 265000
+    },
+    "uptime": "66.61",
+    "timestamp": "2025-11-30T11:34:57.556Z"
+  },
+  {
+    "memoryUsage": "59.38",
+    "cpuUsage": {
+      "user": 812000,
+      "system": 265000
+    },
+    "uptime": "67.63",
+    "timestamp": "2025-11-30T11:34:58.570Z"
+  },
+  {
+    "memoryUsage": "59.36",
+    "cpuUsage": {
+      "user": 828000,
+      "system": 265000
+    },
+    "uptime": "68.63",
+    "timestamp": "2025-11-30T11:34:59.574Z"
+  },
+  {
+    "memoryUsage": "59.38",
+    "cpuUsage": {
+      "user": 828000,
+      "system": 265000
+    },
+    "uptime": "69.63",
+    "timestamp": "2025-11-30T11:35:00.574Z"
+  },
+  {
+    "memoryUsage": "59.78",
+    "cpuUsage": {
+      "user": 828000,
+      "system": 265000
+    },
+    "uptime": "70.63",
+    "timestamp": "2025-11-30T11:35:01.576Z"
+  },
+  {
+    "memoryUsage": "58.91",
+    "cpuUsage": {
+      "user": 828000,
+      "system": 265000
+    },
+    "uptime": "71.65",
+    "timestamp": "2025-11-30T11:35:02.589Z"
+  },
+  {
+    "memoryUsage": "60.18",
+    "cpuUsage": {
+      "user": 828000,
+      "system": 265000
+    },
+    "uptime": "72.65",
+    "timestamp": "2025-11-30T11:35:03.592Z"
+  },
+  {
+    "memoryUsage": "59.32",
+    "cpuUsage": {
+      "user": 828000,
+      "system": 265000
+    },
+    "uptime": "73.67",
+    "timestamp": "2025-11-30T11:35:04.609Z"
+  },
+  {
+    "memoryUsage": "58.96",
+    "cpuUsage": {
+      "user": 828000,
+      "system": 265000
+    },
+    "uptime": "74.67",
+    "timestamp": "2025-11-30T11:35:05.614Z"
+  },
+  {
+    "memoryUsage": "59.80",
+    "cpuUsage": {
+      "user": 828000,
+      "system": 281000
+    },
+    "uptime": "75.68",
+    "timestamp": "2025-11-30T11:35:06.622Z"
+  },
+  {
+    "memoryUsage": "59.37",
+    "cpuUsage": {
+      "user": 843000,
+      "system": 281000
+    },
+    "uptime": "76.69",
+    "timestamp": "2025-11-30T11:35:07.636Z"
+  },
+  {
+    "memoryUsage": "59.74",
+    "cpuUsage": {
+      "user": 843000,
+      "system": 281000
+    },
+    "uptime": "77.69",
+    "timestamp": "2025-11-30T11:35:08.638Z"
+  },
+  {
+    "memoryUsage": "60.60",
+    "cpuUsage": {
+      "user": 843000,
+      "system": 281000
+    },
+    "uptime": "78.70",
+    "timestamp": "2025-11-30T11:35:09.647Z"
+  },
+  {
+    "memoryUsage": "59.75",
+    "cpuUsage": {
+      "user": 859000,
+      "system": 281000
+    },
+    "uptime": "79.71",
+    "timestamp": "2025-11-30T11:35:10.653Z"
+  },
+  {
+    "memoryUsage": "61.01",
+    "cpuUsage": {
+      "user": 859000,
+      "system": 281000
+    },
+    "uptime": "80.72",
+    "timestamp": "2025-11-30T11:35:11.659Z"
+  },
+  {
+    "memoryUsage": "60.21",
+    "cpuUsage": {
+      "user": 875000,
+      "system": 281000
+    },
+    "uptime": "81.73",
+    "timestamp": "2025-11-30T11:35:12.672Z"
+  },
+  {
+    "memoryUsage": "59.96",
+    "cpuUsage": {
+      "user": 875000,
+      "system": 281000
+    },
+    "uptime": "82.73",
+    "timestamp": "2025-11-30T11:35:13.675Z"
+  },
+  {
+    "memoryUsage": "60.50",
+    "cpuUsage": {
+      "user": 890000,
+      "system": 281000
+    },
+    "uptime": "83.73",
+    "timestamp": "2025-11-30T11:35:14.676Z"
+  },
+  {
+    "memoryUsage": "60.13",
+    "cpuUsage": {
+      "user": 906000,
+      "system": 296000
+    },
+    "uptime": "84.74",
+    "timestamp": "2025-11-30T11:35:15.685Z"
+  },
+  {
+    "memoryUsage": "60.09",
+    "cpuUsage": {
+      "user": 906000,
+      "system": 296000
+    },
+    "uptime": "85.75",
+    "timestamp": "2025-11-30T11:35:16.693Z"
+  },
+  {
+    "memoryUsage": "60.55",
+    "cpuUsage": {
+      "user": 906000,
+      "system": 312000
+    },
+    "uptime": "86.76",
+    "timestamp": "2025-11-30T11:35:17.708Z"
+  },
+  {
+    "memoryUsage": "61.82",
+    "cpuUsage": {
+      "user": 921000,
+      "system": 312000
+    },
+    "uptime": "87.76",
+    "timestamp": "2025-11-30T11:35:18.709Z"
+  },
+  {
+    "memoryUsage": "61.80",
+    "cpuUsage": {
+      "user": 937000,
+      "system": 328000
+    },
+    "uptime": "88.76",
+    "timestamp": "2025-11-30T11:35:19.709Z"
+  },
+  {
+    "memoryUsage": "60.93",
+    "cpuUsage": {
+      "user": 937000,
+      "system": 343000
+    },
+    "uptime": "89.77",
+    "timestamp": "2025-11-30T11:35:20.709Z"
+  },
+  {
+    "memoryUsage": "62.21",
+    "cpuUsage": {
+      "user": 953000,
+      "system": 359000
+    },
+    "uptime": "90.78",
+    "timestamp": "2025-11-30T11:35:21.720Z"
+  },
+  {
+    "memoryUsage": "61.34",
+    "cpuUsage": {
+      "user": 953000,
+      "system": 359000
+    },
+    "uptime": "91.78",
+    "timestamp": "2025-11-30T11:35:22.723Z"
+  },
+  {
+    "memoryUsage": "62.63",
+    "cpuUsage": {
+      "user": 968000,
+      "system": 359000
+    },
+    "uptime": "92.78",
+    "timestamp": "2025-11-30T11:35:23.725Z"
+  },
+  {
+    "memoryUsage": "62.70",
+    "cpuUsage": {
+      "user": 984000,
+      "system": 359000
+    },
+    "uptime": "93.79",
+    "timestamp": "2025-11-30T11:35:24.734Z"
+  },
+  {
+    "memoryUsage": "61.38",
+    "cpuUsage": {
+      "user": 984000,
+      "system": 359000
+    },
+    "uptime": "94.80",
+    "timestamp": "2025-11-30T11:35:25.748Z"
+  },
+  {
+    "memoryUsage": "61.80",
+    "cpuUsage": {
+      "user": 984000,
+      "system": 359000
+    },
+    "uptime": "95.81",
+    "timestamp": "2025-11-30T11:35:26.751Z"
+  },
+  {
+    "memoryUsage": "62.26",
+    "cpuUsage": {
+      "user": 984000,
+      "system": 359000
+    },
+    "uptime": "96.81",
+    "timestamp": "2025-11-30T11:35:27.753Z"
+  },
+  {
+    "memoryUsage": "62.64",
+    "cpuUsage": {
+      "user": 1000000,
+      "system": 359000
+    },
+    "uptime": "97.81",
+    "timestamp": "2025-11-30T11:35:28.754Z"
+  },
+  {
+    "memoryUsage": "63.52",
+    "cpuUsage": {
+      "user": 1015000,
+      "system": 375000
+    },
+    "uptime": "98.81",
+    "timestamp": "2025-11-30T11:35:29.758Z"
+  },
+  {
+    "memoryUsage": "63.59",
+    "cpuUsage": {
+      "user": 1015000,
+      "system": 390000
+    },
+    "uptime": "99.82",
+    "timestamp": "2025-11-30T11:35:30.759Z"
+  },
+  {
+    "memoryUsage": "64.44",
+    "cpuUsage": {
+      "user": 1046000,
+      "system": 406000
+    },
+    "uptime": "100.83",
+    "timestamp": "2025-11-30T11:35:31.775Z"
+  },
+  {
+    "memoryUsage": "63.14",
+    "cpuUsage": {
+      "user": 1062000,
+      "system": 406000
+    },
+    "uptime": "101.85",
+    "timestamp": "2025-11-30T11:35:32.789Z"
+  },
+  {
+    "memoryUsage": "62.82",
+    "cpuUsage": {
+      "user": 1062000,
+      "system": 421000
+    },
+    "uptime": "102.85",
+    "timestamp": "2025-11-30T11:35:33.792Z"
+  },
+  {
+    "memoryUsage": "64.99",
+    "cpuUsage": {
+      "user": 1062000,
+      "system": 421000
+    },
+    "uptime": "103.85",
+    "timestamp": "2025-11-30T11:35:34.792Z"
+  },
+  {
+    "memoryUsage": "63.26",
+    "cpuUsage": {
+      "user": 1062000,
+      "system": 421000
+    },
+    "uptime": "104.85",
+    "timestamp": "2025-11-30T11:35:35.792Z"
+  },
+  {
+    "memoryUsage": "63.22",
+    "cpuUsage": {
+      "user": 1062000,
+      "system": 421000
+    },
+    "uptime": "105.85",
+    "timestamp": "2025-11-30T11:35:36.792Z"
+  },
+  {
+    "memoryUsage": "63.68",
+    "cpuUsage": {
+      "user": 1062000,
+      "system": 421000
+    },
+    "uptime": "106.86",
+    "timestamp": "2025-11-30T11:35:37.808Z"
+  },
+  {
+    "memoryUsage": "64.06",
+    "cpuUsage": {
+      "user": 1062000,
+      "system": 421000
+    },
+    "uptime": "107.86",
+    "timestamp": "2025-11-30T11:35:38.808Z"
+  },
+  {
+    "memoryUsage": "57.61",
+    "cpuUsage": {
+      "user": 1078000,
+      "system": 421000
+    },
+    "uptime": "108.88",
+    "timestamp": "2025-11-30T11:35:39.824Z"
+  },
+  {
+    "memoryUsage": "58.39",
+    "cpuUsage": {
+      "user": 1078000,
+      "system": 421000
+    },
+    "uptime": "109.88",
+    "timestamp": "2025-11-30T11:35:40.826Z"
+  },
+  {
+    "memoryUsage": "59.37",
+    "cpuUsage": {
+      "user": 1093000,
+      "system": 421000
+    },
+    "uptime": "110.88",
+    "timestamp": "2025-11-30T11:35:41.829Z"
+  },
+  {
+    "memoryUsage": "57.16",
+    "cpuUsage": {
+      "user": 1093000,
+      "system": 421000
+    },
+    "uptime": "111.89",
+    "timestamp": "2025-11-30T11:35:42.837Z"
+  },
+  {
+    "memoryUsage": "58.45",
+    "cpuUsage": {
+      "user": 1109000,
+      "system": 421000
+    },
+    "uptime": "112.90",
+    "timestamp": "2025-11-30T11:35:43.841Z"
+  },
+  {
+    "memoryUsage": "57.57",
+    "cpuUsage": {
+      "user": 1125000,
+      "system": 421000
+    },
+    "uptime": "113.90",
+    "timestamp": "2025-11-30T11:35:44.842Z"
+  },
+  {
+    "memoryUsage": "58.62",
+    "cpuUsage": {
+      "user": 1125000,
+      "system": 421000
+    },
+    "uptime": "114.91",
+    "timestamp": "2025-11-30T11:35:45.857Z"
+  },
+  {
+    "memoryUsage": "59.45",
+    "cpuUsage": {
+      "user": 1125000,
+      "system": 421000
+    },
+    "uptime": "115.92",
+    "timestamp": "2025-11-30T11:35:46.859Z"
+  },
+  {
+    "memoryUsage": "57.61",
+    "cpuUsage": {
+      "user": 1125000,
+      "system": 421000
+    },
+    "uptime": "116.93",
+    "timestamp": "2025-11-30T11:35:47.872Z"
+  },
+  {
+    "memoryUsage": "57.57",
+    "cpuUsage": {
+      "user": 1125000,
+      "system": 421000
+    },
+    "uptime": "117.94",
+    "timestamp": "2025-11-30T11:35:48.886Z"
+  },
+  {
+    "memoryUsage": "58.04",
+    "cpuUsage": {
+      "user": 1140000,
+      "system": 421000
+    },
+    "uptime": "118.95",
+    "timestamp": "2025-11-30T11:35:49.891Z"
+  },
+  {
+    "memoryUsage": "59.87",
+    "cpuUsage": {
+      "user": 1140000,
+      "system": 421000
+    },
+    "uptime": "119.96",
+    "timestamp": "2025-11-30T11:35:50.903Z"
+  },
+  {
+    "memoryUsage": "59.29",
+    "cpuUsage": {
+      "user": 1156000,
+      "system": 421000
+    },
+    "uptime": "120.96",
+    "timestamp": "2025-11-30T11:35:51.905Z"
+  },
+  {
+    "memoryUsage": "59.37",
+    "cpuUsage": {
+      "user": 1156000,
+      "system": 421000
+    },
+    "uptime": "121.97",
+    "timestamp": "2025-11-30T11:35:52.909Z"
+  },
+  {
+    "memoryUsage": "61.12",
+    "cpuUsage": {
+      "user": 1171000,
+      "system": 421000
+    },
+    "uptime": "122.97",
+    "timestamp": "2025-11-30T11:35:53.909Z"
+  },
+  {
+    "memoryUsage": "58.82",
+    "cpuUsage": {
+      "user": 1171000,
+      "system": 421000
+    },
+    "uptime": "123.97",
+    "timestamp": "2025-11-30T11:35:54.909Z"
+  },
+  {
+    "memoryUsage": "58.46",
+    "cpuUsage": {
+      "user": 1171000,
+      "system": 421000
+    },
+    "uptime": "124.97",
+    "timestamp": "2025-11-30T11:35:55.917Z"
+  },
+  {
+    "memoryUsage": "60.20",
+    "cpuUsage": {
+      "user": 1171000,
+      "system": 421000
+    },
+    "uptime": "125.98",
+    "timestamp": "2025-11-30T11:35:56.924Z"
+  },
+  {
+    "memoryUsage": "58.87",
+    "cpuUsage": {
+      "user": 1171000,
+      "system": 421000
+    },
+    "uptime": "126.98",
+    "timestamp": "2025-11-30T11:35:57.926Z"
+  },
+  {
+    "memoryUsage": "59.24",
+    "cpuUsage": {
+      "user": 1187000,
+      "system": 421000
+    },
+    "uptime": "127.99",
+    "timestamp": "2025-11-30T11:35:58.937Z"
+  },
+  {
+    "memoryUsage": "61.13",
+    "cpuUsage": {
+      "user": 1203000,
+      "system": 421000
+    },
+    "uptime": "129.00",
+    "timestamp": "2025-11-30T11:35:59.942Z"
+  },
+  {
+    "memoryUsage": "60.62",
+    "cpuUsage": {
+      "user": 1203000,
+      "system": 437000
+    },
+    "uptime": "130.00",
+    "timestamp": "2025-11-30T11:36:00.945Z"
+  },
+  {
+    "memoryUsage": "60.25",
+    "cpuUsage": {
+      "user": 1234000,
+      "system": 437000
+    },
+    "uptime": "131.01",
+    "timestamp": "2025-11-30T11:36:01.957Z"
+  },
+  {
+    "memoryUsage": "61.04",
+    "cpuUsage": {
+      "user": 1250000,
+      "system": 437000
+    },
+    "uptime": "132.02",
+    "timestamp": "2025-11-30T11:36:02.959Z"
+  },
+  {
+    "memoryUsage": "60.68",
+    "cpuUsage": {
+      "user": 1265000,
+      "system": 437000
+    },
+    "uptime": "133.02",
+    "timestamp": "2025-11-30T11:36:03.959Z"
+  },
+  {
+    "memoryUsage": "61.31",
+    "cpuUsage": {
+      "user": 1281000,
+      "system": 437000
+    },
+    "uptime": "134.02",
+    "timestamp": "2025-11-30T11:36:04.965Z"
+  },
+  {
+    "memoryUsage": "62.57",
+    "cpuUsage": {
+      "user": 1281000,
+      "system": 437000
+    },
+    "uptime": "135.02",
+    "timestamp": "2025-11-30T11:36:05.966Z"
+  },
+  {
+    "memoryUsage": "60.22",
+    "cpuUsage": {
+      "user": 1296000,
+      "system": 437000
+    },
+    "uptime": "136.03",
+    "timestamp": "2025-11-30T11:36:06.974Z"
+  },
+  {
+    "memoryUsage": "60.27",
+    "cpuUsage": {
+      "user": 1312000,
+      "system": 437000
+    },
+    "uptime": "137.03",
+    "timestamp": "2025-11-30T11:36:07.975Z"
+  },
+  {
+    "memoryUsage": "62.11",
+    "cpuUsage": {
+      "user": 1312000,
+      "system": 437000
+    },
+    "uptime": "138.04",
+    "timestamp": "2025-11-30T11:36:08.988Z"
+  },
+  {
+    "memoryUsage": "60.28",
+    "cpuUsage": {
+      "user": 1328000,
+      "system": 437000
+    },
+    "uptime": "139.05",
+    "timestamp": "2025-11-30T11:36:09.991Z"
+  },
+  {
+    "memoryUsage": "62.03",
+    "cpuUsage": {
+      "user": 1328000,
+      "system": 437000
+    },
+    "uptime": "140.05",
+    "timestamp": "2025-11-30T11:36:10.994Z"
+  },
+  {
+    "memoryUsage": "60.69",
+    "cpuUsage": {
+      "user": 1328000,
+      "system": 453000
+    },
+    "uptime": "141.05",
+    "timestamp": "2025-11-30T11:36:11.997Z"
+  },
+  {
+    "memoryUsage": "61.07",
+    "cpuUsage": {
+      "user": 1328000,
+      "system": 453000
+    },
+    "uptime": "142.07",
+    "timestamp": "2025-11-30T11:36:13.010Z"
+  },
+  {
+    "memoryUsage": "62.96",
+    "cpuUsage": {
+      "user": 1343000,
+      "system": 468000
+    },
+    "uptime": "143.07",
+    "timestamp": "2025-11-30T11:36:14.010Z"
+  },
+  {
+    "memoryUsage": "62.93",
+    "cpuUsage": {
+      "user": 1359000,
+      "system": 468000
+    },
+    "uptime": "144.07",
+    "timestamp": "2025-11-30T11:36:15.016Z"
+  },
+  {
+    "memoryUsage": "61.60",
+    "cpuUsage": {
+      "user": 1359000,
+      "system": 484000
+    },
+    "uptime": "145.08",
+    "timestamp": "2025-11-30T11:36:16.021Z"
+  },
+  {
+    "memoryUsage": "63.35",
+    "cpuUsage": {
+      "user": 1375000,
+      "system": 484000
+    },
+    "uptime": "146.08",
+    "timestamp": "2025-11-30T11:36:17.026Z"
+  },
+  {
+    "memoryUsage": "62.01",
+    "cpuUsage": {
+      "user": 1406000,
+      "system": 484000
+    },
+    "uptime": "147.10",
+    "timestamp": "2025-11-30T11:36:18.042Z"
+  },
+  {
+    "memoryUsage": "62.81",
+    "cpuUsage": {
+      "user": 1406000,
+      "system": 484000
+    },
+    "uptime": "148.10",
+    "timestamp": "2025-11-30T11:36:19.044Z"
+  },
+  {
+    "memoryUsage": "61.59",
+    "cpuUsage": {
+      "user": 1406000,
+      "system": 484000
+    },
+    "uptime": "149.10",
+    "timestamp": "2025-11-30T11:36:20.044Z"
+  },
+  {
+    "memoryUsage": "63.35",
+    "cpuUsage": {
+      "user": 1406000,
+      "system": 484000
+    },
+    "uptime": "150.11",
+    "timestamp": "2025-11-30T11:36:21.059Z"
+  },
+  {
+    "memoryUsage": "62.01",
+    "cpuUsage": {
+      "user": 1421000,
+      "system": 484000
+    },
+    "uptime": "151.13",
+    "timestamp": "2025-11-30T11:36:22.074Z"
+  },
+  {
+    "memoryUsage": "63.35",
+    "cpuUsage": {
+      "user": 1421000,
+      "system": 484000
+    },
+    "uptime": "152.13",
+    "timestamp": "2025-11-30T11:36:23.075Z"
+  },
+  {
+    "memoryUsage": "64.70",
+    "cpuUsage": {
+      "user": 1421000,
+      "system": 484000
+    },
+    "uptime": "153.13",
+    "timestamp": "2025-11-30T11:36:24.078Z"
+  },
+  {
+    "memoryUsage": "63.36",
+    "cpuUsage": {
+      "user": 1421000,
+      "system": 484000
+    },
+    "uptime": "154.15",
+    "timestamp": "2025-11-30T11:36:25.091Z"
+  },
+  {
+    "memoryUsage": "63.70",
+    "cpuUsage": {
+      "user": 1421000,
+      "system": 484000
+    },
+    "uptime": "155.15",
+    "timestamp": "2025-11-30T11:36:26.092Z"
+  },
+  {
+    "memoryUsage": "62.81",
+    "cpuUsage": {
+      "user": 1421000,
+      "system": 484000
+    },
+    "uptime": "156.15",
+    "timestamp": "2025-11-30T11:36:27.093Z"
+  },
+  {
+    "memoryUsage": "63.86",
+    "cpuUsage": {
+      "user": 1437000,
+      "system": 484000
+    },
+    "uptime": "157.16",
+    "timestamp": "2025-11-30T11:36:28.109Z"
+  },
+  {
+    "memoryUsage": "64.71",
+    "cpuUsage": {
+      "user": 1437000,
+      "system": 484000
+    },
+    "uptime": "158.18",
+    "timestamp": "2025-11-30T11:36:29.124Z"
+  },
+  {
+    "memoryUsage": "62.86",
+    "cpuUsage": {
+      "user": 1437000,
+      "system": 500000
+    },
+    "uptime": "159.18",
+    "timestamp": "2025-11-30T11:36:30.125Z"
+  },
+  {
+    "memoryUsage": "63.24",
+    "cpuUsage": {
+      "user": 1437000,
+      "system": 500000
+    },
+    "uptime": "160.18",
+    "timestamp": "2025-11-30T11:36:31.126Z"
+  },
+  {
+    "memoryUsage": "65.13",
+    "cpuUsage": {
+      "user": 1437000,
+      "system": 500000
+    },
+    "uptime": "161.20",
+    "timestamp": "2025-11-30T11:36:32.141Z"
+  },
+  {
+    "memoryUsage": "64.52",
+    "cpuUsage": {
+      "user": 1437000,
+      "system": 500000
+    },
+    "uptime": "162.21",
+    "timestamp": "2025-11-30T11:36:33.151Z"
+  },
+  {
+    "memoryUsage": "64.14",
+    "cpuUsage": {
+      "user": 1468000,
+      "system": 500000
+    },
+    "uptime": "163.21",
+    "timestamp": "2025-11-30T11:36:34.159Z"
+  },
+  {
+    "memoryUsage": "64.94",
+    "cpuUsage": {
+      "user": 1468000,
+      "system": 500000
+    },
+    "uptime": "164.22",
+    "timestamp": "2025-11-30T11:36:35.166Z"
+  },
+  {
+    "memoryUsage": "64.56",
+    "cpuUsage": {
+      "user": 1484000,
+      "system": 500000
+    },
+    "uptime": "165.23",
+    "timestamp": "2025-11-30T11:36:36.174Z"
+  },
+  {
+    "memoryUsage": "65.13",
+    "cpuUsage": {
+      "user": 1484000,
+      "system": 500000
+    },
+    "uptime": "166.23",
+    "timestamp": "2025-11-30T11:36:37.176Z"
+  },
+  {
+    "memoryUsage": "66.41",
+    "cpuUsage": {
+      "user": 1500000,
+      "system": 500000
+    },
+    "uptime": "167.25",
+    "timestamp": "2025-11-30T11:36:38.189Z"
+  },
+  {
+    "memoryUsage": "64.09",
+    "cpuUsage": {
+      "user": 1500000,
+      "system": 500000
+    },
+    "uptime": "168.25",
+    "timestamp": "2025-11-30T11:36:39.190Z"
+  },
+  {
+    "memoryUsage": "63.72",
+    "cpuUsage": {
+      "user": 1531000,
+      "system": 500000
+    },
+    "uptime": "169.26",
+    "timestamp": "2025-11-30T11:36:40.203Z"
+  },
+  {
+    "memoryUsage": "64.52",
+    "cpuUsage": {
+      "user": 1531000,
+      "system": 500000
+    },
+    "uptime": "170.26",
+    "timestamp": "2025-11-30T11:36:41.203Z"
+  },
+  {
+    "memoryUsage": "64.14",
+    "cpuUsage": {
+      "user": 1546000,
+      "system": 500000
+    },
+    "uptime": "171.26",
+    "timestamp": "2025-11-30T11:36:42.206Z"
+  },
+  {
+    "memoryUsage": "65.48",
+    "cpuUsage": {
+      "user": 1562000,
+      "system": 500000
+    },
+    "uptime": "172.26",
+    "timestamp": "2025-11-30T11:36:43.207Z"
+  },
+  {
+    "memoryUsage": "57.48",
+    "cpuUsage": {
+      "user": 1578000,
+      "system": 500000
+    },
+    "uptime": "173.28",
+    "timestamp": "2025-11-30T11:36:44.226Z"
+  },
+  {
+    "memoryUsage": "59.04",
+    "cpuUsage": {
+      "user": 1578000,
+      "system": 500000
+    },
+    "uptime": "174.28",
+    "timestamp": "2025-11-30T11:36:45.228Z"
+  },
+  {
+    "memoryUsage": "57.78",
+    "cpuUsage": {
+      "user": 1593000,
+      "system": 500000
+    },
+    "uptime": "175.29",
+    "timestamp": "2025-11-30T11:36:46.232Z"
+  },
+  {
+    "memoryUsage": "59.53",
+    "cpuUsage": {
+      "user": 1593000,
+      "system": 500000
+    },
+    "uptime": "176.29",
+    "timestamp": "2025-11-30T11:36:47.231Z"
+  },
+  {
+    "memoryUsage": "58.27",
+    "cpuUsage": {
+      "user": 1593000,
+      "system": 500000
+    },
+    "uptime": "177.30",
+    "timestamp": "2025-11-30T11:36:48.248Z"
+  },
+  {
+    "memoryUsage": "59.32",
+    "cpuUsage": {
+      "user": 1593000,
+      "system": 500000
+    },
+    "uptime": "178.31",
+    "timestamp": "2025-11-30T11:36:49.252Z"
+  },
+  {
+    "memoryUsage": "60.32",
+    "cpuUsage": {
+      "user": 1609000,
+      "system": 500000
+    },
+    "uptime": "179.31",
+    "timestamp": "2025-11-30T11:36:50.252Z"
+  },
+  {
+    "memoryUsage": "57.80",
+    "cpuUsage": {
+      "user": 1625000,
+      "system": 500000
+    },
+    "uptime": "180.31",
+    "timestamp": "2025-11-30T11:36:51.256Z"
+  },
+  {
+    "memoryUsage": "59.46",
+    "cpuUsage": {
+      "user": 1625000,
+      "system": 515000
+    },
+    "uptime": "181.31",
+    "timestamp": "2025-11-30T11:36:52.256Z"
+  },
+  {
+    "memoryUsage": "60.61",
+    "cpuUsage": {
+      "user": 1640000,
+      "system": 515000
+    },
+    "uptime": "182.31",
+    "timestamp": "2025-11-30T11:36:53.258Z"
+  },
+  {
+    "memoryUsage": "58.28",
+    "cpuUsage": {
+      "user": 1656000,
+      "system": 515000
+    },
+    "uptime": "183.32",
+    "timestamp": "2025-11-30T11:36:54.264Z"
+  },
+  {
+    "memoryUsage": "61.04",
+    "cpuUsage": {
+      "user": 1656000,
+      "system": 515000
+    },
+    "uptime": "184.32",
+    "timestamp": "2025-11-30T11:36:55.264Z"
+  },
+  {
+    "memoryUsage": "58.70",
+    "cpuUsage": {
+      "user": 1656000,
+      "system": 515000
+    },
+    "uptime": "185.34",
+    "timestamp": "2025-11-30T11:36:56.279Z"
+  },
+  {
+    "memoryUsage": "60.46",
+    "cpuUsage": {
+      "user": 1656000,
+      "system": 515000
+    },
+    "uptime": "186.34",
+    "timestamp": "2025-11-30T11:36:57.281Z"
+  },
+  {
+    "memoryUsage": "59.13",
+    "cpuUsage": {
+      "user": 1656000,
+      "system": 515000
+    },
+    "uptime": "187.34",
+    "timestamp": "2025-11-30T11:36:58.284Z"
+  },
+  {
+    "memoryUsage": "60.18",
+    "cpuUsage": {
+      "user": 1656000,
+      "system": 531000
+    },
+    "uptime": "188.34",
+    "timestamp": "2025-11-30T11:36:59.284Z"
+  },
+  {
+    "memoryUsage": "59.57",
+    "cpuUsage": {
+      "user": 1671000,
+      "system": 531000
+    },
+    "uptime": "189.35",
+    "timestamp": "2025-11-30T11:37:00.290Z"
+  },
+  {
+    "memoryUsage": "58.66",
+    "cpuUsage": {
+      "user": 1671000,
+      "system": 546000
+    },
+    "uptime": "190.35",
+    "timestamp": "2025-11-30T11:37:01.290Z"
+  },
+  {
+    "memoryUsage": "60.61",
+    "cpuUsage": {
+      "user": 1671000,
+      "system": 546000
+    },
+    "uptime": "191.35",
+    "timestamp": "2025-11-30T11:37:02.293Z"
+  },
+  {
+    "memoryUsage": "59.52",
+    "cpuUsage": {
+      "user": 1671000,
+      "system": 546000
+    },
+    "uptime": "192.35",
+    "timestamp": "2025-11-30T11:37:03.294Z"
+  },
+  {
+    "memoryUsage": "61.05",
+    "cpuUsage": {
+      "user": 1687000,
+      "system": 546000
+    },
+    "uptime": "193.36",
+    "timestamp": "2025-11-30T11:37:04.301Z"
+  },
+  {
+    "memoryUsage": "59.95",
+    "cpuUsage": {
+      "user": 1687000,
+      "system": 546000
+    },
+    "uptime": "194.37",
+    "timestamp": "2025-11-30T11:37:05.316Z"
+  },
+  {
+    "memoryUsage": "59.57",
+    "cpuUsage": {
+      "user": 1687000,
+      "system": 546000
+    },
+    "uptime": "195.37",
+    "timestamp": "2025-11-30T11:37:06.317Z"
+  },
+  {
+    "memoryUsage": "62.33",
+    "cpuUsage": {
+      "user": 1687000,
+      "system": 546000
+    },
+    "uptime": "196.37",
+    "timestamp": "2025-11-30T11:37:07.317Z"
+  },
+  {
+    "memoryUsage": "61.61",
+    "cpuUsage": {
+      "user": 1703000,
+      "system": 546000
+    },
+    "uptime": "197.37",
+    "timestamp": "2025-11-30T11:37:08.317Z"
+  },
+  {
+    "memoryUsage": "61.05",
+    "cpuUsage": {
+      "user": 1703000,
+      "system": 546000
+    },
+    "uptime": "198.38",
+    "timestamp": "2025-11-30T11:37:09.326Z"
+  },
+  {
+    "memoryUsage": "60.37",
+    "cpuUsage": {
+      "user": 1703000,
+      "system": 546000
+    },
+    "uptime": "199.39",
+    "timestamp": "2025-11-30T11:37:10.333Z"
+  },
+  {
+    "memoryUsage": "59.45",
+    "cpuUsage": {
+      "user": 1718000,
+      "system": 546000
+    },
+    "uptime": "200.40",
+    "timestamp": "2025-11-30T11:37:11.341Z"
+  },
+  {
+    "memoryUsage": "61.56",
+    "cpuUsage": {
+      "user": 1734000,
+      "system": 546000
+    },
+    "uptime": "201.40",
+    "timestamp": "2025-11-30T11:37:12.343Z"
+  },
+  {
+    "memoryUsage": "62.71",
+    "cpuUsage": {
+      "user": 1734000,
+      "system": 546000
+    },
+    "uptime": "202.41",
+    "timestamp": "2025-11-30T11:37:13.349Z"
+  },
+  {
+    "memoryUsage": "60.38",
+    "cpuUsage": {
+      "user": 1750000,
+      "system": 546000
+    },
+    "uptime": "203.41",
+    "timestamp": "2025-11-30T11:37:14.353Z"
+  },
+  {
+    "memoryUsage": "63.15",
+    "cpuUsage": {
+      "user": 1765000,
+      "system": 546000
+    },
+    "uptime": "204.42",
+    "timestamp": "2025-11-30T11:37:15.363Z"
+  },
+  {
+    "memoryUsage": "60.80",
+    "cpuUsage": {
+      "user": 1765000,
+      "system": 546000
+    },
+    "uptime": "205.43",
+    "timestamp": "2025-11-30T11:37:16.376Z"
+  },
+  {
+    "memoryUsage": "62.56",
+    "cpuUsage": {
+      "user": 1765000,
+      "system": 546000
+    },
+    "uptime": "206.45",
+    "timestamp": "2025-11-30T11:37:17.391Z"
+  },
+  {
+    "memoryUsage": "61.29",
+    "cpuUsage": {
+      "user": 1765000,
+      "system": 546000
+    },
+    "uptime": "207.45",
+    "timestamp": "2025-11-30T11:37:18.393Z"
+  },
+  {
+    "memoryUsage": "62.34",
+    "cpuUsage": {
+      "user": 1781000,
+      "system": 546000
+    },
+    "uptime": "208.45",
+    "timestamp": "2025-11-30T11:37:19.393Z"
+  },
+  {
+    "memoryUsage": "61.73",
+    "cpuUsage": {
+      "user": 1796000,
+      "system": 546000
+    },
+    "uptime": "209.47",
+    "timestamp": "2025-11-30T11:37:20.409Z"
+  },
+  {
+    "memoryUsage": "60.81",
+    "cpuUsage": {
+      "user": 1812000,
+      "system": 546000
+    },
+    "uptime": "210.48",
+    "timestamp": "2025-11-30T11:37:21.423Z"
+  },
+  {
+    "memoryUsage": "62.77",
+    "cpuUsage": {
+      "user": 1828000,
+      "system": 546000
+    },
+    "uptime": "211.48",
+    "timestamp": "2025-11-30T11:37:22.425Z"
+  },
+  {
+    "memoryUsage": "61.68",
+    "cpuUsage": {
+      "user": 1828000,
+      "system": 546000
+    },
+    "uptime": "212.48",
+    "timestamp": "2025-11-30T11:37:23.426Z"
+  },
+  {
+    "memoryUsage": "63.21",
+    "cpuUsage": {
+      "user": 1828000,
+      "system": 562000
+    },
+    "uptime": "213.49",
+    "timestamp": "2025-11-30T11:37:24.435Z"
+  },
+  {
+    "memoryUsage": "62.11",
+    "cpuUsage": {
+      "user": 1828000,
+      "system": 562000
+    },
+    "uptime": "214.50",
+    "timestamp": "2025-11-30T11:37:25.441Z"
+  },
+  {
+    "memoryUsage": "61.73",
+    "cpuUsage": {
+      "user": 1828000,
+      "system": 562000
+    },
+    "uptime": "215.51",
+    "timestamp": "2025-11-30T11:37:26.454Z"
+  },
+  {
+    "memoryUsage": "61.30",
+    "cpuUsage": {
+      "user": 1828000,
+      "system": 578000
+    },
+    "uptime": "216.51",
+    "timestamp": "2025-11-30T11:37:27.456Z"
+  },
+  {
+    "memoryUsage": "62.47",
+    "cpuUsage": {
+      "user": 1843000,
+      "system": 578000
+    },
+    "uptime": "217.51",
+    "timestamp": "2025-11-30T11:37:28.456Z"
+  },
+  {
+    "memoryUsage": "61.89",
+    "cpuUsage": {
+      "user": 1875000,
+      "system": 578000
+    },
+    "uptime": "218.51",
+    "timestamp": "2025-11-30T11:37:29.457Z"
+  },
+  {
+    "memoryUsage": "62.46",
+    "cpuUsage": {
+      "user": 1890000,
+      "system": 578000
+    },
+    "uptime": "219.53",
+    "timestamp": "2025-11-30T11:37:30.473Z"
+  },
+  {
+    "memoryUsage": "64.28",
+    "cpuUsage": {
+      "user": 1906000,
+      "system": 578000
+    },
+    "uptime": "220.54",
+    "timestamp": "2025-11-30T11:37:31.481Z"
+  },
+  {
+    "memoryUsage": "63.54",
+    "cpuUsage": {
+      "user": 1906000,
+      "system": 578000
+    },
+    "uptime": "221.55",
+    "timestamp": "2025-11-30T11:37:32.495Z"
+  },
+  {
+    "memoryUsage": "65.42",
+    "cpuUsage": {
+      "user": 1906000,
+      "system": 578000
+    },
+    "uptime": "222.56",
+    "timestamp": "2025-11-30T11:37:33.503Z"
+  },
+  {
+    "memoryUsage": "63.53",
+    "cpuUsage": {
+      "user": 1906000,
+      "system": 593000
+    },
+    "uptime": "223.57",
+    "timestamp": "2025-11-30T11:37:34.509Z"
+  },
+  {
+    "memoryUsage": "63.54",
+    "cpuUsage": {
+      "user": 1906000,
+      "system": 609000
+    },
+    "uptime": "224.58",
+    "timestamp": "2025-11-30T11:37:35.520Z"
+  },
+  {
+    "memoryUsage": "63.59",
+    "cpuUsage": {
+      "user": 1921000,
+      "system": 609000
+    },
+    "uptime": "225.58",
+    "timestamp": "2025-11-30T11:37:36.524Z"
+  },
+  {
+    "memoryUsage": "63.59",
+    "cpuUsage": {
+      "user": 1937000,
+      "system": 609000
+    },
+    "uptime": "226.59",
+    "timestamp": "2025-11-30T11:37:37.533Z"
+  },
+  {
+    "memoryUsage": "63.59",
+    "cpuUsage": {
+      "user": 1937000,
+      "system": 625000
+    },
+    "uptime": "227.60",
+    "timestamp": "2025-11-30T11:37:38.546Z"
+  },
+  {
+    "memoryUsage": "63.59",
+    "cpuUsage": {
+      "user": 1937000,
+      "system": 625000
+    },
+    "uptime": "228.61",
+    "timestamp": "2025-11-30T11:37:39.558Z"
+  },
+  {
+    "memoryUsage": "63.59",
+    "cpuUsage": {
+      "user": 1937000,
+      "system": 625000
+    },
+    "uptime": "229.63",
+    "timestamp": "2025-11-30T11:37:40.571Z"
+  },
+  {
+    "memoryUsage": "62.64",
+    "cpuUsage": {
+      "user": 1953000,
+      "system": 625000
+    },
+    "uptime": "230.63",
+    "timestamp": "2025-11-30T11:37:41.571Z"
+  },
+  {
+    "memoryUsage": "62.64",
+    "cpuUsage": {
+      "user": 1953000,
+      "system": 640000
+    },
+    "uptime": "231.64",
+    "timestamp": "2025-11-30T11:37:42.583Z"
+  },
+  {
+    "memoryUsage": "63.59",
+    "cpuUsage": {
+      "user": 1953000,
+      "system": 656000
+    },
+    "uptime": "232.65",
+    "timestamp": "2025-11-30T11:37:43.589Z"
+  },
+  {
+    "memoryUsage": "63.59",
+    "cpuUsage": {
+      "user": 1953000,
+      "system": 656000
+    },
+    "uptime": "233.66",
+    "timestamp": "2025-11-30T11:37:44.599Z"
+  },
+  {
+    "memoryUsage": "63.59",
+    "cpuUsage": {
+      "user": 1968000,
+      "system": 656000
+    },
+    "uptime": "234.67",
+    "timestamp": "2025-11-30T11:37:45.612Z"
+  },
+  {
+    "memoryUsage": "63.59",
+    "cpuUsage": {
+      "user": 1968000,
+      "system": 671000
+    },
+    "uptime": "235.68",
+    "timestamp": "2025-11-30T11:37:46.625Z"
+  },
+  {
+    "memoryUsage": "63.59",
+    "cpuUsage": {
+      "user": 1984000,
+      "system": 671000
+    },
+    "uptime": "236.69",
+    "timestamp": "2025-11-30T11:37:47.634Z"
+  },
+  {
+    "memoryUsage": "63.59",
+    "cpuUsage": {
+      "user": 2000000,
+      "system": 671000
+    },
+    "uptime": "237.70",
+    "timestamp": "2025-11-30T11:37:48.641Z"
+  },
+  {
+    "memoryUsage": "63.59",
+    "cpuUsage": {
+      "user": 2015000,
+      "system": 671000
+    },
+    "uptime": "238.71",
+    "timestamp": "2025-11-30T11:37:49.653Z"
+  },
+  {
+    "memoryUsage": "62.64",
+    "cpuUsage": {
+      "user": 2031000,
+      "system": 671000
+    },
+    "uptime": "239.72",
+    "timestamp": "2025-11-30T11:37:50.665Z"
+  },
+  {
+    "memoryUsage": "62.64",
+    "cpuUsage": {
+      "user": 2031000,
+      "system": 687000
+    },
+    "uptime": "240.73",
+    "timestamp": "2025-11-30T11:37:51.678Z"
+  },
+  {
+    "memoryUsage": "1464.58",
+    "cpuUsage": {
+      "user": 3593000,
+      "system": 1140000
+    },
+    "uptime": "243.34",
+    "timestamp": "2025-11-30T11:37:54.279Z"
+  },
+  {
+    "memoryUsage": "30.87",
+    "cpuUsage": {
+      "user": 3625000,
+      "system": 1218000
+    },
+    "uptime": "244.34",
+    "timestamp": "2025-11-30T11:37:55.281Z"
+  },
+  {
+    "memoryUsage": "33.23",
+    "cpuUsage": {
+      "user": 3625000,
+      "system": 1218000
+    },
+    "uptime": "245.35",
+    "timestamp": "2025-11-30T11:37:56.289Z"
+  },
+  {
+    "memoryUsage": "34.24",
+    "cpuUsage": {
+      "user": 3625000,
+      "system": 1234000
+    },
+    "uptime": "246.36",
+    "timestamp": "2025-11-30T11:37:57.299Z"
+  },
+  {
+    "memoryUsage": "35.73",
+    "cpuUsage": {
+      "user": 3625000,
+      "system": 1250000
+    },
+    "uptime": "247.36",
+    "timestamp": "2025-11-30T11:37:58.305Z"
+  },
+  {
+    "memoryUsage": "35.82",
+    "cpuUsage": {
+      "user": 3625000,
+      "system": 1265000
+    },
+    "uptime": "248.37",
+    "timestamp": "2025-11-30T11:37:59.314Z"
+  },
+  {
+    "memoryUsage": "38.86",
+    "cpuUsage": {
+      "user": 3625000,
+      "system": 1281000
+    },
+    "uptime": "249.38",
+    "timestamp": "2025-11-30T11:38:00.325Z"
+  },
+  {
+    "memoryUsage": "40.41",
+    "cpuUsage": {
+      "user": 3625000,
+      "system": 1281000
+    },
+    "uptime": "250.39",
+    "timestamp": "2025-11-30T11:38:01.336Z"
+  },
+  {
+    "memoryUsage": "41.89",
+    "cpuUsage": {
+      "user": 3625000,
+      "system": 1296000
+    },
+    "uptime": "251.41",
+    "timestamp": "2025-11-30T11:38:02.349Z"
+  },
+  {
+    "memoryUsage": "42.00",
+    "cpuUsage": {
+      "user": 3640000,
+      "system": 1296000
+    },
+    "uptime": "252.41",
+    "timestamp": "2025-11-30T11:38:03.354Z"
+  },
+  {
+    "memoryUsage": "44.51",
+    "cpuUsage": {
+      "user": 3656000,
+      "system": 1296000
+    },
+    "uptime": "253.42",
+    "timestamp": "2025-11-30T11:38:04.364Z"
+  },
+  {
+    "memoryUsage": "46.60",
+    "cpuUsage": {
+      "user": 3656000,
+      "system": 1312000
+    },
+    "uptime": "254.43",
+    "timestamp": "2025-11-30T11:38:05.370Z"
+  },
+  {
+    "memoryUsage": "48.09",
+    "cpuUsage": {
+      "user": 3656000,
+      "system": 1328000
+    },
+    "uptime": "255.44",
+    "timestamp": "2025-11-30T11:38:06.382Z"
+  },
+  {
+    "memoryUsage": "49.70",
+    "cpuUsage": {
+      "user": 3671000,
+      "system": 1328000
+    },
+    "uptime": "256.45",
+    "timestamp": "2025-11-30T11:38:07.397Z"
+  },
+  {
+    "memoryUsage": "51.25",
+    "cpuUsage": {
+      "user": 3687000,
+      "system": 1328000
+    },
+    "uptime": "257.46",
+    "timestamp": "2025-11-30T11:38:08.406Z"
+  },
+  {
+    "memoryUsage": "52.79",
+    "cpuUsage": {
+      "user": 3703000,
+      "system": 1328000
+    },
+    "uptime": "258.47",
+    "timestamp": "2025-11-30T11:38:09.415Z"
+  },
+  {
+    "memoryUsage": "54.29",
+    "cpuUsage": {
+      "user": 3718000,
+      "system": 1328000
+    },
+    "uptime": "259.48",
+    "timestamp": "2025-11-30T11:38:10.426Z"
+  },
+  {
+    "memoryUsage": "55.89",
+    "cpuUsage": {
+      "user": 3734000,
+      "system": 1328000
+    },
+    "uptime": "260.50",
+    "timestamp": "2025-11-30T11:38:11.441Z"
+  },
+  {
+    "memoryUsage": "56.90",
+    "cpuUsage": {
+      "user": 3750000,
+      "system": 1328000
+    },
+    "uptime": "261.51",
+    "timestamp": "2025-11-30T11:38:12.454Z"
+  },
+  {
+    "memoryUsage": "58.94",
+    "cpuUsage": {
+      "user": 3750000,
+      "system": 1328000
+    },
+    "uptime": "262.51",
+    "timestamp": "2025-11-30T11:38:13.455Z"
+  },
+  {
+    "memoryUsage": "42.90",
+    "cpuUsage": {
+      "user": 3765000,
+      "system": 1328000
+    },
+    "uptime": "263.53",
+    "timestamp": "2025-11-30T11:38:14.469Z"
+  },
+  {
+    "memoryUsage": "43.50",
+    "cpuUsage": {
+      "user": 3781000,
+      "system": 1328000
+    },
+    "uptime": "264.53",
+    "timestamp": "2025-11-30T11:38:15.479Z"
+  },
+  {
+    "memoryUsage": "45.10",
+    "cpuUsage": {
+      "user": 3796000,
+      "system": 1328000
+    },
+    "uptime": "265.55",
+    "timestamp": "2025-11-30T11:38:16.491Z"
+  },
+  {
+    "memoryUsage": "46.14",
+    "cpuUsage": {
+      "user": 3812000,
+      "system": 1328000
+    },
+    "uptime": "266.56",
+    "timestamp": "2025-11-30T11:38:17.502Z"
+  },
+  {
+    "memoryUsage": "47.64",
+    "cpuUsage": {
+      "user": 3828000,
+      "system": 1328000
+    },
+    "uptime": "267.57",
+    "timestamp": "2025-11-30T11:38:18.510Z"
+  },
+  {
+    "memoryUsage": "49.25",
+    "cpuUsage": {
+      "user": 3843000,
+      "system": 1328000
+    },
+    "uptime": "268.57",
+    "timestamp": "2025-11-30T11:38:19.516Z"
+  },
+  {
+    "memoryUsage": "50.79",
+    "cpuUsage": {
+      "user": 3843000,
+      "system": 1328000
+    },
+    "uptime": "269.58",
+    "timestamp": "2025-11-30T11:38:20.527Z"
+  },
+  {
+    "memoryUsage": "52.34",
+    "cpuUsage": {
+      "user": 3843000,
+      "system": 1328000
+    },
+    "uptime": "270.60",
+    "timestamp": "2025-11-30T11:38:21.539Z"
+  },
+  {
+    "memoryUsage": "52.35",
+    "cpuUsage": {
+      "user": 3859000,
+      "system": 1328000
+    },
+    "uptime": "271.61",
+    "timestamp": "2025-11-30T11:38:22.549Z"
+  },
+  {
+    "memoryUsage": "54.91",
+    "cpuUsage": {
+      "user": 3859000,
+      "system": 1328000
+    },
+    "uptime": "272.62",
+    "timestamp": "2025-11-30T11:38:23.560Z"
+  },
+  {
+    "memoryUsage": "56.99",
+    "cpuUsage": {
+      "user": 3859000,
+      "system": 1328000
+    },
+    "uptime": "273.63",
+    "timestamp": "2025-11-30T11:38:24.573Z"
+  },
+  {
+    "memoryUsage": "58.54",
+    "cpuUsage": {
+      "user": 3875000,
+      "system": 1328000
+    },
+    "uptime": "274.64",
+    "timestamp": "2025-11-30T11:38:25.587Z"
+  },
+  {
+    "memoryUsage": "60.07",
+    "cpuUsage": {
+      "user": 3875000,
+      "system": 1343000
+    },
+    "uptime": "275.66",
+    "timestamp": "2025-11-30T11:38:26.601Z"
+  },
+  {
+    "memoryUsage": "61.66",
+    "cpuUsage": {
+      "user": 3875000,
+      "system": 1359000
+    },
+    "uptime": "276.67",
+    "timestamp": "2025-11-30T11:38:27.614Z"
+  },
+  {
+    "memoryUsage": "63.22",
+    "cpuUsage": {
+      "user": 3890000,
+      "system": 1359000
+    },
+    "uptime": "277.68",
+    "timestamp": "2025-11-30T11:38:28.627Z"
+  },
+  {
+    "memoryUsage": "64.77",
+    "cpuUsage": {
+      "user": 3906000,
+      "system": 1359000
+    },
+    "uptime": "278.69",
+    "timestamp": "2025-11-30T11:38:29.638Z"
+  },
+  {
+    "memoryUsage": "66.31",
+    "cpuUsage": {
+      "user": 3906000,
+      "system": 1359000
+    },
+    "uptime": "279.71",
+    "timestamp": "2025-11-30T11:38:30.653Z"
+  },
+  {
+    "memoryUsage": "1860.82",
+    "cpuUsage": {
+      "user": 5453000,
+      "system": 1656000
+    },
+    "uptime": "282.08",
+    "timestamp": "2025-11-30T11:38:33.021Z"
+  },
+  {
+    "memoryUsage": "46.46",
+    "cpuUsage": {
+      "user": 5484000,
+      "system": 1765000
+    },
+    "uptime": "283.09",
+    "timestamp": "2025-11-30T11:38:34.030Z"
+  },
+  {
+    "memoryUsage": "46.54",
+    "cpuUsage": {
+      "user": 5484000,
+      "system": 1765000
+    },
+    "uptime": "284.10",
+    "timestamp": "2025-11-30T11:38:35.040Z"
+  },
+  {
+    "memoryUsage": "49.02",
+    "cpuUsage": {
+      "user": 5484000,
+      "system": 1781000
+    },
+    "uptime": "285.11",
+    "timestamp": "2025-11-30T11:38:36.051Z"
+  },
+  {
+    "memoryUsage": "49.92",
+    "cpuUsage": {
+      "user": 5500000,
+      "system": 1781000
+    },
+    "uptime": "286.12",
+    "timestamp": "2025-11-30T11:38:37.061Z"
+  },
+  {
+    "memoryUsage": "50.82",
+    "cpuUsage": {
+      "user": 5500000,
+      "system": 1781000
+    },
+    "uptime": "287.13",
+    "timestamp": "2025-11-30T11:38:38.072Z"
+  },
+  {
+    "memoryUsage": "50.22",
+    "cpuUsage": {
+      "user": 5500000,
+      "system": 1796000
+    },
+    "uptime": "288.13",
+    "timestamp": "2025-11-30T11:38:39.073Z"
+  },
+  {
+    "memoryUsage": "52.08",
+    "cpuUsage": {
+      "user": 5515000,
+      "system": 1796000
+    },
+    "uptime": "289.13",
+    "timestamp": "2025-11-30T11:38:40.078Z"
+  },
+  {
+    "memoryUsage": "53.78",
+    "cpuUsage": {
+      "user": 5515000,
+      "system": 1796000
+    },
+    "uptime": "290.14",
+    "timestamp": "2025-11-30T11:38:41.088Z"
+  },
+  {
+    "memoryUsage": "55.36",
+    "cpuUsage": {
+      "user": 5531000,
+      "system": 1796000
+    },
+    "uptime": "291.15",
+    "timestamp": "2025-11-30T11:38:42.093Z"
+  },
+  {
+    "memoryUsage": "48.09",
+    "cpuUsage": {
+      "user": 5531000,
+      "system": 1796000
+    },
+    "uptime": "292.16",
+    "timestamp": "2025-11-30T11:38:43.102Z"
+  },
+  {
+    "memoryUsage": "49.23",
+    "cpuUsage": {
+      "user": 5531000,
+      "system": 1812000
+    },
+    "uptime": "293.16",
+    "timestamp": "2025-11-30T11:38:44.104Z"
+  },
+  {
+    "memoryUsage": "50.16",
+    "cpuUsage": {
+      "user": 5531000,
+      "system": 1828000
+    },
+    "uptime": "294.17",
+    "timestamp": "2025-11-30T11:38:45.112Z"
+  },
+  {
+    "memoryUsage": "51.50",
+    "cpuUsage": {
+      "user": 5531000,
+      "system": 1828000
+    },
+    "uptime": "295.18",
+    "timestamp": "2025-11-30T11:38:46.127Z"
+  },
+  {
+    "memoryUsage": "52.42",
+    "cpuUsage": {
+      "user": 5531000,
+      "system": 1828000
+    },
+    "uptime": "296.19",
+    "timestamp": "2025-11-30T11:38:47.130Z"
+  },
+  {
+    "memoryUsage": "53.43",
+    "cpuUsage": {
+      "user": 5546000,
+      "system": 1828000
+    },
+    "uptime": "297.20",
+    "timestamp": "2025-11-30T11:38:48.141Z"
+  },
+  {
+    "memoryUsage": "54.46",
+    "cpuUsage": {
+      "user": 5546000,
+      "system": 1828000
+    },
+    "uptime": "298.21",
+    "timestamp": "2025-11-30T11:38:49.149Z"
+  },
+  {
+    "memoryUsage": "55.05",
+    "cpuUsage": {
+      "user": 5562000,
+      "system": 1828000
+    },
+    "uptime": "299.21",
+    "timestamp": "2025-11-30T11:38:50.149Z"
+  },
+  {
+    "memoryUsage": "57.74",
+    "cpuUsage": {
+      "user": 5578000,
+      "system": 1828000
+    },
+    "uptime": "300.21",
+    "timestamp": "2025-11-30T11:38:51.156Z"
+  },
+  {
+    "memoryUsage": "58.89",
+    "cpuUsage": {
+      "user": 5593000,
+      "system": 1828000
+    },
+    "uptime": "301.22",
+    "timestamp": "2025-11-30T11:38:52.164Z"
+  },
+  {
+    "memoryUsage": "50.87",
+    "cpuUsage": {
+      "user": 5593000,
+      "system": 1843000
+    },
+    "uptime": "302.22",
+    "timestamp": "2025-11-30T11:38:53.165Z"
+  },
+  {
+    "memoryUsage": "51.77",
+    "cpuUsage": {
+      "user": 5609000,
+      "system": 1843000
+    },
+    "uptime": "303.23",
+    "timestamp": "2025-11-30T11:38:54.176Z"
+  },
+  {
+    "memoryUsage": "51.21",
+    "cpuUsage": {
+      "user": 5609000,
+      "system": 1843000
+    },
+    "uptime": "304.23",
+    "timestamp": "2025-11-30T11:38:55.178Z"
+  },
+  {
+    "memoryUsage": "51.74",
+    "cpuUsage": {
+      "user": 5625000,
+      "system": 1843000
+    },
+    "uptime": "305.23",
+    "timestamp": "2025-11-30T11:38:56.179Z"
+  },
+  {
+    "memoryUsage": "51.22",
+    "cpuUsage": {
+      "user": 5640000,
+      "system": 1843000
+    },
+    "uptime": "306.25",
+    "timestamp": "2025-11-30T11:38:57.190Z"
+  },
+  {
+    "memoryUsage": "51.22",
+    "cpuUsage": {
+      "user": 5640000,
+      "system": 1843000
+    },
+    "uptime": "307.25",
+    "timestamp": "2025-11-30T11:38:58.192Z"
+  },
+  {
+    "memoryUsage": "51.75",
+    "cpuUsage": {
+      "user": 5656000,
+      "system": 1843000
+    },
+    "uptime": "308.25",
+    "timestamp": "2025-11-30T11:38:59.194Z"
+  },
+  {
+    "memoryUsage": "25.11",
+    "cpuUsage": {
+      "user": 5750000,
+      "system": 1843000
+    },
+    "uptime": "309.27",
+    "timestamp": "2025-11-30T11:39:00.209Z"
+  },
+  {
+    "memoryUsage": "26.77",
+    "cpuUsage": {
+      "user": 5765000,
+      "system": 1843000
+    },
+    "uptime": "310.27",
+    "timestamp": "2025-11-30T11:39:01.209Z"
+  },
+  {
+    "memoryUsage": "26.84",
+    "cpuUsage": {
+      "user": 5781000,
+      "system": 1843000
+    },
+    "uptime": "311.27",
+    "timestamp": "2025-11-30T11:39:02.210Z"
   }
 ]

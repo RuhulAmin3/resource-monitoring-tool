@@ -1,6 +1,10 @@
 import file from 'fs';
 
-export const saveMemoryUsage = () => {
+let io = null;
+
+export const saveMemoryUsage = (socketIO) => {
+    io = socketIO;
+
     setInterval(() => {
         const data = {
             memoryUsage: (process.memoryUsage().rss / (1024 * 1024)).toFixed(2),
@@ -19,7 +23,24 @@ export const saveMemoryUsage = () => {
         existingData.push(data);
 
         file.writeFileSync('data.json', JSON.stringify(existingData, null, 2));
+
+        // Emit real-time data to all connected clients via Socket.IO
+        if (io) {
+            const formattedData = {
+                memoryUsage: parseFloat(data.memoryUsage),
+                cpuUser: (data.cpuUsage.user / 1000).toFixed(2),
+                cpuSystem: (data.cpuUsage.system / 1000).toFixed(2),
+                uptime: parseFloat(data.uptime),
+                timestamp: new Date(data.timestamp).toLocaleTimeString()
+            };
+
+            io.emit('resource-update', formattedData);
+        }
     }, 1000);
+}
+
+export const attachSocketListener = (socketIO) => {
+    io = socketIO;
 }
 
 export const getResourceData = () => {
