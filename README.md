@@ -1,141 +1,179 @@
-# Resource Monitoring Tool
+# 📊 Resource Monitoring Tool
 
-A real-time system resource monitoring dashboard built with Node.js, Express.js, EJS, and Chart.js.
+![Project Dashboard](![alt text](./assets/image.png))
 
-## Features
+A real-time system resource monitoring dashboard built with **Node.js**, **Express.js**, **Socket.IO**, **Chart.js**, and **EJS**. Features a clean MVC architecture, real-time bidirectional communication, and beautiful responsive UI.
 
-✨ **Real-time Monitoring Dashboard**
-- Live memory usage tracking (in MB)
-- CPU usage monitoring (User and System time in ms)
-- Server uptime tracking
-- Automatic data refresh every 2 seconds
+## ✨ Key Features
 
-📊 **Interactive Charts**
-- Line charts for memory usage, CPU usage, and uptime
-- Doughnut chart for CPU breakdown
-- Responsive design that works on all devices
-- Beautiful gradient UI with smooth animations
+- **🔄 Real-time Monitoring** - Live system metrics with WebSocket updates (Socket.IO)
+- **📈 Interactive Charts** - 4 beautiful Chart.js visualizations updating in real-time
+- **🎨 Responsive Design** - Mobile-first UI with CSS Grid and Flexbox
+- **🏗️ MVC Architecture** - Clean separation of concerns with Models, Controllers, Routes, and Middleware
+- **⚡ Zero-Polling** - Bidirectional Socket.IO communication for instant updates
+- **💾 Data Persistence** - Automatic metrics storage in `data.json`
+- **📱 Cross-browser Support** - Works on all modern browsers
 
-🔄 **Auto Data Collection**
-- Automatically collects system metrics every second
-- Stores data in `data.json` for persistence
-- Shows last 60 data points on charts for better visualization
+## 🚀 Quick Start
 
-## Project Structure
+### Prerequisites
+- Node.js 14+ and npm installed
 
-```
-.
-├── server.js                 # Express server setup
-├── util.js                   # Utility functions for data collection
-├── package.json              # Project dependencies
-├── data.json                 # Resource metrics storage
-├── views/
-│   └── index.ejs            # EJS template with Chart.js dashboard
-├── public/                   # Static files (CSS, JS, images)
-└── README.md                # This file
-```
+### Installation
 
-## Installation
+1. **Clone or download the project**
+   ```bash
+   cd resource-monitoring-tool
+   ```
 
-1. Clone or download the project
-2. Install dependencies:
+2. **Install dependencies**
    ```bash
    npm install
    ```
 
-## Running the Server
+3. **Start the development server**
+   ```bash
+   npm run dev
+   ```
+   The server will start on `http://localhost:3000`
 
-### Development Mode (with auto-reload)
-```bash
-npm run dev
-```
+   **Production mode:**
+   ```bash
+   npm start
+   ```
 
-### Production Mode
-```bash
-npm start
-```
+## 📡 API Endpoints
 
-The server will start on `http://localhost:3000` (or PORT environment variable if set)
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| GET | `/` | API documentation landing page |
+| GET | `/api/resource-monitor` | Real-time dashboard with charts |
+| GET | `/health` | Health check endpoint |
+| GET | `/api/resource-data` | Get latest resource metrics (JSON) |
+| GET | `/api/statistics` | Get aggregated statistics |
+| GET | `/api/metrics/count` | Get total metrics count |
+| GET | `/heavy-task` | Trigger CPU-intensive operation (for testing) |
 
-## API Endpoints
-
-### GET `/`
-Renders the resource monitoring dashboard
-- Response: HTML page with interactive charts
-
-### GET `/api/resource-data`
-Returns the latest resource monitoring data
-- Response: JSON with arrays of memory, CPU, and uptime metrics
+### Example Response: `/api/resource-data`
 ```json
 {
-  "memoryUsage": [45.2, 45.3, ...],
-  "cpuUser": [0.078, 0.093, ...],
-  "cpuSystem": [0.046, 0.062, ...],
-  "uptime": [2.12, 4.12, ...],
-  "timestamps": ["10:33:52", "10:33:54", ...]
+  "timestamp": "2024-01-15T10:33:52.123Z",
+  "memory": {
+    "rss": 45.23,
+    "heapUsed": 28.15,
+    "heapTotal": 56.00
+  },
+  "cpu": {
+    "user": 150,
+    "system": 85
+  },
+  "uptime": 125.45
 }
 ```
 
-### GET `/health`
-Health check endpoint
-- Response: `{ "status": "Server is running" }`
+## 🏗️ Project Structure
 
-## Technologies Used
+```
+resource-monitoring-tool/
+├── server.js                                   # Application entry point
+├── package.json                                # Dependencies and scripts
+├── data.json                                   # Metrics storage
+├── src/
+│   ├── controllers/
+│   │   └── resource-monitor.controller.js      # Request handlers
+│   ├── utils/
+│   │   └── util.js                             # utils function
+│   └── views/
+│       ├── index.ejs                           # Dashboard template
+│       └── api-docs.ejs                        # API documentation UI
+└── README.md                                   # This file
+```
 
-- **Node.js**: JavaScript runtime
-- **Express.js**: Web framework (ES modules - `type: module`)
-- **EJS**: Template engine for rendering HTML
-- **Chart.js**: JavaScript charting library
-- **CSS3**: Modern styling with gradients and animations
+## 🔧 Technologies
 
-## Data Metrics Collected
+| Technology | Purpose | Version |
+|-----------|---------|---------|
+| **Node.js** | JavaScript runtime | Latest LTS |
+| **Express.js** | Web framework (ES Modules) | ^4.18.2 |
+| **Socket.IO** | Real-time bidirectional communication | ^4.8.1 |
+| **EJS** | Template engine | ^3.1.10 |
+| **Chart.js** | Interactive charts (CDN) | Latest |
+| **CSS3** | Responsive styling | Modern |
 
-- **Memory Usage**: RSS memory in MB (megabytes)
-- **CPU User Time**: User CPU time in microseconds
-- **CPU System Time**: System CPU time in microseconds
-- **Uptime**: Server uptime in seconds
-- **Timestamp**: Collection time in ISO format
+## 📊 Metrics Collected
 
-## Features Explanation
+- **Memory Usage**: RSS (Resident Set Size) in MB
+- **Heap Memory**: Used and Total heap in MB
+- **CPU Time**: User and System time in milliseconds
+- **Server Uptime**: Seconds since server start
+- **Timestamp**: ISO 8601 format collection time
 
-### Real-time Updates
-The dashboard fetches new data every 2 seconds and updates all charts without page refresh using Chart.js animation.
+*Metrics collected every 1 second and broadcast via Socket.IO*
 
-### Responsive Design
-The dashboard uses CSS Grid and Flexbox to adapt to different screen sizes, from mobile to desktop.
+## 🔌 Socket.IO Events
 
-### Memory Efficient
-Only the last 60 data points are displayed on charts to keep the dashboard responsive and memory-efficient.
+### Server → Client
+- **`initial-data`** - Send initial metrics on connection
+- **`resource-update`** - Send updated metrics every 1 second
 
-### Beautiful UI
-- Gradient background (purple theme)
-- Card-based layout with shadows and hover effects
-- Color-coded statistics
-- Pulse animation for the "live" indicator
+### Client → Server
+- **`connect`** - Connection established
+- **`disconnect`** - Client disconnected
 
-## Browser Compatibility
+## 💡 Usage Examples
 
-- Chrome/Chromium 45+
-- Firefox 45+
-- Safari 10+
-- Edge 12+
+### View Real-time Dashboard
+```
+http://localhost:3000/api/resource-monitor
+```
 
-## Environment Variables
+### API Documentation UI
+```
+http://localhost:3000/
+```
+Click any endpoint button to test it in a new tab
 
-- `PORT`: Server port (default: 3000)
+### Check Server Health
+```bash
+curl http://localhost:3000/health
+```
 
-## Notes
+### Get Current Metrics
+```bash
+curl http://localhost:3000/api/resource-data
+```
 
-- Data is stored in `data.json` and persists across server restarts
-- The chart updates smoothly without full page reloads
-- All times are displayed in local timezone
-- CPU times are converted from microseconds to milliseconds for readability
+## ⚙️ Configuration
 
-## Future Enhancements
+Environment variables (optional):
+- `PORT` - Server port (default: 3000)
+- `NODE_ENV` - Environment mode (development/production)
 
-- Add WebSocket support for real-time updates without polling
-- Export data as CSV/JSON
-- Add custom time range selection
-- Add alerts for high memory/CPU usage
-- Database integration for long-term storage
-- User authentication
+## 🎯 MVC Architecture Explanation
+
+This project follows the Model-View-Controller pattern:
+
+- **Views** (`src/views/`) - EJS templates for HTML rendering
+- **Controllers** (`src/controllers/`) - Request handlers and orchestration
+- **Utils** (`src/utils/`) - Utility functions (metric collection, calculations)
+
+## 📋 Development Commands
+
+```bash
+# Start development server (with auto-reload)
+npm run dev
+
+# Start production server
+npm start
+
+# Run tests
+npm test
+```
+
+## 👨‍💻 Author
+
+Created as part of Professional Backend Development Course
+
+---
+
+**Happy Monitoring! 🎉**
