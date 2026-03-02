@@ -8,14 +8,13 @@ export const heavyTask = (req, res) => {
         sum += i;
     }
     res.json({ result: sum });
-};
 
 
 export const getResourceData = (req, res) => {
     try {
         const data = getResourceData();
         res.json(data);
-    } catch (err) {
+    } catch
         console.error(err);
         res.status(500).json({ error: 'Failed to fetch resource data' });
     }
